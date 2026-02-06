@@ -1,0 +1,108 @@
+# Bestiary — Reference
+
+## 1. Overview
+
+- The bestiary consists of creatures created by aliens (heralds) using their Living Suits.
+- Not all entries were created by the same alien or at the same time; multiple aliens were sent to Earth at different times, and each could create new life forms.
+- Creation is done via the Living Suit (exoskeleton), which functions as a mobile laboratory: it can mix DNA of different creatures and produce new species or hybrids. Heralds create humanoid hybrids (e.g. werewolf, minotaur, horse-headed human) but do not create ordinary humans (or this is not recorded).
+- The secret organization (founded in Ancient Egypt) hunts for alien artifacts and the alien bestiary to obtain the ability to create such creatures.
+- Many of these hybrids were perceived as gods (e.g. zoomorphic gods in Ancient Egypt) and later influenced mythology (e.g. Greek).
+
+---
+
+## 2. Creation mechanics
+
+- Beasts/monsters are created by the alien’s Living Suit; the suit can replicate a creature it has “seen” or combine DNA (e.g. dog + cow + other elements, or adding wings).
+- Creating beasts consumes special energy of the exoskeleton; this energy is difficult to recharge. Depletion of this energy is a reason the protagonist entered hibernation.
+- The creatures are artificially created life forms; after death they decompose quickly but leave biomass (technical trait of such forms).
+
+---
+
+## 3. Physical and behavioral traits
+
+- **Build:** Powerful, dominant, very muscular. Height up to about 2 m 40 cm. Strong, resilient. Often described as huge, much taller than humans, with claws, fangs, and either scales or fur; eyes described as “really wild.”
+- **Temperament:** Wild. Behavior is strongly influenced by mixed DNA; they do not behave like ordinary humans.
+- **Sexuality:** Many hybrids (e.g. Werewolf, Lizardman, Centaur, Sphinx, Anubis) are described as very lustful toward each other and toward humans; sexual interest in humans and desire for contact or unions (including love) are noted.
+- **Sentience:** They are sentient: they have desires, emotions, fears, can speak, and can coexist with ordinary people. They lived alongside humans and in some eras (e.g. Ancient Egypt) were treated as divine or semi-divine.
+
+---
+
+## 4. Mortality and reproduction
+
+- **Immortality:** None of the bestiary creatures (human–animal hybrids, unicorns, pegasi, etc.) are immortal. They age and die.
+- **Life expectancy:** Varies by form; not specified per type.
+- **Reproduction:** They reproduce only with humans (copulation). All such creatures are male. Pregnancy from them is rare but possible; offspring are the same hybrid type (e.g. minotaur begets minotaur). Offspring grow relatively quickly compared to humans.
+- **Population:** Reproduction with humans was kept secret, especially by the hybrid/beast society. In the settlement (2070), very few monsters live among people, but they exist; all such species survived to the present through reproduction with humans.
+
+---
+
+## 5. Secrecy
+
+- Humans and monsters jointly keep the existence of monsters secret from the outside world.
+- Monsters can synthesize or use memory-erasure technology (or erase specific parts of memory). Used to: (1) erase memories of outsiders who have seen monsters, (2) erase parts of memory about monsters from anyone leaving the community. This supports keeping the secret.
+
+---
+
+## 6. Death and decomposition
+
+- Monsters die and decompose quickly; biomass remains after them (technical feature of artificially created life forms).
+
+---
+
+## 7. Bestiary by category
+
+### 7.1 Human–mammal hybrids
+
+**Canines:**  
+Werewolf (human + wolf). Cynocephalus (human with dog’s head; antiquity–Middle Ages). Anubis (human with jackal’s head; Ancient Egypt; created by protagonist). Fenrir Berserker (human–wolf; Scandinavian myths). Inugami (human possessed by dog spirit; Japan).
+
+**Felines:**  
+Sphinx (human + lion; Egypt and Greece). Manticore (lion + human + scorpion). Were Lion / Werelion (human–lion). Bastet (human–cat; Egypt). Leoninal (humanoid lion; D&D-style variant possible).
+
+**Equines:**  
+Centaur (human + horse; or reverse: horse with human head / human with horse head). Horseman (human body, muscular, horse head).
+
+**Ungulates:**  
+Minotaur (human + bull). Satyr (human + goat). Faun (Roman analogue of satyr). Human–deer (Wendigo-like; North American myths; alien in North America). Pan (god with goat horns). Human–moose (Siberian folklore).
+
+**Other mammals:**  
+Were Bear (human–bear). Human–pig. Human–ape (Yeti, Sasquatch). Hanuman (human + monkey; India). Human–bat (modern folklore). Ganesha (human–elephant).
+
+### 7.2 Human–bird hybrids
+
+Angel (human with bird wings). Harpy (woman + bird). Siren (woman + bird; early version). Hawkman (human–hawk; comics). Human–raven (Celtic myths). Tengu (human + raven; Japan). Human–owl.
+
+### 7.3 Marine creatures
+
+Mermaid (human with fish tail). Nix (water spirit). Selkie (human + seal). Human–dolphin. Human–shark. Human–octopus (with tentacles). Human–whale. Dagon (human + fish; ancient Semites / Lovecraft).
+
+### 7.4 Human–reptile hybrids
+
+Lizardman (human body + lizard, lizard head; created by protagonist; appears often). Naga (human + snake; India). Lamia (woman + snake). Medusa / Gorgon. Human–crocodile. Sobek (human with crocodile head; Egypt; created by our herald). Human–turtle.
+
+### 7.5 Insects
+
+Spider-man (human + spider; possibly spider limbs instead of legs; not the comic character). Arachne (spider–woman). Human–scorpion. Human–mantis.
+
+### 7.6 Mixed multi-component hybrids
+
+Chimera (lion + goat + snake). Griffin (lion + eagle). Manticore. Simurgh. Shedu (human, bull, wings). Lamassu. Seraphim (many appendages; not quite human-like; protagonist’s suit assistant is somewhat similar, possibly with long thick tentacles). Siphon. Echidna.
+
+### 7.7 Fully zoomorphic but sentient
+
+Unicorn (created in Middle Ages, England; has behavioral peculiarities, e.g. toward virgins). Pegasus (horse with wings). Phoenix. Cerberus. Hippocampus. Leviathan. Kirin. Qilin.
+
+### 7.8 Other
+
+**Beastfolk / Xenomorph hybrids:** Genetic hybrids of human and animal (the main type discussed). Variants possible: human–plant; human–mushroom.
+
+
+
+---
+
+## 8. Story and usage
+
+- **Notable creations by protagonist:** Werewolf, Minotaur, Anubis (Ancient Egypt; worshipped as a god), Lizardman, Sobek.
+- **Armies:** The protagonist (and possibly other heralds) created armies of beasts; these were used rarely to keep their existence secret. Example: defense against Apophis (a herald who became an antagonist) and his minions in Egypt.
+- **Settlement (2070):** A settlement of followers (e.g. “followers of Cleopatra”) guards the sleeping herald. Monsters exist there in small numbers; people and monsters keep the monsters’ existence secret and use memory erasure when needed.
+- **Alien appearance (without suit):** Aliens are not humanoid and not “classic alien”; they are described as beast-like, animal-like, and larger than humans. The suit has a distinctive, imposing form: multiple limbs (often four, sometimes two), prominent head and jaw; morphology varies by herald (some with flight capability, some without).
