@@ -1,4 +1,4 @@
-# Herald — The Awakening
+# Herald Project Wiki
 
 **Wiki & design documentation** for the game/story project *Herald*.
 
