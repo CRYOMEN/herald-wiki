@@ -2,13 +2,9 @@
 
 **Wiki & design documentation** for the game/story project *Herald*.
 
-> **Project status:** Work in progress. The story, world, and documentation are still evolving. We welcome your ideas and contributions.
+> **Project status:** Work in progress. The story, world, and documentation are still evolving. *Herald Wiki* is a living project and we’d love your input. Whether you want to suggest plot twists, flesh out a character, add to the bestiary, or fix a contradiction—your contributions are welcome. Open an issue or a pull request and join the story.
 
 ---
-
-## Contribute to the story
-
-*Herald Wiki* is a living project and we’d love your input. Whether you want to suggest plot twists, flesh out a character, add to the bestiary, or fix a contradiction—your contributions are welcome. Open an issue or a pull request and join the story.
 
 ## Listen to the wiki (audio summary)
 
