@@ -37,7 +37,7 @@
 
 ## 4. Backstory
 
-- **Origin:** 2070. Lives in a metropolis. Modest household with mother, grandmother. Parents divorced.
+- **Origin:** 2070. Lives in a metropolis. Modest household with mother, grandmother. Parents divorced. She is a distant descendant of the woman the herald loved in Ancient Egypt—but Jasmine does not know about her ancient past or past memory in her DNA.
 - **Key past events:** TBD
 - **Ties to the world:** Father is a rich mafioso who loves her but rarely shows or admits it. Family is tight-knit despite modest means.
 

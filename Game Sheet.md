@@ -8,8 +8,8 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 
 - **Title:** Herald — The Awakening
 - **Tagline:** TBD
-- **Logline:** An alien herald who once lived as a god in Ancient Egypt wakes in 2070 and must warn humanity about an approaching cosmic threat—but in a world without pharaohs or slaves, he must first learn who to trust and find friends.
-- **Premise:** An alien herald wakes in 2070 to warn Earth of a cosmic threat. The game is built on betrayal, friendship, and love: humanity has changed—no slaves, no pharaohs—and he must navigate this new world and find allies and friends.
+- **Logline:** An alien herald who once lived as a god in Ancient Egypt wakes in 2070 and must warn humanity about an approaching cosmic threat—but in a world without pharaohs or slaves, he must first learn who to trust and find friends. His homeworld is dying; his mission is to find a way to save both worlds—theirs and humanity's.
+- **Premise:** An alien herald wakes in 2070 to warn Earth of a cosmic threat that already began destroying his homeworld. The game is built on betrayal, friendship, and love: humanity has changed—no slaves, no pharaohs—and he must navigate this new world, find allies and friends, and ultimately discover how to save both his civilization and ours.
 - **Story answers / big questions:** This story offers an in-world explanation for: why dragons appeared in mythology across cultures; why the mythology of different countries and continents looks the way we know it today; and why humanity and civilizations developed the way we know today.
 - **Design pillars / vision (optional):** TBD
 - **Genre / tone:** 3dcg, adventure, animated, dystopian setting, humor, monster, tentacles, sci-fi, female protagonist, male protagonist, graphic violence, mobile game, monster girl, multiple endings, superpowers, multiple protagonist, paranormal, pov, rpg sandbox.
@@ -34,7 +34,7 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 
 - **Central conflict:** Cosmic threat vs humanity; secret org vs settlement; protagonist's mission vs his limits.
 - **Stakes:** If the protagonist fails, life will vanish.
-- **Antagonist(s) / opposing forces:** Cosmic threat (approaching Earth); secret organization (hunt alien tech; founded in Ancient Egypt). Link to [Characters](Characters/) for sheets.
+- **Antagonist(s) / opposing forces:** Cosmic threat (approaching Earth); secret organization (hunts both heralds themselves and their creations—artifacts and creatures).
 
 ---
 

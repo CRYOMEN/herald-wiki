@@ -5,7 +5,7 @@
 - The bestiary consists of creatures created by aliens (heralds) using their Living Suits.
 - Not all entries were created by the same alien or at the same time; multiple aliens were sent to Earth at different times, and each could create new life forms.
 - Creation is done via the Living Suit (exoskeleton), which functions as a mobile laboratory: it can mix DNA of different creatures and produce new species or hybrids. Heralds create humanoid hybrids (e.g. werewolf, minotaur, horse-headed human) but do not create ordinary humans (or this is not recorded).
-- The secret organization (founded in Ancient Egypt) hunts for alien artifacts and the alien bestiary to obtain the ability to create such creatures.
+- The secret organization (founded in Ancient Egypt) hunts both aliens  themselves and their creations: artifacts and creatures.
 - Many of these hybrids were perceived as gods (e.g. zoomorphic gods in Ancient Egypt) and later influenced mythology (e.g. Greek).
 
 ---
@@ -102,7 +102,8 @@ Unicorn (created in Middle Ages, England; has behavioral peculiarities, e.g. tow
 
 ## 8. Story and usage
 
-- **Notable creations by protagonist:** Werewolf, Minotaur, Anubis (Ancient Egypt; worshipped as a god), Lizardman, Sobek.
-- **Armies:** The protagonist (and possibly other heralds) created armies of beasts; these were used rarely to keep their existence secret. Example: defense against Apophis (a herald who became an antagonist) and his minions in Egypt.
+- **Notable creations by protagonist:** Werewolf, Minotaur, Anubis (Ancient Egypt; worshipped as a god), Lizardman, Sobek. The hero remained in Egypt throughout his time on Earth; he did not travel to remote regions to create creatures or build armies elsewhere.
+- **Creations by other heralds:** Other hybrids and monsters across the world were created by other heralds—for example, Arturas created creatures in England (including the Unicorn, during the Middle Ages). Each herald operated in their own region, which is why mythologies differ across cultures.
+- **Armies:** The protagonist created armies of beasts in Egypt; these were used rarely to keep their existence secret. Example: defense against Apophis (a herald who became an antagonist) and his minions in Egypt (the big war between Amun-Ra and Apophis).
 - **Settlement (2070):** A settlement of followers (e.g. “followers of Cleopatra”) guards the sleeping herald. Monsters exist there in small numbers; people and monsters keep the monsters’ existence secret and use memory erasure when needed.
 - **Alien appearance (without suit):** Aliens are not humanoid and not “classic alien”; they are described as beast-like, animal-like, and larger than humans. The suit has a distinctive, imposing form: multiple limbs (often four, sometimes two), prominent head and jaw; morphology varies by herald (some with flight capability, some without).

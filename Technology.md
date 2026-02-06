@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-- **Human technology (2070):** Tied to hardware and silicon. Robots and AI run on electricity; materials are metal, composite materials, and solid mineral components. Human exoskeletons are metal/iron, with a cockpit and fuel-based operation.
+- **Human technology (2070):** Tied to hardware and silicon. Robots and AI run on electricity; materials are metal, composite materials, and solid mineral components. Human exoskeletons are metal/iron, with a cockpit and fuel-based operation. **Note:** The 2070 world is not cyberpunk. It is a normal society with advanced technology, AI, and medicine—ordinary people living ordinary lives, just with high-end tech. No neon-lit dystopia or cyberpunk aesthetic.
 - **Alien technology:** Tied to bioengineering. Aliens are experts in how the body works, how cells function, and how to build and develop living bodies. The protagonist arrives on Earth with biotechnologies; the story is built on this knowledge.
 
 ---

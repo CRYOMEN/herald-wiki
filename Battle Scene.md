@@ -28,17 +28,17 @@ As the assistant activates the awakening procedure, the enemy begins blasting th
 
 The impact damages the hibernation systems—the mechanisms designed to safely bring the alien out of stasis and restore life functions to both the living suit and the alien himself. After 2000 years, the ancient systems were already fragile. Now they begin to malfunction.
 
-The capsule's systems start glitching. Instead of a controlled awakening, an aggressive collection of thermal energy from the surrounding space begins. The system drains energy rapidly, far faster than intended.
+Instead of a controlled awakening, it starts aggressively collecting thermal energy from the surrounding environment. Over the next roughly 15 minutes, energy accumulates far beyond what the system was designed to handle.
 
 ## The Freezing Begins
 
-The temperature starts dropping. First, the people inside the tomb—the enemy soldiers who broke through—freeze solid. Then the cold spreads outward.
+The temperature starts dropping. First, the people inside the tomb—the enemy soldiers who broke through—feel the biting cold. They do not freeze instantly; they try to retreat and find a safer place, but the cold is inescapable and they cannot get far enough in time.
 
 The settlement leader, still fighting, begins saving people. He closes some survivors in protective capsules to shield them from the freezing temperatures. Some will survive this way.
 
-The cold spreads further. People in the settlement start freezing—shivering, then freezing solid. There's nowhere to hide. The temperature continues to drop.
+The cold spreads further. People in the settlement start shivering, desperately seeking shelter—but there is nowhere safe enough to hide. The temperature continues to drop. People try to find cover but ultimately freeze and die.
 
-The cold reaches the attackers. The secret organization's soldiers begin freezing. Their antagonist leader realizes something has gone catastrophically wrong. He quickly hides inside military equipment to survive, understanding that if he doesn't take shelter now, he'll die.
+The cold reaches the attackers. The secret organization's soldiers begin freezing—they too scramble for protection but cannot escape the spreading cold. Their antagonist leader realizes something has gone catastrophically wrong. He quickly hides inside military equipment to survive, understanding that if he doesn't take shelter now, he'll die too.
 
 ## The Hurricane
 
@@ -50,7 +50,7 @@ The vortex spins with a diameter of 15 kilometers around the epicenter. The temp
 
 At the peak of the energy drain, the capsule breaks through to the surface, rising approximately 10 meters above the ground—a massive, ancient structure now visible to all.
 
-The capsule's systems overload from the massive energy surge. This overload triggers chaotic teleportation. With a special teleportation effect, the capsule disappears, vanishing into an unknown dimension.
+After roughly 15 minutes of accumulation, the energy reaches a critical threshold. The pod's systems overload from the massive energy surge. This overload triggers uncontrollable chaotic teleportation. With a special teleportation effect, the pod disappears, vanishing into an unknown dimension.
 
 ## Aftermath
 

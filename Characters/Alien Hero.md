@@ -24,7 +24,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** curious, idealistic, impulsive, naive; friendly, wants to help and improve others’; can flit between fixations; strong-willed.
-- **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive.
+- **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. His homeworld is dying—his mission is to save both worlds, theirs and humanity's.
 - **Fears:** Failure of the mission; loss of humanity; the cosmic threat. He often remembers his family, misses them deeply, and fears never seeing them again.
 - **Flaws / weaknesses:** Inexperienced; impulsive.
 - **Secrets or hidden need:** TBD.
@@ -34,7 +34,7 @@
 
 ## 4. Backstory
 
-- **Origin:** Another galaxy; a binary system of two planets. 
+- **Origin:** Another galaxy; a binary planet system. Single Sun.
 - **Key past events:** Childhood (in the binary system). Stole the suit and left for Earth (was not the chosen herald). Arrival in Ancient Egypt. First contact with people on Earth. Becoming a god in the eyes of the people and pharaohs. Battle with Apophis (and his minions). Intimate connection with several human women during his life in Egypt; intimate connection with Cleopatra and her concubine/slave. Decision to hibernate (during Cleopatra’s reign, before her death). Awakening in 2070 (malfunction, teleportation, then metropolis).
 - **Ties to the world:** (Skipped for now.)
 
@@ -42,7 +42,7 @@
 
 ## 5. Relationships
 
-- **Allies:** Some pharaohs. His suit assistant. Followers of Cleopatra. Most of his minions/creatures created with the suit (e.g. Anubis, Lizardman, Sobek). Jasmine.
+- **Allies:** Some pharaohs. His suit assistant. Followers of Cleopatra. Most of his minions/creatures created with the suit (e.g. Anubis, Sobek). Jasmine (eventual ally — see note below).
 - **Enemies:** Apophis. The secret organization.
 - **Dependents / others:** Pharaohs. His slaves. Jasmine. His created species (minions, beasts). His worshipers.
 - **Public perception (optional):** Ancient Egypt: god Amun-Ra; worshipers, pharaohs, strangers saw him as divine. In 2070: dragons are mythical creatures in the eyes of the world—but he is a dragon in reality (hidden, unknown to the public).
@@ -61,7 +61,7 @@
 
 - **Appearances:** One of the main characters—appears almost everywhere. 
 - **Plot function:** Protagonist; warn and save humanity from the cosmic threat; messenger from his dying civilization. In Ancient Egypt: god, teacher, defender (e.g. battle with Apophis). After awakening: hide, recover, find allies and friends, eventually deliver the message.
-- **Possible arcs:** Hidden functions in the suit (discovery). Conflict with the secret organization. Meeting his old friend from the homeworld (one of the heralds). First signs that the threat to Earth is very close. Jasmine is a descendant of his slave (the woman he loved); meeting her / that bloodline. Finding the reason why he mistakenly arrived in Ancient Egypt instead of a more advanced era.
+- **Possible arcs:** Hidden functions in the suit (discovery). Conflict with the secret organization. Meeting his old friend from the homeworld (one of the heralds). First signs that the threat to Earth is very close. Jasmine is a descendant of his slave (the woman he loved); meeting her / that bloodline. Finding the reason why he mistakenly arrived in Ancient Egypt instead of a more advanced era. **Important:** After crashing in the metropolis in 2070, the hero knows nothing about Jasmine—there is no connection between them at all at the start. He also does not know that his beloved modified her own DNA after his hibernation (she did it with the help of his suit assistant, after Cleopatra's death, while he was already sleeping).
 - **Archetype (optional):** Protagonist; messenger / herald.
 
 ---
