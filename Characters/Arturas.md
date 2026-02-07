@@ -1,4 +1,4 @@
-# Character Sheet - Herald (Northern Europe)
+# Character Sheet - Arturas
 
 ## 1. Identity
 
