@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-- **Human technology (2070):** Tied to hardware and silicon. Robots and AI run on electricity; materials are metal, composite materials, and solid mineral components. Human exoskeletons are metal/iron, with a cockpit and fuel-based operation. **Note:** The 2070 world is not cyberpunk. It is a normal society with advanced technology, AI, and medicine—ordinary people living ordinary lives, just with high-end tech. No neon-lit dystopia or cyberpunk aesthetic.
+- **Human technology (2070):** Tied to hardware and silicon. Robots and AI run on electricity; materials are metal, composite materials, and solid mineral components. Human exoskeletons are metal/iron, with a cockpit and fuel-based operation. **Note:** The 2070 world is not cyberpunk. It is a normal society with advanced technology, AI, and medicine-ordinary people living ordinary lives, just with high-end tech. No neon-lit dystopia or cyberpunk aesthetic.
 - **Alien technology:** Tied to bioengineering - pure "wetware." Aliens are experts in how the body works, how cells function, and how to build and develop living bodies. The protagonist arrives on Earth with biotechnologies; the story is built on this knowledge. Where human tech is rigid and dry (silicon, metal, plastic, wires pushing electricity to simulate thinking), the Herald's technology is alive: living organisms, biomass, symbiotic systems.
 
 ## 2. Human technology (2070)
@@ -24,10 +24,10 @@
 ### 3.1 Nature and appearance
 
 - The Living Suit is a **living organism** - a **symbiotic exoskeleton** that is alive and functions as an additional body. Think of it less like an Iron Man suit and more like a massive genetically engineered creature that you ride inside of. The alien sits inside it; what people see is the suit’s distinctive outward form.
-- **Connection interface:** The occupant controls the suit through a **neural interface** - they literally share a nervous system. The owner and suit function as **one**—direct sensorimotor feedback, not a “cockpit” experience. (Injury, exhaustion, or overload can propagate across the link.)
+- **Connection interface:** The occupant controls the suit through a **neural interface** - they literally share a nervous system. The owner and suit function as **one**-direct sensorimotor feedback, not a “cockpit” experience. (Injury, exhaustion, or overload can propagate across the link.)
 - **Typical form:** Imposing, non-humanoid - powerful build, roughly 2.4 meters tall, multiple limbs (often four, sometimes two), prominent head and massive jaw, thick armored skin. Morphology varies by herald.
 - **Variation between suits:** Different heralds have suits that differ in shape and look. Some variants have flight capability; others use different technology to move or fly.
-- **Self-modification:** Suits can self-modify within certain limits. For example, the occupant can change the suit's configuration—e.g. reduce appendages and move on four limbs only.
+- **Self-modification:** Suits can self-modify within certain limits. For example, the occupant can change the suit's configuration-e.g. reduce appendages and move on four limbs only.
 
 ### 3.2 Power and maintenance
 
@@ -53,9 +53,9 @@
 ## 4. Comparison summary
 
 | Aspect            | Human (2070)              | Alien                       |
-|-------------------|---------------------------|-----------------------------|
+|:------------------|:--------------------------|:----------------------------|
 | Basis             | Hardware, silicon         | Bioengineering, living bodies |
-| Materials        | Metal, composites, mineral| Living organism (suit), biomass |
+| Materials         | Metal, composites, mineral | Living organism (suit), biomass |
 | Power            | Electricity, fuel         | Consumption of food → energy and cells |
 | Exoskeleton      | Metal/iron, cockpit, fuel | Living suit, eats, heals, creates life |
 | “AI” / servants  | Software + robots (metal) | Created living beings that serve |

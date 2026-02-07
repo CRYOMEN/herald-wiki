@@ -35,7 +35,7 @@
 - **Allies:** [Alekandras](Alekandras.md) (old friend).
 - **Enemies:** TBD.
 - **Dependents / others:** knights, court, people of his region.
-- **Public perception (optional):** In tradition: King Arthur—legendary king, folk hero, central figure of the Matter of Britain (Camelot, Excalibur, Knights of the Round Table).
+- **Public perception (optional):** In tradition: King Arthur-legendary king, folk hero, central figure of the Matter of Britain (Camelot, Excalibur, Knights of the Round Table).
 
 ## 6. Abilities and equipment
 

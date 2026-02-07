@@ -18,7 +18,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** curious, idealistic, impulsive, naive; friendly, wants to help and improve others’; can flit between fixations; strong-willed.
-- **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. His [Homeworld](../Homeworld.md) is dying—his mission is to save both worlds.
+- **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. His [Homeworld](../Homeworld.md) is dying-his mission is to save both worlds.
 - **Fears:** Failure of the mission; loss of humanity; the cosmic threat. He often remembers his family, misses them deeply, and fears never seeing them again.
 - **Flaws / weaknesses:** Inexperienced; impulsive; reckless.
 - **Secrets or hidden need:** TBD.
@@ -45,7 +45,7 @@
 
 ## 7. Story usage
 
-- **Appearances:** One of the main characters—appears almost everywhere. 
+- **Appearances:** One of the main characters-appears almost everywhere. 
 - **Plot function:** Protagonist; warn and save humanity from the cosmic threat; messenger from his dying civilization. In Ancient Egypt: god, teacher, defender (e.g. battle with Apophis). After awakening: hide, recover, find allies and friends, eventually deliver the message.
 - **Possible arcs:** Hidden functions in the suit (discovery). Conflict with the secret organization. Meeting his old friend [Arturas](Arturas.md). First signs that the threat to Earth is very close. Finding the reason why he mistakenly arrived in Ancient Egypt instead of a more advanced era. **Important:** After crashing in the metropolis in 2070, the hero knows nothing about Jasmine. He also does not know that [Iras](Iras.md) modified her own DNA after his hibernation.
 - **Archetype (optional):** Protagonist; messenger / herald.
