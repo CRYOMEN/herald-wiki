@@ -1,4 +1,4 @@
-It's also very important to remember about this bestiary that these combinations of humans and animals, and also all kinds of unicorns and pegasus there—they were not immortal. They were not immortal at all. At some point they died. The most ordinary age, right, from age, I mean they grow old, they die.
+It's also very important to remember about this bestiary that these combinations of humans and animals, and also all kinds of unicorns and pegasus there-they were not immortal. They were not immortal at all. At some point they died. The most ordinary age, right, from age, I mean they grow old, they die.
 
 These combinations, these people and animals, right, combinations of people and animals, they actually could  reproduce. But they reproduced only with humans. I mean, well, basically, they had sex with a human, and the human gave birth to precisely, again, this combination, like the same werewolf, right, for example, the same thing.
 

@@ -2,7 +2,7 @@ So now let's talk a bit about Cleopatra's followers.
 
 Well, we all know Cleopatra, right? Very famous queen of Ancient Egypt, the last of the Ptolemies, if you know, and it was, January 13, 69 BC to August 10/12, 30 BC.
 
-What matters is that during her life, this herald quite often helped her. But then it was decided that he would go to sleep. And as a tribute of respect, as to her friend, because they were very good friends — not just acquaintances, but really close friends — she said: "Okay, guys, Amun-Ra, his tomb must be guarded, because he won't manage alone."
+What matters is that during her life, this herald quite often helped her. But then it was decided that he would go to sleep. And as a tribute of respect, as to her friend, because they were very good friends - not just acquaintances, but really close friends - she said: "Okay, guys, Amun-Ra, his tomb must be guarded, because he won't manage alone."
 
 I repeat again, he won't manage alone, because if this secret organization finds him, they'll just kill him and that's it, and they'll seize his technologies. And basically, humanity is in danger because of such people who hunt aliens for their own gain.
 

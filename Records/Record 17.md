@@ -1,6 +1,6 @@
 So, one more thing I forgot about our alien's suit. The thing is, this suit doesn't operate by itself. It has an assistant. Specifically for this suit. I mean, it's a special feature of alien suits.
 
-So this assistant allows for taking special measurements of this suit, it allows for detaching from the suit, being a separate unit. And this assistant—it's also alive, it's a living creature, and it can already think, it has fears, worries, emotions, possesses some knowledge, can acquire additional knowledge, can speak.
+So this assistant allows for taking special measurements of this suit, it allows for detaching from the suit, being a separate unit. And this assistant-it's also alive, it's a living creature, and it can already think, it has fears, worries, emotions, possesses some knowledge, can acquire additional knowledge, can speak.
 
 And this assistant is always loyal, 100% loyal to whoever is currently sitting inside the suit. In our case, this is our herald, right? So he sits inside the suit. Accordingly, this assistant is 100% loyal to him.
 

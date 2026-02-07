@@ -2,6 +2,6 @@ There was a young woman during Cleopatra's time. Cleopatra gives this woman to t
 
 And when the herald goes to sleep to wake up in 2070, this woman, obviously, has great love for the alien, but she can't do anything. I mean, it's clear that she'll grow old someday, and she'll also die, right, quite quickly already.
 
-In three years after Cleopatra's death she uses the herald's technology to create a special artifact and also to modify herself DNA. I mean, modify herself in such a way that subsequent generations—her children, then her grandchildren and so on—they could use it if they connect with this artifact in a certain way. All her thoughts, all her desires, memories, feelings for this herald—they awaken in a special way in that person, I mean in her descendants.
+In three years after Cleopatra's death she uses the herald's technology to create a special artifact and also to modify herself DNA. I mean, modify herself in such a way that subsequent generations-her children, then her grandchildren and so on-they could use it if they connect with this artifact in a certain way. All her thoughts, all her desires, memories, feelings for this herald-they awaken in a special way in that person, I mean in her descendants.
 
-And by the way, in 2070 her descendant lives—a woman named Jasmine.
+And by the way, in 2070 her descendant lives-a woman named Jasmine.

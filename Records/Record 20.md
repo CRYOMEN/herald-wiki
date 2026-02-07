@@ -8,7 +8,7 @@ Why do Earth's myths depict them in such different ways? Because the suits vary:
 
 Because these suits, living suits, exoskeletons, in which the real aliens sit, they're different in shape and look. Some have flight capability; another variation can be without it but has special technology that helps it move through the air. It depends on the herald.
 
-Moreover, these suits can also self-modify within certain limits. For example, the alien sitting inside may decide to change the suit's configuration—reduce appendages, switch to four limbs only, and so on. Those kinds of options.
+Moreover, these suits can also self-modify within certain limits. For example, the alien sitting inside may decide to change the suit's configuration-reduce appendages, switch to four limbs only, and so on. Those kinds of options.
 
 So, these aliens live on these two planets. They have an advanced civilization, advanced technologies, a kind of artificial intelligence, but it's not quite artificial intelligence. They can create living beings/species that can think, that can desire something, have their own needs, their own dreams. Well, basically, the same living beings as us humans, and so on. I mean, these created living beings just serve them a bit.
 
@@ -20,7 +20,7 @@ And the best minds of their civilization, all these scientists, engineers, they 
 
 So they realized that after these two sisters, this threat will fly to Earth and will also kill everyone there. And they decide to warn humanity and possibly even give them a chance, give them resistance, find a solution to this problem and survive.
 
-They find the very best of the best on their two planets, the chosen ones who can fly to Earth. They begin sending these heralds. So several so-called heralds were sent. I mean, herald—that's a messenger, right.
+They find the very best of the best on their two planets, the chosen ones who can fly to Earth. They begin sending these heralds. So several so-called heralds were sent. I mean, herald-that's a messenger, right.
 
 And it happened that one of the heralds, quite young, an inexperienced adult, is so impulsive, so naive, but he was so moved by this idea that humanity on Earth must be saved, that he also crawls, climbs without permission into this suit and sends himself to Earth. Contrary to how it should have actually happened, because a completely different alien was supposed to fly instead of him, one who was chosen for this.
 

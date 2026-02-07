@@ -1,4 +1,4 @@
-# Character Sheet — Iko
+# Character Sheet - Iko
 
 ## 1. Identity
 
@@ -9,14 +9,14 @@
 
 ## 2. Physical
 
-- **Build:** Non-humanoid. Described as tentacled, multi-limbed, sort of floating — a biological drone.
+- **Build:** Non-humanoid. Described as tentacled, multi-limbed, sort of floating - a biological drone.
 - **Distinctive traits:** Somewhat similar to a Seraphim (many appendages, not quite human-like), possibly with long, thick tentacles. Exact appearance TBD.
 - **Voice/speech (optional):** Can speak; sentient and articulate. Details TBD.
 - **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton that can detach and operate independently. See [Technology](../Technology.md).
 
 ## 3. Psychological / temperament
 
-- **Personality:** Sentient — can think, has fears, worries, emotions, possesses and can acquire knowledge. Loyal, dutiful, resourceful.
+- **Personality:** Sentient - can think, has fears, worries, emotions, possesses and can acquire knowledge. Loyal, dutiful, resourceful.
 - **Drives:** Serve and protect whoever is currently inside the suit. Keeps the suit owner alive and functional.
 - **Fears:** Has fears and worries (specifics TBD).
 - **Flaws / weaknesses:** TBD.
@@ -25,8 +25,8 @@
 
 ## 4. Backstory
 
-- **Origin:** A standard feature of aliens living suits — every suit comes with an assistant. Created as part of the alien biotechnology; not born or evolved naturally.
-- **Key past events:** Accompanied [Alekandras](Alekandras.md). Lived among the followers of Cleopatra, acting as a scout and companion to the settlement. Helped [Iras](Iras.md) use the suit's lab function to modify her own germline DNA — encoding memories of the past.
+- **Origin:** A standard feature of aliens living suits - every suit comes with an assistant. Created as part of the alien biotechnology; not born or evolved naturally.
+- **Key past events:** Accompanied [Alekandras](Alekandras.md). Lived among the followers of Cleopatra, acting as a scout and companion to the settlement. Helped [Iras](Iras.md) use the suit's lab function to modify her own germline DNA - encoding memories of the past.
 - **Ties to the world:** TBD.
 
 ## 5. Relationships

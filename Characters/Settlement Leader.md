@@ -1,11 +1,11 @@
-# Character Sheet — Settlement Leader
+# Character Sheet - Settlement Leader
 
 ## 1. Identity
 
 - **Name:** TBD.
 - **Alias(es):** "The Settlement Leader."
 - **Type:** Human
-- **Role:** Key supporting character — leader of the settlement of Cleopatra's followers that guards the Herald's tomb.
+- **Role:** Key supporting character - leader of the settlement of Cleopatra's followers that guards the Herald's tomb.
 - **Demographics (optional):** Age TBD. Gender: male. Occupation: community leader / military commander of the settlement.
 
 ## 2. Physical
@@ -13,12 +13,12 @@
 - **Build:** TBD.
 - **Distinctive traits:** TBD.
 - **Voice/speech (optional):** TBD.
-- **Morphology (if hybrid/alien):** N/A — human.
+- **Morphology (if hybrid/alien):** N/A - human.
 
 ## 3. Psychological / temperament
 
 - **Personality:** TBD.
-- **Drives:** Uphold the oath given by [Cleopatra](Cleopatra%20VII.md) — guard the Herald at the cost of their lives. Protect the settlement and its people.
+- **Drives:** Uphold the oath given by [Cleopatra](Cleopatra%20VII.md) - guard the Herald at the cost of their lives. Protect the settlement and its people.
 - **Fears:** Failure of the sacred mission; dishonoring the oath.
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** TBD.
@@ -27,7 +27,7 @@
 ## 4. Backstory
 
 - **Origin:** TBD.
-- **Key past events:** The Awakening — the defining event of his life. See [Battle Scene](../Battle%20Scene.md).
+- **Key past events:** The Awakening - the defining event of his life. See [Battle Scene](../Battle%20Scene.md).
 
 ## 5. Relationships
 

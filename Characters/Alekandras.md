@@ -1,9 +1,9 @@
-# Character Sheet — Alien Hero
+# Character Sheet - Alien Hero
 
 ## 1. Identity
 
-- **Name:** Alekandras (WIP — probable name idea).
-- **Alias(es):** Amun-Ra (what Ancient Egyptians called him); herald (title — one of the heralds).
+- **Name:** Alekandras (WIP - probable name idea).
+- **Alias(es):** Amun-Ra (what Ancient Egyptians called him); herald (title - one of the heralds).
 - **Type:** Dragon
 - **Role:** Protagonist (the herald the settlement guards; “our hero” / “our herald” in the notes).
 - **Demographics (optional):** Age unknown. Gender: male. Occupation: unknown. Education: unknown.
@@ -11,8 +11,8 @@
 ## 2. Physical
 
 - **Build:** Not humanoid; beast-like, animal-like, larger than humans.
-- **Distinctive traits:** Unknown (scars, markings, posture, voice, gait, tics, etc. — TBD).
-- **Voice/speech (optional):** Real voice unknown (languages, accent, pace, catchphrases — TBD or skip).
+- **Distinctive traits:** Unknown (scars, markings, posture, voice, gait, tics, etc. - TBD).
+- **Voice/speech (optional):** Real voice unknown (languages, accent, pace, catchphrases - TBD or skip).
 - **Morphology (if hybrid/alien):** Unknown.
 
 ## 3. Psychological / temperament
@@ -26,8 +26,8 @@
 
 ## 4. Backstory
 
-- **Origin:** The [Homeworld](../Homeworld.md) — a binary planet system in another galaxy.
-- **Key past events:** Childhood (in the binary system). Stole the suit and left for Earth (he was not the chosen herald). Arrival in Ancient Egypt. First contact with people on Earth. A god by an accident in the eyes of the people. Battle with [Apophis](Apophis.md) and his minions — a biomech civil war in the Nile Valley; Alekandras (Amun-Ra) won but only drove Apophis into hiding, not a definitive kill; the war drained his special energy to low levels. Intimate connection with several human women during his life in Egypt; intimate connection with [Cleopatra](Cleopatra%20VII.md) and her concubine/slave [Iras](Iras.md). Decision to hibernate — he calculated that in ~2,000 years humanity would reach a silicon era capable of understanding his message, targeting wake-up around 2200 (during Cleopatra’s reign, before her death). Awakening in 2070 (malfunction, accident teleportation, then metropolis — 130 years too early). After crashing in the metropolis, he hides in the sewers.
+- **Origin:** The [Homeworld](../Homeworld.md) - a binary planet system in another galaxy.
+- **Key past events:** Childhood (in the binary system). Stole the suit and left for Earth (he was not the chosen herald). Arrival in Ancient Egypt. First contact with people on Earth. A god by an accident in the eyes of the people. Battle with [Apophis](Apophis.md) and his minions - a biomech civil war in the Nile Valley; Alekandras (Amun-Ra) won but only drove Apophis into hiding, not a definitive kill; the war drained his special energy to low levels. Intimate connection with several human women during his life in Egypt; intimate connection with [Cleopatra](Cleopatra%20VII.md) and her concubine/slave [Iras](Iras.md). Decision to hibernate - he calculated that in ~2,000 years humanity would reach a silicon era capable of understanding his message, targeting wake-up around 2200 (during Cleopatra’s reign, before her death). Awakening in 2070 (malfunction, accident teleportation, then metropolis - 130 years too early). After crashing in the metropolis, he hides in the sewers.
 - **Ties to the world:** (Skipped for now.)
 
 ## 5. Relationships
@@ -35,7 +35,7 @@
 - **Allies:** Some pharaohs. [Iko](Iko.md). Followers of [Cleopatra](Cleopatra%20VII.md). Most of his minions/creatures created with the suit (e.g. Anubis, Sobek). [Jasmine](Jasmine.md) (eventual ally).
 - **Enemies:** [Apophis](Apophis.md). Possibly governments. The [secret organization](Secret%20Organization%20Leader.md).
 - **Dependents / others:** Pharaohs. TBD.
-- **Public perception (optional):** Ancient Egypt: god Amun-Ra; worshipers, pharaohs, strangers saw him as divine — the zoomorphic gods (figures with animal heads) were literal physical descriptions of the suits. In 2070: dragons are mythical creatures in the eyes of the world — but he is a dragon in reality (hidden and unknown to the public).
+- **Public perception (optional):** Ancient Egypt: god Amun-Ra; worshipers, pharaohs, strangers saw him as divine - the zoomorphic gods (figures with animal heads) were literal physical descriptions of the suits. In 2070: dragons are mythical creatures in the eyes of the world - but he is a dragon in reality (hidden and unknown to the public).
 
 ## 6. Abilities and equipment
 

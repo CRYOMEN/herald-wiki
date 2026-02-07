@@ -10,7 +10,7 @@ And then this absence of energy, thermal energy, it spreads further, further, fu
 
 And at some point we'll switch to a cutscene. This cutscene will show meteorologists, they'll see this anomaly. Well, imagine, I mean we have this hot desert with sand, and there suddenly unexpectedly forms a cold, cold, minus, I don't know, like 200 degrees cold air hurricane flow that spins like a vortex. Imagine, we'll need to show this on screen. They'll say: "Oh my God, what's even happening there?"
 
-And let's say, there, I don't know, with a radius of, I don't know, 10 km, 15 km this hurricane will be spinning there. And at some point we switch back to the main scene—everything's frozen there, there's a huge strong hurricane. No sun, naturally. Terrible strong lightning flashes, because such a big temperature imbalance is happening.
+And let's say, there, I don't know, with a radius of, I don't know, 10 km, 15 km this hurricane will be spinning there. And at some point we switch back to the main scene-everything's frozen there, there's a huge strong hurricane. No sun, naturally. Terrible strong lightning flashes, because such a big temperature imbalance is happening.
 
 And at some point the capsule breaks through to the surface from the enormous amount of energy, above the earth's surface. I mean, maybe 10 meters above the surface, I mean a huge thing like that. And at some point it disappears. Poof. And that's it. It teleported, it teleported to an unknown space.
 
