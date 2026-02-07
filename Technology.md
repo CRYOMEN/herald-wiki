@@ -24,7 +24,7 @@
 ### 3.1 Nature and appearance
 
 - The Living Suit is a **living organism** - a **symbiotic exoskeleton** that is alive and functions as an additional body. Think of it less like an Iron Man suit and more like a massive genetically engineered creature that you ride inside of. The alien sits inside it; what people see is the suit’s distinctive outward form.
-- **Pilot interface:** The occupant controls the suit through a **neural interface** - they literally share a nervous system. Pilot and suit function as **one**—direct sensorimotor feedback, not a “cockpit” experience. (Injury, exhaustion, or overload can propagate across the link.)
+- **Connection interface:** The occupant controls the suit through a **neural interface** - they literally share a nervous system. The owner and suit function as **one**—direct sensorimotor feedback, not a “cockpit” experience. (Injury, exhaustion, or overload can propagate across the link.)
 - **Typical form:** Imposing, non-humanoid - powerful build, roughly 2.4 meters tall, multiple limbs (often four, sometimes two), prominent head and massive jaw, thick armored skin. Morphology varies by herald.
 - **Variation between suits:** Different heralds have suits that differ in shape and look. Some variants have flight capability; others use different technology to move or fly.
 - **Self-modification:** Suits can self-modify within certain limits. For example, the occupant can change the suit's configuration—e.g. reduce appendages and move on four limbs only.

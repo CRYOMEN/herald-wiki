@@ -5,7 +5,7 @@
 - **Location:** Another galaxy, far from Earth.
 - **System:** A binary planet system orbiting a single sun - two planets sharing one star.
 - **Nature:** The Homeworld is a living, thriving biosphere - the origin of aliens culture.
-- **Current status:** Dying. The binary system is being consumed by the cosmic threat (see below). The Heralds launched missions to Earth - in a desperate effort to outrun and eventually counter this extinction.
+- **Current status:** Dying. The binary system is being consumed by the cosmic threat (see below). Aliens launched missions to Earth - in a desperate effort to outrun and eventually counter this extinction.
 
 ## 2. The Sister Planet Theory
 

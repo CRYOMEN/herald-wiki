@@ -14,7 +14,7 @@ An aggressive collection of thermal energy from the surrounding space begins. It
 
 And gradually, I mean first we'll show the settlement freezing, people there are already shivering from the cold, then the soldiers who attacked them freeze too. And gradually this capsule disappears from the sarcophagus. I mean, it will most likely appear on the surface so we can show this in the visuals.
 
-And then it disappears. At its peak, the capsule's systems overload, and this energy causes a teleportation to an unknown dimension. 
+At its peak, a huge amount of energy causes a teleportation anomaly to an unknown dimension. 
 
 And the last shot we'll show there is frozen people, frozen equipment, frozen water and so on. And that's it. That's all for now in this scene.
 

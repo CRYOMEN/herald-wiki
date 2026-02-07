@@ -8,7 +8,7 @@ So our main protagonist arrives on Earth not empty-handed, he arrives on Earth w
 
 The story begins with his Homeworld, which began to die. This is a cosmic threat that is now heading toward Earth. Our hero's mission is to warn humanity and find a solution to resist the extinction of both worlds.
 
-All this time he was awake right up until approximately 30 BC, to help humanity make a technological leap in development as quickly as possible. Then, two to three years before Cleopatra's death, he goes into hibernation to conserve the suit's energy and to wake up according to plan around the year 2200. But as you already know, the plan didn't work out.
+All this time he was awake right up until approximately 32-33 BC (two to three years before Cleopatra's death), to help humanity make a technological leap in development as quickly as possible. Then he goes into hibernation to conserve the suit's energy and to wake up according to plan around the year 2200. But as you already know, the plan didn't work out.
 
 And he is enclosed in a Living Suit. I mean, it's a living organism, right? I mean, it's an exoskeleton, but it's alive. I mean, also an additional body. So basically, our alien sits inside this suit, and this suit has a distinctive, imposing form-powerful build, multiple limbs, prominent head and jaw; the exact shape varies by herald, and some variants can fly.
 

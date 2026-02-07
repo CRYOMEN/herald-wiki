@@ -12,6 +12,6 @@ And at some point we'll switch to a cutscene. This cutscene will show meteorolog
 
 And let's say, there, I don't know, with a radius of, I don't know, 10 km, 15 km this hurricane will be spinning there. And at some point we switch back to the main scene-everything's frozen there, there's a huge strong hurricane. No sun, naturally. Terrible strong lightning flashes, because such a big temperature imbalance is happening.
 
-And at some point the capsule breaks through to the surface from the enormous amount of energy, above the earth's surface. I mean, maybe 10 meters above the surface, I mean a huge thing like that. And at some point it disappears. Poof. And that's it. It teleported, it teleported to an unknown space.
+And at some point the capsule breaks through to the surface from the enormous amount of energy, above the earth's surface. Maybe 10 meters above the surface. And at some point it sucked into a hole. Poof. And that's it. It teleported, it teleported to an unknown space.
 
 I mean, for the player it will look like this capsule just disappeared with some kind of special teleportation effect, and that's it. I mean, for us the most important thing is to intrigue the player. Intrigue the player that, this happened. And that's it. The scene ends there, and that's enough.

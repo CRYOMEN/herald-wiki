@@ -50,7 +50,7 @@ The vortex spins with a diameter of 15 kilometers around the epicenter. The temp
 
 At the peak of the energy drain, the capsule breaks through to the surface, rising approximately 10 meters above the ground—a massive, ancient structure now visible to all.
 
-After roughly 15 minutes of accumulation, the energy reaches a critical threshold. The pod's systems overload from the massive energy surge. This overload triggers uncontrollable chaotic teleportation. With a special teleportation effect, the pod disappears, vanishing into an unknown dimension.
+After roughly 15 minutes of accumulation, the energy reaches a critical threshold in one single point around the pod. The massive energy surge. This causes uncontrollable chaotic teleportation anomaly. The pod sucked into a hole, vanishing into an unknown dimension.
 
 ## Aftermath
 
