@@ -53,8 +53,8 @@
 ## 4. Comparison summary
 
 | Aspect            | Human (2070)              | Alien                       |
-||||
-| Basis            | Hardware, silicon         | Bioengineering, living bodies |
+|-------------------|---------------------------|-----------------------------|
+| Basis             | Hardware, silicon         | Bioengineering, living bodies |
 | Materials        | Metal, composites, mineral| Living organism (suit), biomass |
 | Power            | Electricity, fuel         | Consumption of food → energy and cells |
 | Exoskeleton      | Metal/iron, cockpit, fuel | Living suit, eats, heals, creates life |
