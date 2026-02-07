@@ -5,8 +5,6 @@
 - **Human technology (2070):** Tied to hardware and silicon. Robots and AI run on electricity; materials are metal, composite materials, and solid mineral components. Human exoskeletons are metal/iron, with a cockpit and fuel-based operation. **Note:** The 2070 world is not cyberpunk. It is a normal society with advanced technology, AI, and medicine—ordinary people living ordinary lives, just with high-end tech. No neon-lit dystopia or cyberpunk aesthetic.
 - **Alien technology:** Tied to bioengineering — pure "wetware." Aliens are experts in how the body works, how cells function, and how to build and develop living bodies. The protagonist arrives on Earth with biotechnologies; the story is built on this knowledge. Where human tech is rigid and dry (silicon, metal, plastic, wires pushing electricity to simulate thinking), the Herald's technology is alive: living organisms, biomass, symbiotic systems.
 
----
-
 ## 2. Human technology (2070)
 
 ### 2.1 General
@@ -20,8 +18,6 @@
 - **AI:** Much more advanced than in the present. Described as likely self-aware, able to understand itself, express thoughts, and act autonomously.
 - **Robots:** Platforms that AI can control. Made of metal and composite materials, running on electricity.
 - **AI “brains”:** Essentially computers; physically made of metal and composite materials.
-
----
 
 ## 3. Alien technology — Living Suit (exoskeleton)
 
@@ -54,12 +50,10 @@
 - **Role:** Takes measurements of the suit; can **detach** and act as a separate unit. Teaches the alien; knows a lot about technology.
 - **Loyalty:** Always 100% loyal to whoever is currently inside the suit.
 
----
-
 ## 4. Comparison summary
 
 | Aspect            | Human (2070)              | Alien                       |
-|------------------|---------------------------|------------------------------|
+||||
 | Basis            | Hardware, silicon         | Bioengineering, living bodies |
 | Materials        | Metal, composites, mineral| Living organism (suit), biomass |
 | Power            | Electricity, fuel         | Consumption of food → energy and cells |

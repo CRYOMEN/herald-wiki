@@ -1,6 +1,6 @@
 This is a transcription of the conversation regarding the "Awakening" dossier, which recontextualizes ancient Egyptian history and mythology through the lens of advanced alien bioengineering.
 
---------------------------------------------------------------------------------
+--
 Host 1: I have been staring at this file on my desk for I think the better part of two hours now just trying to figure out where to even begin.
 Host 2: It's a lot to take in.
 Host 1: It is. It's labeled "The Awakening," which after reading it feels like a massive understatement for what's actually inside.

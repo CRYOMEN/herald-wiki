@@ -2,8 +2,6 @@
 
 Use this file as a master template. Copy the structure into new files (one per character) or duplicate the sections when adding multiple characters to this file.
 
----
-
 ## 1. Identity
 
 - **Name:** [Name or primary alias]
@@ -12,16 +10,12 @@ Use this file as a master template. Copy the structure into new files (one per c
 - **Role:** [e.g. protagonist, antagonist, settlement leader, herald's assistant]
 - **Demographics (optional):** [Age, gender/pronouns, occupation, education; skip if not needed]
 
----
-
 ## 2. Physical
 
 - **Build:** [Height, build, distinctive physique]
 - **Distinctive traits:** [Scars, markings, posture, voice, gait, tics; eye/hair/skin, fashion, grooming if needed]
 - **Voice/speech (optional):** [Languages, accent, pace, catchphrases; skip if not needed]
 - **Morphology (if hybrid/alien):** [Suit form, creature type, or link to Bestiary/Technology — e.g. Living Suit, Anubis, Lizardman]
-
----
 
 ## 3. Psychological / temperament
 
@@ -32,15 +26,11 @@ Use this file as a master template. Copy the structure into new files (one per c
 - **Secrets or hidden need:** [What they want but fear to ask for; need vs want; shame; self-image vs others' view]
 - **Notable habits:** [Routines, quirks, tells]
 
----
-
 ## 4. Backstory
 
 - **Origin:** [Where they come from; culture, faction, or creation]
 - **Key past events:** [Turning points, formative experiences]
 - **Ties to the world:** [e.g. Cleopatra's followers, secret organization, herald's creations]
-
----
 
 ## 5. Relationships
 
@@ -49,15 +39,11 @@ Use this file as a master template. Copy the structure into new files (one per c
 - **Dependents / others:** [People or groups they protect, serve, or are responsible for]
 - **Public perception (optional):** [How strangers or the world see them; skip if not needed]
 
----
-
 ## 6. Abilities and equipment
 
 - **Skills:** [Combat, social, technical, or other relevant skills]
 - **Weapons / gear:** [Human tech, weapons, tools]
 - **Special capabilities:** [Living Suit abilities, hybrid traits, tech; link to Technology or Bestiary if needed]
-
----
 
 ## 7. Story usage
 
@@ -66,13 +52,9 @@ Use this file as a master template. Copy the structure into new files (one per c
 - **Possible arcs:** [Potential development or future plot hooks; internal/external conflicts, epiphanies]
 - **Archetype (optional):** [e.g. mentor, trickster; skip if not used]
 
----
-
 ## 8. Notes
 
 - [Quotes, timeline, cross-references to other notes (Battle Scene, Bestiary, Technology), or open notes]
-
----
 
 ## Example
 

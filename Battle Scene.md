@@ -58,8 +58,6 @@ The final shot: everything is frozen. Frozen people—settlers and attackers ali
 
 The battle is over. The alien is gone, teleported to an unknown location. Most are dead, frozen solid. Only a few survive—the settlement leader, a couple of other side characters, and the antagonist who hid in his equipment.
 
----
-
 ## Post-Battle Events
 
 After 12 days, the capsule reappears in the middle of a huge metropolis. A deafening sonic boom occurs, blowing out windows in a large radius. The capsule crashes into the ground, breaking through the sewage system and creating a crater.

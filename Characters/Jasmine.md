@@ -1,7 +1,5 @@
 # Character Sheet — Jasmine
 
----
-
 ## 1. Identity
 
 - **Name:** Jasmine
@@ -10,16 +8,12 @@
 - **Role:** Main character.
 - **Demographics (optional):** 21 years old in 2070. Female. High school student. Likes history. Moonlights as a dancer (ballet, belly dance) at a nightclub.
 
----
-
 ## 2. Physical
 
 - **Build:** 165 cm. Petite, slender, fragile-looking.
 - **Distinctive traits:** Long wavy golden (blonde) hair. Green eyes. Small, upturned nose. Thin neck. Pale, silky skin. Agile and flexible (dance, contortionist-capable). Often described as cute, elegant, fragile.
 - **Voice/speech (optional):** Languages: English (native), French. Pace: hesitant and soft; tends to speak slowly or with small pauses, and may trail off or drop volume when unsure; can rush or stumble over words when nervous. Catchphrases / verbal tics: “I don’t know…”, “Maybe…”, “Sorry” (often); “Um” or “Well…” when buying time; when she trusts someone, more “Right?” or “You know?” as she opens up.
 - **Morphology (if hybrid/alien):** N/A — human.
-
----
 
 ## 3. Psychological / temperament
 
@@ -33,15 +27,11 @@
 *Physical quirks:* Plays with her hair, avoids eye contact, fidgets (hands, hem, jewellery). Often slips into a subtly deferential, obedient demeanor -  feels an inherited pull toward yielding or pleasing others.
 *Tells:* When lying or hiding something: fidgeting increases, can’t hold eye contact, voice drops or trails off.
 
----
-
 ## 4. Backstory
 
 - **Origin:** 2070. Lives in a metropolis. Modest household with mother, grandmother. Parents divorced. She is the direct descendant of [Iras](Iras.md) — the woman [Alekandras](Alekandras.md) loved in the [Cleopatra](Cleopatra%20VII.md) era, a servant given to him by the queen. Iras modified her own germline DNA (with the help of [Iko](Iko.md), after Cleopatra's death), encoding memories, loyalty, and biological interface compatibility into her bloodline (see [Iras](Iras.md) for full details). Jasmine does not know about any of this; she walks around the city with a subconscious backup of a Ancient age life buried in her genetic code.
 - **Key past events:** TBD
 - **Ties to the world:** Father is a rich mafioso who loves her but rarely shows or admits it. Family is tight-knit despite modest means.
-
----
 
 ## 5. Relationships
 
@@ -50,15 +40,11 @@
 - **Dependents / others:** None.
 - **Public perception (optional):** At school: model student, possibly seen as shy. At the nightclub: seductive, mysterious (masked).
 
----
-
 ## 6. Abilities and equipment
 
 - **Skills:** Strong student (excels in studies, likes history). Dancing: ballet, belly dance; sensual and flexible performances; contortionist-capable.
 - **Weapons / gear:** None indicated.
 - **Special capabilities:** None (human). Except far ancestor life memory in her DNA.
-
----
 
 ## 7. Story usage
 

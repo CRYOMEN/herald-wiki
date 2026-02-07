@@ -2,8 +2,6 @@
 
 Use this file as the master plan/template for the game (or story) as a whole. Fill or update sections as the project develops.
 
----
-
 ## 1. Overview
 
 - **Title:** Herald — The Awakening
@@ -16,8 +14,6 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 - **Target audience (optional):** Predominantly male. Adult audience.
 - **Format (optional):** Video game, novel.
 
----
-
 ## 2. Setting
 
 - **World / universe:** Earth, 2070; with flashbacks to Ancient Egypt.
@@ -28,15 +24,11 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 - **People groups / factions:** Followers of Cleopatra; Secret Organization; Aliens from the [Homeworld](Homeworld.md); hidden monster society (descendants of heralds-created hybrids, living secretly among humans in 2070).
 - **Rules of the world (optional):** Some magic and mysticism; tech and physics are dominant. See [Technology](Technology.md), [Bestiary](Bestiary.md).
 
----
-
 ## 3. Core conflict and stakes
 
 - **Central conflict:** Cosmic threat vs humanity; secret org vs settlement; protagonist's mission vs his limits.
 - **Stakes:** If the protagonist fails, life will vanish.
 - **Antagonist(s) / opposing forces:** Cosmic threat (approaching Earth — see [Homeworld](Homeworld.md) for full details); Secret Organization (traces its origins to power-hungry humans who saw the alien's technology and wanted it for themselves; by 2070 they have evolved into a high-tech, incredibly wealthy paramilitary corporation); [Apophis](Characters/Apophis.md) (a rival alien who went rogue and was driven into hiding — status unknown, possibly still alive).
-
----
 
 ## 4. Main characters
 
@@ -46,20 +38,15 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 - **Key antagonist characters:** [Secret Organization Leader](Characters/Secret%20Organization%20Leader.md) (field commander).
 - **Character list / who returns (optional):** TBD.
 
----
-
 ## 6. Themes and tone
 
 - **Themes:** Love, friendship, sacrifice, humanity, duty, hope.
 - **Tone:** Epic, intimate, drama, hopeful, funny, comedy.
----
 
 ## 7. References and notes
 
 - **Inspiration sources (optional):** Stargate, Mass Effect, Avatar, Crysis.
 - **Core gameplay loop (optional, if game):** Explore scenes / talk to characters → make choices → advance story and relationships → unlock routes and endings. Repeat with different choices for multiple endings.
-
----
 
 ## 9. Art / aesthetics (optional)
 

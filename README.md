@@ -4,8 +4,6 @@
 
 > **Project status:** Work in progress. The story, world, and documentation are still evolving. *Herald Wiki* is a living project and we’d love your input. Whether you want to suggest plot twists, flesh out a character, add to the bestiary, or fix a contradiction—your contributions are welcome. Open an issue or a pull request and join the story.
 
----
-
 ## Listen to the wiki (audio summary)
 
 Prefer listening over reading? Here’s an AI-generated audio summary of the 
