@@ -9,7 +9,7 @@ Use this file as a master template. Copy the structure into new files (one per c
 - **Name:** [Name or primary alias]
 - **Alias(es):** [Other names, titles, or codenames; leave blank if none]
 - **Type:** [Human / hybrid / alien / other]
-- **Role:** [e.g. protagonist, antagonist, settlement leader, herald’s assistant]
+- **Role:** [e.g. protagonist, antagonist, settlement leader, herald's assistant]
 - **Demographics (optional):** [Age, gender/pronouns, occupation, education; skip if not needed]
 
 ---
@@ -28,8 +28,8 @@ Use this file as a master template. Copy the structure into new files (one per c
 - **Personality:** [Core traits, mannerisms]
 - **Drives:** [What they want; goals and motivations — external vs internal if useful]
 - **Fears:** [What they avoid or dread]
-- **Flaws / weaknesses:** [Fatal flaw, what they’re bad at, how they get in their own way]
-- **Secrets or hidden need:** [What they want but fear to ask for; need vs want; shame; self-image vs others’ view]
+- **Flaws / weaknesses:** [Fatal flaw, what they're bad at, how they get in their own way]
+- **Secrets or hidden need:** [What they want but fear to ask for; need vs want; shame; self-image vs others' view]
 - **Notable habits:** [Routines, quirks, tells]
 
 ---
@@ -38,7 +38,7 @@ Use this file as a master template. Copy the structure into new files (one per c
 
 - **Origin:** [Where they come from; culture, faction, or creation]
 - **Key past events:** [Turning points, formative experiences]
-- **Ties to the world:** [e.g. Cleopatra’s followers, secret organization, herald’s creations]
+- **Ties to the world:** [e.g. Cleopatra's followers, secret organization, herald's creations]
 
 ---
 
@@ -74,12 +74,6 @@ Use this file as a master template. Copy the structure into new files (one per c
 
 ---
 
-## Example (stub)
+## Example
 
-**Identity:** Settlement leader — human, leads the settlement of Cleopatra’s followers guarding the herald’s tomb.
-
-**Physical:** [Fill as needed.]
-
-**Story usage:** Battle Scene: The Awakening — mobilizes the settlement, refuses surrender, saves survivors in protective capsules during the freezing; survives the aftermath.
-
-**Notes:** “We couldn’t uphold our honor. Go to Amun-Ra, wake him up, and may he be with you.”
+See [Settlement Leader](Settlement%20Leader.md) for a filled-out example based on this template.

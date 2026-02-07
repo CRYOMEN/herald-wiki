@@ -28,7 +28,7 @@ As the assistant activates the awakening procedure, the enemy begins blasting th
 
 The impact damages the hibernation systems—the mechanisms designed to safely bring the alien out of stasis and restore life functions to both the living suit and the alien himself. After 2000 years, the ancient systems were already fragile. Now they begin to malfunction.
 
-Instead of a controlled awakening, it starts aggressively collecting thermal energy from the surrounding environment. Over the next roughly 15 minutes, energy accumulates far beyond what the system was designed to handle.
+Instead of a controlled awakening, it glitches and starts slowly collecting thermal energy from the surrounding environment. Over the next roughly 15 minutes, energy accumulates far beyond what the system was designed to handle.
 
 ## The Freezing Begins
 
@@ -62,6 +62,6 @@ The battle is over. The alien is gone, teleported to an unknown location. Most a
 
 ## Post-Battle Events
 
-After 12 days, the capsule reappears in the middle of a huge metropolis. A sonic boom occurs, blowing out windows in a large radius. The capsule crashes into the ground, breaking through the sewage system and creating a crater.
+After 12 days, the capsule reappears in the middle of a huge metropolis. A deafening sonic boom occurs, blowing out windows in a large radius. The capsule crashes into the ground, breaking through the sewage system and creating a crater.
 
 The alien manages to hide in the sewers. To cover his tracks as best they could, the assistant initiates the capsule's biomass decomposition process—it melts and drains into the sewer system, leaving only a frame behind in the crater for authorities to discover.
