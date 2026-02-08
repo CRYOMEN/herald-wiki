@@ -19,15 +19,15 @@
 
 - **Build:** Powerful, dominant, very muscular. Height up to about 2 m 40 cm. Strong, resilient. Often described as huge, much taller than humans, with claws, fangs, and either scales or fur; eyes described as “really wild.”
 - **Temperament:** Wild. Behavior is strongly influenced by mixed DNA; they do not behave like ordinary humans.
-- **Sexuality:** Many hybrids (e.g. Werewolf, Lizardman, Centaur, Sphinx, Anubis) are described as very lustful toward each other and toward humans; sexual interest in humans and desire for contact or unions (including love) are noted.
+- **Sexuality:** Many hybrids (e.g. Werewolf, Lizardman, Centaur, Sphinx, Anubis) are described as having a high libido toward each other and humans; sexual interest in humans and desire for contact or unions (including love) are noted. This also explains the romance aspect of so many ancient myths—the gods and monsters constantly seducing or coupling with humans.
 - **Sentience:** They are sentient: they have desires, emotions, fears, can speak, and can coexist with ordinary people. They lived alongside humans and in some eras (e.g. Ancient Egypt) were treated as divine or semi-divine.
 
 ## 4. Mortality and reproduction
 
 - **Immortality:** None of the bestiary creatures (human–animal hybrids, unicorns, pegasus, etc.) are immortal. They age and die. Because they are artificial constructs of the suit, when they die they decompose incredibly rapidly into a kind of biomass fluid - they revert back to their base proteins. This is why no hybrid skeletons are ever found in the archaeological record.
 - **Life expectancy:** Varies by form; not specified per type.
-- **Reproduction:** They reproduce only with humans (copulation). All such creatures are male. Pregnancy from them is rare but possible; offspring are the same hybrid type (e.g. minotaur begets minotaur). Offspring grow relatively quickly compared to humans.
-- **Population:** Reproduction with humans was kept secret, especially by the hybrid/beast society. In the settlement (2070), very few monsters live among people, but they exist; all such species survived to the present through reproduction with humans.
+- **Reproduction:** They can reproduce only with humans (copulation). Pregnancy from them is rare but possible. The hybrids were genetically compatible with humans. This was due to their DNA was partly sampled from humans—so they already shared human genetic material. Offspring are the same hybrid type (e.g. minotaur begets minotaur). Offspring grow relatively quickly compared to humans.
+- **Population:** In the settlement (2070), very few monsters live among people, but they exist; all such species survived to the present through reproduction with humans.
 
 ## 5. Secrecy
 

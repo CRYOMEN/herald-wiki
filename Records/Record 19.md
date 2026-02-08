@@ -12,7 +12,7 @@ But they also have several features. The first feature is the presence of monste
 
 It's important to understand that monsters are not immortal. They also die. Life expectancy varies for different forms. Very few monsters live in the settlement, but they definitely exist. All species of this kind survived to our time through reproduction with people.
 
-Monsters can talk. I mean, they converse with these people, interact. And obviously, they interract somehow. But here's what's important-monsters can reproduce by copulating with humans. All monsters are only male. Pregnancy from monsters is rare, but possible, so their numbers are small.
+Monsters can speak with humans and interact with them as social beings. More unusually, they are genetically compatible enough to reproduce with humans. Such pregnancies are rare, but possible, which is why their population remains small. This compatibility exists because the suit that created the monsters sampled human DNA and mixed it with local fauna, deliberately building them on a partially human genetic template.
 
 People and monsters keep a secret of monsters existance. I mean, they don't want the outside world to know about them. And here's how they manage to keep this fact secret: the monsters were able to synthesize memory erasure technology or erase specific parts of it. So if someone from the outside world sees the monsters, they can erase that memory. Or, if somebody wants to leave the community, pat of memory about monsters will be erased. This solves the secrecy problem.
 

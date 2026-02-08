@@ -5,7 +5,7 @@
 - **Name:** Cleopatra (the historical Cleopatra VII of the Ptolemaic dynasty).
 - **Alias(es):** Cleopatra.
 - **Type:** Human
-- **Role:** TBD.
+- **Role:** Queen of Egypt during the Ptolemaic period; close friend of [Alekandras](Alekandras.md). She knew him personally—knew he was not exactly a god but treated him as one because he was very strong and very smart; she respected him greatly. She gave [Iras](Iras.md) to him as a sacrifice; Iras became the connecting link between Amun-Ra and the court.
 - **Demographics (optional):** Female. Historical figure, Ptolemaic dynasty, died c. 30 BC.
 
 ## 2. Physical
@@ -21,13 +21,21 @@
 - **Drives:** TBD.
 - **Fears:** TBD.
 - **Flaws / weaknesses:** TBD.
-- **Secrets or hidden need:** TBD.
+- **Secrets or hidden need:** She knew [Alekandras](Alekandras.md) 
+himself—that he is a alien, even though it was to her to understad it, he is 
+not exactly a god—but treated and adored him as a god because he was very 
+strong and very smart; she respected him greatly.
 - **Notable habits:** TBD.
 
 ## 4. Backstory
 
 - **Origin:** Historical Cleopatra - queen of Egypt during the Ptolemaic dynasty.
-- **Key past events:** Gave one of her most precious servants - [Iras](Iras.md) - to [Alekandras](Alekandras.md) as a sacrifice to Amun-Ra. Before [Alekandras](Alekandras.md) entered hibernation (during her reign, before her death), Cleopatra ordered her most loyal followers to guard him until he wakes. This oath became the founding purpose of the settlement that persisted for over 2,000 years.
+- **Key past events:** Gave one of her most precious servants - [Iras](Iras.
+md) - to [Alekandras](Alekandras.md) as a sacrifice to Amun-Ra. Before 
+[Alekandras](Alekandras.md) entered hibernation (during her reign, before her 
+death), Cleopatra ordered her most loyal followers to guard him until he 
+wakes. This oath became the founding purpose of the settlement that persisted 
+for over 2,000 years.
 - **Ties to the world:** The followers of Cleopatra (the settlement community she founded by oath). [Alekandras](Alekandras.md) (the Herald she allied with).
 
 ## 5. Relationships

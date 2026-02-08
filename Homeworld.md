@@ -40,4 +40,3 @@ Earth is not just a random habitable planet. It is a biological sister to the Ho
 ## 7. Notes
 
 - The Homeworld is always spoken of as dying or already lost - the heralds are refugees as much as they are messengers.
-- Cross-references: [Technology](Technology.md), [Bestiary](Bestiary.md), [Game Sheet](Game%20Sheet.md), [Alekandras](Characters/Alekandras.md), [Apophis](Characters/Apophis.md).

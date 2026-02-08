@@ -2,16 +2,16 @@
 
 ## 1. Identity
 
-- **Name:** Iras.
-- **Alias(es):** None.
+- **Name:** Iras (not her real name—her real name is TBD; the name was given to her at [Cleopatra](Cleopatra%20VII.md)'s court).
+- **Alias(es):** None. The name **Iras** (comparable to Greek *Iris*) was given by people at court: in Greek mythology Iris is the goddess of the rainbow, messenger of the gods, mediator between heaven and earth—they named her thus because she became the connecting link, the messenger, between [Alekandras](Alekandras.md) (Amun-Ra) and the court.
 - **Type:** Human
-- **Role:** Key backstory character - the woman [Alekandras](Alekandras.md) loved in Ancient Egypt; the ancestor whose DNA modification created [Jasmine's](Jasmine.md) genetic legacy.
-- **Demographics (optional):** Female. Lived during the Ptolemaic dynasty, around the time of the historical [Cleopatra](Cleopatra%20VII.md).
+- **Role:** Key backstory character - the woman [Alekandras](Alekandras.md) loved in Ancient Egypt; the ancestor whose DNA modification created [Jasmine's](Jasmine.md) genetic legacy. At court she was the connecting link between Amun-Ra and the rest of Egypt (specifically the court and [Cleopatra](Cleopatra%20VII.md)).
+- **Demographics (optional):** Female. Originally from Scandinavian country. Captured as a prisoner around age ten and sold into slavery in Greece; at age fifteen began studying court etiquette; later resold to Cleopatra's court. Lived during the Ptolemaic dynasty, around the time of the historical [Cleopatra](Cleopatra%20VII.md) (during or before Cleopatra's reign).
 
 ## 2. Physical
 
-- **Build:** TBD.
-- **Distinctive traits:** TBD.
+- **Build:** Small in stature.
+- **Distinctive traits:** Long blonde hair; refined, beautiful; white skin. People in the area had never seen anyone like her—she was like a star in the black sky. In appearance, speech, and behavior she resembles [Jasmine](Jasmine.md) (who lived in 2070).
 - **Voice/speech (optional):** Soft-spoken; tended to speak slowly, with small pauses or trailing off when uncertain. Could rush or stumble over words when nervous. Grew warmer and more open - even playful - when she felt safe with someone.
 - **Morphology (if hybrid/alien):** N/A - human.
 
@@ -26,15 +26,15 @@
 
 ## 4. Backstory
 
-- **Origin:** A sacrifice presented to [Alekandras](Alekandras.md) by [Cleopatra](Cleopatra%20VII.md) herself.
-- **Key past events:** Formed a deep personal bond with [Alekandras](Alekandras.md). After Cleopatra's death, Iras with the help of the Suit Assistant modified her own germline DNA and encoded her past memories into her genes.
+- **Origin:** From Scandinavian countries; captured around age ten and sold into slavery in Greece. At fifteen she began studying court etiquette; she was then resold to Cleopatra's court. [Cleopatra](Cleopatra%20VII.md) presented her to [Alekandras](Alekandras.md) (Amun-Ra) as a great sacrifice—a very valuable gift, because her unusual appearance (blonde, refined, beautiful, white-skinned) was unique in the region; With such a special (in Egyptian culture) gift, Cleopatra wanted to secure [Alekandras](Alekandras.md) support.
+- **Key past events:** When brought to Alekandras, he treated her indifferently at first, then developed feelings for her. She became the connecting link between Amun-Ra and the court (and Cleopatra). People at court gave her the name Iras (messenger of the gods, mediator between heaven and earth). She and the dragon fell in love and had an intimate relationship. Formed a deep personal bond with [Alekandras](Alekandras.md). After Cleopatra's death, Iras with the help of [Iko](Iko.md) modified her own germline DNA and encoded her past memories into her genes.
 
 ## 5. Relationships
 
 - **Allies:** [Alekandras](Alekandras.md).
 - **Enemies:** None.
 - **Dependents / others:** TBD.
-- **Public perception (optional):** TBD.
+- **Public perception (optional):** At court she was seen as the connecting link, the messenger, between Amun-Ra and the rest of Egypt—hence the name Iras (like Iris, messenger of the gods).
 
 ## 6. Abilities and equipment
 
