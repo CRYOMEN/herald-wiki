@@ -37,7 +37,7 @@
 
 ### 3.3 Capabilities
 
-- **Life-form creation:** The suit is a mobile laboratory - a genetic synthesizer. It can sample DNA from the local environment, splice organisms together, and create new viable life forms. It can replicate a creature it has observed, or combine DNA (e.g. dog + cow + other elements, or adding wings) to create hybrids. It functions as a mobile laboratory for mixing DNA and creating new species. Creating these beings consumes the suit’s special energy (see above).
+- **Life-form creation:** The suit is a mobile laboratory - a genetic synthesizer. It can sample DNA from the local environment and create new viable life forms. It can replicate a creature it has observed, or combine DNA (e.g. dog + cow + other elements, or adding wings) to create hybrids. It functions as a mobile laboratory for mixing DNA and creating new species. Creating these beings consumes the suit’s special energy (see above).
 
 ### 3.6 Biomass decomposition
 
