@@ -27,12 +27,12 @@
 - **Immortality:** None of the bestiary creatures (human–animal hybrids, unicorns, pegasus, etc.) are immortal. They age and die. Because they are artificial constructs of the suit, when they die they decompose incredibly rapidly into a kind of biomass fluid - they revert back to their base proteins. This is why no hybrid skeletons are ever found in the archaeological record.
 - **Life expectancy:** Varies by form; not specified per type.
 - **Reproduction:** They can reproduce only with humans (copulation). Pregnancy from them is rare but possible. The hybrids were genetically compatible with humans. This was due to their DNA was partly sampled from humans—so they already shared human genetic material. Offspring are the same hybrid type (e.g. minotaur begets minotaur). Offspring grow relatively quickly compared to humans.
-- **Population:** In the settlement (2070), very few monsters live among people, but they exist; all such species survived to the present through reproduction with humans.
+- **Population:** In the settlement (2070), very few monsters live among people, but they exist; all such species survived to the present through reproduction with humans. In big cities in some countries.
 
 ## 5. Secrecy
 
 - Humans and monsters jointly keep the existence of monsters secret from the outside world.
-- In 2070, there is a very small but stable population of these monsters living secretly all around the world. Their society has a memory-erasure technology in rare cases to erase specific parts of memory. Used to: erase parts of memory about monster community from anyone leaving the community. This supports keeping the secret.
+- In 2070, there is a very small but stable population of these monsters living secretly all around the world. Their society has a memory-erasure technology in rare cases to modify or erase specific parts of memory. Used to: erase parts of memory about monster community from anyone leaving the community. This supports keeping the secret.
 
 ## 6. Death and decomposition
 

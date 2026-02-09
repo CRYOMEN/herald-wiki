@@ -18,7 +18,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** Deeply loyal, resourceful, and far-sighted. Deferential and yielding by upbringing - accustomed to serving. Kind, compassionate, willing to help others to her own detriment. Shy and reserved with strangers, but playful and lighthearted once she trusted someone.
-- **Drives:** Devotion to Cleopatra.
+- **Drives:** Devotion to Cleopatra. Love to Alekandras.
 - **Fears:** TBD.
 - **Flaws / weaknesses:** Tendency toward self-sacrifice to the point of self-neglect - she would erase her own needs for the sake of others. Drawn to powerful, dominant figures; potentially vulnerable to manipulation by strong personalities. Submissive and obedient in the face of authority, sometimes unable to assert her own will. Put others' needs before her own, often to her detriment.
 - **Secrets or hidden need:** TBD.
@@ -27,7 +27,7 @@
 ## 4. Backstory
 
 - **Origin:** From Scandinavian countries; captured around age ten and sold into slavery in Greece. At fifteen she began studying court etiquette; she was then resold to Cleopatra's court. [Cleopatra](Cleopatra%20VII.md) presented her to [Alekandras](Alekandras.md) (Amun-Ra) as a great sacrifice—a very valuable gift, because her unusual appearance (blonde, refined, beautiful, white-skinned) was unique in the region; With such a special (in Egyptian culture) gift, Cleopatra wanted to secure [Alekandras](Alekandras.md) support.
-- **Key past events:** When brought to Alekandras, he treated her indifferently at first, then developed feelings for her. She became the connecting link between Amun-Ra and the court (and Cleopatra). People at court gave her the name Iras (messenger of the gods, mediator between heaven and earth). She and the dragon fell in love and had an intimate relationship. Formed a deep personal bond with [Alekandras](Alekandras.md). After Cleopatra's death, Iras with the help of [Iko](Iko.md) modified her own germline DNA and encoded her past memories into her genes.
+- **Key past events:** When brought to Alekandras, he treated her indifferently at first, then developed feelings for her. She became the connecting link between Amun-Ra and the court (and Cleopatra). People at court gave her the name Iras (messenger of the gods, mediator between heaven and earth). She and the dragon fell in love and had an intimate relationship. Formed a deep personal bond with [Alekandras](Alekandras.md). Alexander's passing from Iras's life was a great shock to her. Her love for the alien was so strong that she couldn't accept such a loss. But she couldn't awaken him either, jeopardizing the survival of all humanity. However, [Iko](Iko.md) let it slip that the DNA, in a sense, contains the history of all our ancestors. Iras had the idea of ​​preserving her memory, even if it was vague in her descendants. In this way, she would immortalize her love for the dragon for centuries. [Iko](Iko.md) said this was possible if the DNA were modified. After Cleopatra's death, Iras with the help of [Iko](Iko.md) modified her own germline DNA and encoded her past memories into her genes.
 
 ## 5. Relationships
 

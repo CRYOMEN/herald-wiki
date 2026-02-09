@@ -42,9 +42,9 @@ The cold reaches the attackers. The secret organization's soldiers begin freezin
 
 ## The Hurricane
 
-The thermal energy drain creates a massive atmospheric anomaly. Meteorologists around the world detect something impossible: in the middle of a hot desert, a freezing hurricane vortex begins to form.
+The thermal energy drain creates a massive atmospheric anomaly. Meteorologists around the world detect something impossible: in the middle of a hot desert, a freezing hurricane vortex begins to form gradually. As the wind strengthens, the temperature starts to drop.
 
-The vortex spins with a diameter of 15 kilometers around the epicenter. The temperature drops to minus 200 degrees Celsius. A terrible storm rages-no sunlight penetrates the vortex, and powerful lightning flashes constantly due to the massive temperature imbalance.
+The vortex grows to a diameter of 15 kilometers around the epicenter; the temperature falls to minus 200 degrees Celsius. A terrible storm rages-no sunlight penetrates the vortex, and powerful lightning flashes constantly due to the massive temperature imbalance.
 
 ## The Teleportation
 

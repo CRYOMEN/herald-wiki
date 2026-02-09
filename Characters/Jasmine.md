@@ -29,7 +29,7 @@
 
 ## 4. Backstory
 
-- **Origin:** 2070. Lives in a metropolis. Modest household with mother, grandmother. Parents divorced. She is the direct descendant of [Iras](Iras.md) - the woman [Alekandras](Alekandras.md) loved in the [Cleopatra](Cleopatra%20VII.md) era, a servant given to him by the queen. Iras modified her own germline DNA (with the help of [Iko](Iko.md), after Cleopatra's death), encoding memories, loyalty, and biological interface compatibility into her bloodline (see [Iras](Iras.md) for full details). Jasmine does not know about any of this; she walks around the city with a subconscious backup of a Ancient age life buried in her genetic code.
+- **Origin:** 2070. Lives in a metropolis. Modest household with mother, grandmother. Parents divorced. She is the direct descendant of [Iras](Iras.md) - the woman [Alekandras](Alekandras.md) loved in the [Cleopatra](Cleopatra%20VII.md) era, a servant given to him by the queen. Iras modified her own germline DNA (with the help of [Iko](Iko.md), after Cleopatra's death), encoding memories into her bloodline (see [Iras](Iras.md) for full details). Jasmine does not know about any of this; she walks around the city with a subconscious backup of a Ancient age life buried in her genetic code.
 - **Key past events:** TBD
 - **Ties to the world:** Father is a rich mafioso who loves her but rarely shows or admits it. Family is tight-knit despite modest means.
 
@@ -49,5 +49,5 @@
 ## 7. Story usage
 
 - **Plot function:** Main character.
-- **Possible arcs:** Finding courage and agency; reconciling desire for approval with self-worth; discovery of her ancient genetic heritage and interface compatibility; connection to the alien; relationship with father.
+- **Possible arcs:** Finding courage and agency; reconciling desire for approval with self-worth; discovery of her ancient genetic heritage; connection to the alien; relationship with father.
 - **Archetype (optional):** innocent/seductress, lover, seeker.

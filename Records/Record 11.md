@@ -10,7 +10,7 @@ And at some point the leader of this settlement says: "Guys, we can't stand agai
 
 But something goes wrong. During the battle, one of the projectiles hits the tomb. The systems for bringing it out of hibernation and restoring the life functions of the living suit and the hero himself get damaged. The capsule continues its work with malfunctions. This system starts glitching. Because after all, 2000 years have passed. Obviously, nothing lasts forever.
 
-An aggressive collection of thermal energy from the surrounding space begins. It starts draining energy. I mean, it actually still needed this energy, but it started draining it quickly. As a result, everything around starts freezing. A powerful hurricane begins, a vortex forms with a diameter of 15 kilometers around the epicenter, the temperature gradually drops to minus 200 degrees.
+An aggressive collection of thermal energy from the surrounding space begins. It starts draining energy. I mean, it actually still needed this energy, but it started draining it quickly. As a result, everything around starts freezing. A huge heat imbalance created a powerful hurricane. As the wind gradually builds, the temperature starts to drop. The vortex grows to a diameter of 15 kilometers around the epicenter, and the temperature gradually falls to minus 200 degrees.
 
 And gradually, I mean first we'll show the settlement freezing, people there are already shivering from the cold, then the soldiers who attacked them freeze too. And gradually this capsule disappears from the sarcophagus. I mean, it will most likely appear on the surface so we can show this in the visuals.
 

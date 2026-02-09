@@ -27,7 +27,7 @@
 ## 4. Backstory
 
 - **Origin:** The [Homeworld](../Homeworld.md) - the binary planet system.
-- **Key past events:** Went rogue - the heralds were not a monolith; they had politics and disagreements. While [Alekandras](Alekandras.md) tried to guide humanity to build a civilization capable of resisting the threat, Apophis turned hostile. He created armies of serpent monsters and other beasts - designed to destroy everything [Alekandras](Alekandras.md) was building.  [Alekandras](Alekandras.md) won, but only drove Apophis into hiding - not a definitive kill. Apophis's current status is unknown.
+- **Key past events:** Eventually Apophis was corrupted by cosmic threat to sabotage the mission. Went rogue - the heralds were not a monolith; they had politics and disagreements. While [Alekandras](Alekandras.md) tried to guide humanity to build a civilization capable of resisting the threat, Apophis turned hostile. He created armies of serpent monsters and other beasts - designed to destroy everything [Alekandras](Alekandras.md) was building.  [Alekandras](Alekandras.md) won, but only drove Apophis into hiding - not a definitive kill. Apophis's current status is unknown.
 - **Ties to the world:** His creations (serpent creatures, other beasts) may still exist. His conflict with [Alekandras](Alekandras.md) shaped the Egyptian mythology of Ra vs. Apophis (sun vs. chaos).
 
 ## 5. Relationships
