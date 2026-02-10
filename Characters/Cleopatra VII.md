@@ -5,7 +5,7 @@
 - **Name:** Cleopatra (the historical Cleopatra VII of the Ptolemaic dynasty).
 - **Alias(es):** Cleopatra.
 - **Type:** Human
-- **Role:** Queen of Egypt during the Ptolemaic period; close friend of [Alekandras](Alekandras.md). She knew him personally—knew he was not exactly a god but treated him as one because he was very strong and very smart; she respected him greatly. She gave [Iras](Iras.md) to him as a sacrifice; Iras became the connecting link between Amun-Ra and the court.
+- **Role:** Queen of Egypt during the Ptolemaic period; close friend of [Alekandras](Alekandras.md).
 - **Demographics (optional):** Female. Historical figure, Ptolemaic dynasty, died c. 30 BC.
 
 ## 2. Physical
@@ -22,7 +22,7 @@
 - **Fears:** TBD.
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** She knew [Alekandras](Alekandras.md) 
-himself—that he is a alien, even though it was to her to understad it, he is 
+himself—that he is a alien, even though it was tough to her to understand it, he is 
 not exactly a god—but treated and adored him as a god because he was very 
 strong and very smart; she respected him greatly.
 - **Notable habits:** TBD.
