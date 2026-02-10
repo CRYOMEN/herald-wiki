@@ -10,10 +10,11 @@ Prefer listening over reading? Here’s an AI-generated audio summary of the
 wiki. *Note: the audio is a condensed overview and may differ from the 
 full documentation.*
 
-**[Listen to the wiki summary](Audio/wiki-summary.m4a)** *(wiki-summary.m4a)*
+https://github.com/user-attachments/assets/fb2ab315-791d-4c88-94ae-6944af656434
 
 ### Corrections to the audio
 
 The AI narration may get some details wrong. Use this section as a quick reference for what to ignore or correct when listening:
 
 - 
+
