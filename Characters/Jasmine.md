@@ -49,5 +49,5 @@
 ## 7. Story usage
 
 - **Plot function:** Main character.
-- **Possible arcs:** Finding courage and agency; reconciling desire for approval with self-worth; discovery of her ancient genetic heritage; connection to the alien; relationship with father.
+- **Possible arcs:** Finding courage and agency; reconciling desire for approval with self-worth; discovery of her ancient genetic heritage; connection to the alien; relationship with father; encounter with the artifact and awakening of ancestral memories.
 - **Archetype (optional):** innocent/seductress, lover, seeker.

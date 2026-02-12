@@ -30,12 +30,7 @@ strong and very smart; she respected him greatly.
 ## 4. Backstory
 
 - **Origin:** Historical Cleopatra - queen of Egypt during the Ptolemaic dynasty.
-- **Key past events:** Gave one of her most precious servants - [Iras](Iras.
-md) - to [Alekandras](Alekandras.md) as a sacrifice to Amun-Ra. Before 
-[Alekandras](Alekandras.md) entered hibernation (during her reign, before her 
-death), Cleopatra ordered her most loyal followers to guard him until he 
-wakes. This oath became the founding purpose of the settlement that persisted 
-for over 2,000 years.
+- **Key past events:** Gave one of her most precious servants - [Iras](Iras.md) - to [Alekandras](Alekandras.md) as a sacrifice to Amun-Ra. Before [Alekandras](Alekandras.md) entered hibernation (during her reign, before her death), Cleopatra ordered her most loyal followers to guard him until he wakes. This oath became the founding purpose of the settlement that persisted for over 2,000 years.
 - **Ties to the world:** The followers of Cleopatra (the settlement community she founded by oath). [Alekandras](Alekandras.md) (the Herald she allied with).
 
 ## 5. Relationships
