@@ -6,7 +6,7 @@
 - **Alias(es):** Maat-Ka-Ra (throne name, with two A's); wife of God Amun (religious title).
 - **Type:** Human
 - **Role:** Woman-pharaoh of the 18th dynasty (New Kingdom); key figure of the cult of Amun and Amun-Ra; intimate connection with [Alekandras](Alekandras.md) (Amun-Ra).
-- **Demographics (optional):** Female. Daughter of Pharaoh Thutmose I and  Queen Ahmose. Ruled Egypt in the 15th century BC; ascended to the throne around 1478 BC.
+- **Demographics (optional):** Female. Daughter of Pharaoh Thutmose I and Queen Ahmose. Ruled Egypt in the 15th century BC; ascended to the throne around 1478 BC.
 
 ## 2. Physical
 
