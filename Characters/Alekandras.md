@@ -2,50 +2,41 @@
 
 ## 1. Identity
 
-- **Name:** Alekandras (WIP - probable name idea).
-- **Alias(es):** Amun-Ra.
-- **Type:** Dragon
-- **Role:** Protagonist (the herald the settlement guards; “our hero” / “our herald” in the notes).
-- **Demographics (optional):** Age unknown. Gender: male. Occupation: unknown. Education: unknown.
+- **Name:** Alekandras.
+- **Alias(es):** Amun-Ra; The Hidden Sun; The Herald.
+- **Type:** Alien (Draconic/Beast-like).
+- **Role:** Main Protagonist.
 
-## 2. Physical
+## 2. Physical (Living Suit)
+- **Appearance:** In his symbiotic Living Suit, Alekandras appears as a massive, imposing draconic figure (approx. 2.4m tall). He has multiple limbs, thick scaly skin, and a powerful jaw.
+- **Flight:** His suit configuration allows for flight, during which his massive size can block the sun—a visual that contributed to his mythology as Amun-Ra.
 
-- **Build:** Not humanoid; beast-like, animal-like, larger than humans.
-- **Distinctive traits:** TBD.
-- **Voice/speech (optional):** TBD.
-- **Morphology (if hybrid/alien):** Unknown.
+## 3. Psychological / Temperament
 
-## 3. Psychological / temperament
-
-- **Personality:** curious, idealistic, impulsive, naive; friendly, wants to help and improve others’; can flit between fixations; strong-willed.
-- **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. His [Homeworld](../Homeworld.md) is dying-his mission is to save both worlds.
-- **Fears:** Fears never seeing his family again.
-- **Flaws / weaknesses:** Inexperienced; impulsive; reckless.
-- **Secrets or hidden need:** TBD.
-- **Notable habits:** TBD.
+- **Personality:** Curious, idealistic, impulsive, and initially naive. He possesses a strong-willed desire to help others and improve their society.
+- **Drives:** To warn humanity about the Cosmic Threat and save both Earth and his dying Homeworld.
+- **Flaws:** Inexperience and recklessness. His decision to "steal" the mission was born of a naive belief that he alone could save Earth.
 
 ## 4. Backstory
 
-- **Origin:** The [Homeworld](../Homeworld.md) - a binary planet system in another galaxy.
-- **Key past events:** Stole the suit and left for Earth (he was not the chosen herald). Arrival in Ancient Egypt around 3,200–3,000 BC (when humanity did not yet have the institution of pharaohs). First contact with people on Earth; he saw them undeveloped and decided to help them develop. He influenced development very secretly - he did not want to show himself to people - but gradually society in Egypt formed: first the institution of pharaohs (he pulled strings in secret), then pyramids (2,700–2,500 BC), Middle Kingdom (2,050–1,750 BC), New Kingdom (1,550–1,070 BC); all this flourishing was thanks to his knowledge, technology, and culture, which he brought from his home and which resembled his own. People already worshipped **Ra** - the sun god. As they gradually became acquainted with him (some feared him, some became his friends), they began to think he was **Amun** - the hidden god, the invisible source of existence. He flies; when he arrives he blocks the sun and appears like the sun (a dragon in the sky). He is hidden - few people see him because he wants to stay concealed so they do not know he actually exists. So they combined the two: **Amun-Ra**, the hidden sun, the divine source both visible (like Ra) and unseen (like Amun). The cult of Amun and Amun-Ra became central in Thebes and across Egypt. A god by accident in the eyes of the people. Battle with [Apophis](Apophis.md) and his minions - a biomech civil war in the Nile Valley; Alekandras (Amun-Ra) won but only drove Apophis into hiding, not a definitive kill; the war drained his special energy to low levels. Intimate connection with many human during his life in Egypt - over 3,000 years he passed through all the great epochs; he loved queens, priestesses, and perhaps ordinary noblewomen; each left a trace of her era in his heart. Named examples include [Hatshepsut](Hatshepsut.md) (woman-pharaoh, 18th dynasty, ~15th century BC) and later [Iras](Iras.md). Decision to hibernate - he calculated that in ~2,000 years humanity would reach a silicon era capable of understanding his message and possibly countering the threat, targeting wake-up around 2200. Awakening in 2070 (malfunction, accident teleportation, then metropolis - 130 years too early). After crashing in the metropolis, he hides in the sewers.
-- **Ties to the world:** TBD.
+- **Origins:** Born on a binary planet system in another galaxy. He was not the "chosen" Herald for the Earth mission but took the role impulsively when his world began to die.
+- **Ancient Egypt (3200 BC - 30 BC):**
+    - Arrived before the first Pharaohs and spent 3,000 years building the foundations of Egyptian statehood, culture, and science.
+    - Worshiped as **Amun-Ra**, the "Hidden God."
+    - Formed intimate romantic connections with historical figures, most notably **Hatshepsut** and **Iras**.
+- **Hibernation:** Entered deep sleep around 30 BC to conserve his suit's "Special Energy," which had been depleted during a war with the rogue Herald **Apophis**.
+- **Modern Era (2070 AD):** Woke up 130 years too early due to an attack by the Secret Organization. He now hides in the sewers of a modern metropolis, seeking to recover and fulfill his original mission.
 
 ## 5. Relationships
 
-- **Allies:** [Iko](Iko.md). Followers of [Cleopatra](Cleopatra%20VII.md). [Jasmine](Jasmine.md) (eventual ally).
-- **Enemies:** [Apophis](Apophis.md). The [secret organization](Secret%20Organization%20Leader.md).
-- **Dependents / others:** Pharaohs. TBD.
-- **Public perception (optional):** Amun-Ra in Ancient Egypt, worshipers, pharaohs, strangers saw him as divine - the zoomorphic gods (figures with animal heads) were literal physical descriptions of the suits. In 2070: dragons are mythical creatures in the eyes of the world - but he is a dragon in reality (hidden and unknown to the public).
+- **Iko:** His 100% loyal Suit Assistant. She is his scout, teacher, and oldest friend.
+- **Iras:** An ancient love; a Scandinavian woman who was his "mediator" to Cleopatra's court.
+- **Jasmine:** A modern descendant of Iras. Alekandras is unaware of her existence or her connection to his past love.
+- **Apophis:** His arch-enemy; a rival Herald who turned against the mission.
+- **The Secret Organization:** The modern antagonists who hunt him for his technology.
 
-## 6. Abilities and equipment
+## 6. Abilities
 
-- **Skills:** Mostly through the **Living Suit** (see Technology): life-form creation (DNA mixing, bestiary); biotech and healing; self-modification (e.g. limb configuration); flight (if suit variant has it); attack with claws, tail, horns; thick scaly form; great strength; high intelligence and speech; long-lived.
-- **Weapons / gear:** None (no human tech or tools). His “weapons” are mainly the Living Suit and its tech.
-- **Special capabilities:** Life-form creation (DNA mixing, bestiary; consumes special energy). Self-modification (suit can change configuration within limits, e.g. limb count). Biomass decomposition. See Technology, Bestiary.
-
-## 7. Story usage
-
-- **Appearances:** One of the main characters-appears almost everywhere. 
-- **Plot function:** Protagonist; warn and save humanity from the cosmic threat; messenger from his dying civilization. In Ancient Egypt: god, teacher, defender (e.g. battle with Apophis). After awakening: hide, recover, find allies and friends, eventually deliver the message.
-- **Possible arcs:** Hidden functions in the suit (discovery). Conflict with the secret organization. Meeting his old friend [Arturas](Arturas.md). First signs that the threat to Earth is very close. Finding the reason why he mistakenly arrived in Ancient Egypt instead of a more advanced era. **Important:** After crashing in the metropolis in 2070, the hero knows nothing about Jasmine. He also does not know that [Iras](Iras.md) modified her own DNA after his hibernation.
-- **Archetype (optional):** Protagonist; messenger / herald.
+- **Biotech Synthesis:** Through his Living Suit, he can create new life forms (the Bestiary) by sampling local DNA.
+- **Neural Link:** He shares a direct nervous system with his suit, allowing for perfect control but making him vulnerable to the suit's exhaustion or damage.
+- **Regeneration:** The suit heals through the consumption of organic matter.

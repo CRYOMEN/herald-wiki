@@ -1,51 +1,33 @@
 # Character Sheet - Arturas
 
 ## 1. Identity
+- **Name:** Arturas.
+- **Alias(es):** King Arthur; The Unifier; The High Herald.
+- **Type:** Alien (Draconic/Beast-like).
+- **Role:** Regional Herald (Northern Europe/England).
 
-- **Name:** Arturas (phonetic approximation; WIP).
-- **Alias(es):** King Arthur.
-- **Type:** Dragon.
-- **Role:** Herald.
-- **Demographics (optional):** Age unknown. Gender: male. Active in England, during the Middle Ages.
+## 2. Physical (Living Suit)
+- **Appearance:** A powerful, draconic build suited for the colder climates of Northern Europe.
+- **Distinctive Traits:** His suit was designed with thick, resilient hide and specialized appendages for combat in dense forests and rugged terrain.
 
-## 2. Physical
-
-- **Build:** Not humanoid; beast-like, animal-like, larger than humans.
-- **Distinctive traits:** TBD.
-- **Voice/speech (optional):** TBD.
-- **Morphology (if hybrid/alien):** TBD.
-
-## 3. Psychological / temperament
-
-- **Personality:** leader, unifier, defender.
-- **Drives:** TBD.
-- **Fears:** TBD.
-- **Flaws / weaknesses:** TBD.
-- **Secrets or hidden need:** TBD.
-- **Notable habits:** TBD.
+## 3. Psychological / Temperament
+- **Personality:** A born leader, unifier, and defender. Unlike the impulsive Alekandras, Arturas was known for his strategic mind and his ability to rally both humans and hybrids to a common cause.
+- **Drives:** To unify the disparate tribes of Northern Europe and prepare them for the Cosmic Threat.
 
 ## 4. Backstory
-
-- **Origin:** TBD.
-- **Key past events:** TBD.
-- **Ties to the world:** Arthurian legend; British/English folklore; Northern European mythology.
+- **Regional Landing:** Arturas landed in Northern Europe (modern-day England) at a later date than Alekandras.
+- **The Arthurian Legend:** His presence and the actions of his Living Suit formed the basis of the Arthurian legends. The "Knights of the Round Table" were, in reality, a coalition of humans and elite hybrids trained by Arturas.
+- **Bestiary Contributions:** Using his suit's genetic synthesizer, he created iconic creatures of European myth, including the **Unicorn** and the **Werewolf**.
+- **Modern Status:** His current location and status in 2070 are unknown, though Alekandras hopes to find his old friend and ally to assist in the final defense of Earth.
 
 ## 5. Relationships
+- **Alekandras:** A close friend and fellow Herald. They shared the same idealistic goal of saving Earth, though they operated in different eras and regions.
+- **Iko:** Arturas’ own Suit Assistant (details TBD) likely shared data with Iko during their missions.
 
-- **Allies:** [Alekandras](Alekandras.md) (old friend).
-- **Enemies:** TBD.
-- **Dependents / others:** knights, court, people of his region.
-- **Public perception (optional):** In tradition: King Arthur-legendary king, folk hero, central figure of the Matter of Britain (Camelot, Excalibur, Knights of the Round Table).
+## 6. Abilities
+- **Leadership & Tactics:** Arturas excelled at organizing human societies into efficient defensive units.
+- **Regional Bio-Synthesis:** Mastered the creation of equine and canine hybrids (Centaurs, Unicorns, Werewolves) using local European fauna.
 
-## 6. Abilities and equipment
-
-- **Skills:** TBD.
-- **Weapons / gear:** TBD.
-- **Special capabilities:** TBD.
-
-## 7. Story usage
-
-- **Appearances:** TBD.
-- **Plot function:** Another herald; regional counterpart to Alekandras (Egypt). Explains Northern European / Arthurian mythology and part of the global “unified theory” of monsters. Reunion with Alekandras in 2070.
-- **Possible arcs:** TBD.
-- **Archetype (optional):** TBD.
+## 7. Story Usage
+- **The Unified Theory:** Arturas serves as the primary example of how Heralds landing in different regions created divergent but related mythologies.
+- **Future Reunion:** A major plot point in the 2070 timeline involves Alekandras searching for signs that Arturas survived his mission.

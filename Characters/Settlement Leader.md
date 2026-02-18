@@ -1,54 +1,25 @@
 # Character Sheet - Settlement Leader
 
 ## 1. Identity
+- **Name:** Unknown (TBD).
+- **Alias(es):** The Guardian; The Keeper of the Oath.
+- **Type:** Human.
+- **Role:** Prologue Protagonist; Leader of the Followers of Cleopatra.
 
-- **Name:** TBD.
-- **Alias(es):** "The Settlement Leader."
-- **Type:** Human
-- **Role:** Key supporting character - leader of the settlement of Cleopatra's followers that guards the Herald's tomb.
-- **Demographics (optional):** Age TBD. Gender: male. Occupation: community leader / military commander of the settlement.
+## 2. Psychological / Temperament
+- **Personality:** Stoic, burdened, and fiercely loyal. He carries the weight of a two-thousand-year-old secret that most of his community only understands as myth.
+- **Drives:** To uphold the sacred oath given to Queen Cleopatra—to guard the Herald at any cost.
+- **Fears:** Being the one to finally fail a mission that has lasted for sixty generations.
 
-## 2. Physical
+## 3. Backstory
+- **Lineage:** Born into the inner circle of the Cleopatra settlement in the Egyptian desert. He was groomed from birth to take over the defense of the Herald’s tomb.
+- **The Siege (2070):** When the Secret Organization discovered the tomb, he led the desperate defense of the settlement. Realizing that his forces were outmatched by modern corporate hardware, he made the executive decision to abort the Herald's hibernation and initiate an emergency awakening.
+- **The Aftermath:** He is one of the few survivors of the "freezing vortex" that destroyed the settlement. His modern arc involves regrouping the remaining Followers and seeking out the Herald in the metropolis.
 
-- **Build:** TBD.
-- **Distinctive traits:** TBD.
-- **Voice/speech (optional):** TBD.
-- **Morphology (if hybrid/alien):** N/A - human.
+## 4. Relationships
+- **Iko:** His closest confidante and the only being who truly understands the technical reality of the Herald.
+- **Cleopatra VII:** His "spiritual" commander, whose ancient orders still dictate his every move.
+- **The Secret Organization Commander:** His personal rival and the man responsible for the destruction of his home.
 
-## 3. Psychological / temperament
-
-- **Personality:** TBD.
-- **Drives:** Uphold the oath given by [Cleopatra](Cleopatra%20VII.md) - guard the Herald at the cost of their lives. Protect the settlement and its people.
-- **Fears:** Failure of the sacred mission; dishonoring the oath.
-- **Flaws / weaknesses:** TBD.
-- **Secrets or hidden need:** TBD.
-- **Notable habits:** TBD.
-
-## 4. Backstory
-
-- **Origin:** TBD.
-- **Key past events:** The Awakening - the defining event of his life. See [Battle Scene](../Battle%20Scene.md).
-
-## 5. Relationships
-
-- **Allies:** TBD.
-- **Enemies:** The secret organization.
-- **Dependents / others:** TBD.
-- **Public perception (optional):** TBD.
-
-## 6. Abilities and equipment
-
-- **Skills:** TBD.
-- **Weapons / gear:** TBD.
-- **Special capabilities:** None (human).
-
-## 7. Story usage
-
-- **Appearances:** TBD.
-- **Plot function:** TBD.
-- **Possible arcs:** TBD.
-- **Archetype (optional):** TBD.
-
-## 8. Notes
-
-- TBD
+## 5. Significance
+The Settlement Leader represents the bridge between the ancient world and the high-tech future. He is the last of the "true believers" who understands that the myths of Egypt were based on a very real, very dangerous alien mission.

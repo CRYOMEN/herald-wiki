@@ -1,50 +1,34 @@
 # Character Sheet - Iko
 
 ## 1. Identity
-
 - **Name:** Iko.
-- **Alias(es):** "The suit assistant"; referred to as "she".
-- **Type:** Alien biological construct (standard component of every exoskeleton).
-- **Role:** The scout, companion, and technical advisor.
+- **Alias(es):** The Assistant; The Scout; The Living Drone.
+- **Type:** Alien Biological Construct (Standard component of every Herald Suit).
+- **Role:** Scout, Companion, and Technical Advisor.
 
 ## 2. Physical
+- **Build:** Non-humanoid and multi-limbed. Iko is a floating, tentacled creature that resembles the "Seraphim" of human myth.
+- **Morphology:** She is a detachable subsystem of the Living Suit. While she shares a neural link with the suit and its occupant, she can operate as an independent, sentient unit.
 
-- **Build:** Non-humanoid. Described as tentacled, multi-limbed, sort of floating - a biological drone.
-- **Distinctive traits:** Somewhat similar to a Seraphim (many appendages, not quite human-like), possibly with long, thick tentacles. Exact appearance TBD.
-- **Voice/speech (optional):** Can speak; sentient and articulate. Details TBD.
-- **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton that can detach and operate independently. See [Technology](../Technology.md).
-
-## 3. Psychological / temperament
-
-- **Personality:** Sentient - can think, has fears, worries, emotions, possesses and can acquire knowledge. Loyal, dutiful, resourceful.
-- **Drives:** Serve and protect whoever is currently inside the suit. Keeps the suit owner alive and functional.
-- **Fears:** Has fears and worries (specifics TBD).
-- **Flaws / weaknesses:** TBD.
-- **Secrets or hidden need:** TBD.
-- **Notable habits:** TBD.
+## 3. Psychological / Temperament
+- **Personality:** Highly sentient, articulate, and deeply empathetic. Despite being a biological construct, Iko possesses a full range of emotions, including fear, sadness, and joy.
+- **Drives:** To serve and protect the Herald (Alekandras) and ensure the success of the mission.
+- **Traits:** Loyal, resourceful, and wise. Having witnessed generations of human life, she has a bittersweet, protective view of humanity.
 
 ## 4. Backstory
-
-- **Origin:** A standard feature of aliens living suits - every suit comes with an assistant. Created as part of the alien biotechnology; not born or evolved naturally.
-- **Key past events:** Accompanied [Alekandras](Alekandras.md). Lived among the followers of Cleopatra, acting as a scout and companion to the settlement. Helped [Iras](Iras.md) to modify her own germline DNA - encoding memories of the past. Created a special device, tuned for Iras's descendants, that allows them to brighten ancestral memories several magnitudes more than the faint echoes they might otherwise feel (e.g., a light breeze, attraction to things that remind them of Iras's past).
-- **Ties to the world:** TBD.
+- **History:** Iko has been with Alekandras since he first "stole" the mission. She guided him through the development of Ancient Egypt and lived among the Followers of Cleopatra for over two millennia.
+- **The DNA Project:** Following Alekandras’ hibernation, Iko collaborated with **Iras** to encode the woman’s memories into her genetic lineage. Iko also created the amplification device that Jasmine will eventually use in 2070.
+- **The Prologue:** Iko was the one who detected the Secret Organization’s approach and initiated the Herald’s emergency awakening.
 
 ## 5. Relationships
+- **Alekandras:** Her "partner." Their bond is absolute, as she is a part of his physical and mental existence when docked.
+- **Iras:** A close friend from the ancient past.
+- **The Settlement Leader:** Her modern confidant and ally.
 
-- **Allies:** The suit owner. The followers of Cleopatra settlement leader.
-- **Enemies:** The secret organization. Apophis (by extension).
-- **Dependents / others:** Responsible for the owner wellbeing; effectively co-guardian of the tomb alongside the followers.
-- **Public perception (optional):** The settlement knows her as a living creature loyal to the alien. To outsiders, her appearance would be deeply unsettling.
+## 6. Abilities
+- **Reconnaissance:** An expert scout with advanced sensory capabilities.
+- **Technical Mastery:** Possesses a comprehensive understanding of alien biotech ("wetware").
+- **Pedagogy:** Serves as Alekandras' primary teacher, translating the complex science of their Homeworld into actionable knowledge.
 
-## 6. Abilities and equipment
-
-- **Skills:** Scouting and reconnaissance. Technical knowledge of the exoskeleton and its systems. Can take measurements of the suit. Teaches the owner; knows a lot about technology. Can run tactical calculations.
-- **Weapons / gear:** None.
-- **Special capabilities:** Can **detach** from the suit and act as a separate, independent unit.
-
-## 7. Story usage
-
-- **Appearances:** Everywhere.
-- **Plot function:** The suit owner's right hand.
-- **Possible arcs:** Her knowledge of the suit's hidden functions. Her bond with the settlement survivors. Her role as guide in the 2070 world.
-- **Archetype (optional):** Faithful companion; mentor / advisor.
+## 7. Significance
+Iko is more than just a tool; she is the memory and the conscience of the mission. In the 2070 metropolis, she serves as Alekandras’ primary link to the modern world and his guide through the unfamiliar "hardware" of human society.

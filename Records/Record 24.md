@@ -1,7 +1,0 @@
-There was a young woman during Cleopatra's time. Her name was Iras. Cleopatra gives this woman to Alekandras as a great gift to be sacrificed to him as a god. I mean, he could have just eaten her. But he decides not to eat her, he simply falls in love with her.
-
-The herald went into hibernation approximately 2 to 3 years before Cleopatra's death, around 32-33 BC. Iras remained behind. She had great love for the alien, but she could do nothing to join him. I mean, it's clear that she'll grow old someday, and she'll also die, right, quite quickly already.
-
-After Cleopatra's death (around 30 BC), approximately three years after the herald entered hibernation, Iras asks the herald's suit assistant (Iko) to modify her own DNA. Iko also created a special device for Iras. Alekandras was already sleeping at this time and knows nothing about what she did. She modified herself in such a way that subsequent generations - her children, then her grandchildren and so on - inherit encoded memories. Some of her descendants may feel faint echoes: a light breeze, an unexplained attraction to things that remind them of Iras's past. The device, when used, brightens those memories several magnitudes more. If they connect with this device in a certain way, all her thoughts, desires, memories, feelings awaken in a special way in that person.
-
-And by the way, in 2070 her descendant lives-a woman named Jasmine. At 2070, Jasmine does not know about her ancient past or her connection to the herald.

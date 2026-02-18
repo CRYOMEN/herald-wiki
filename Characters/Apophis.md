@@ -1,51 +1,33 @@
 # Character Sheet - Apophis
 
 ## 1. Identity
+- **Name:** Unknown.
+- **Alias(es):** Apophis; The Great Serpent; Embodiment of Chaos.
+- **Type:** Alien (Serpentine/Beast-like).
+- **Role:** Primary Ancient Antagonist.
 
-- **Name:** TBD.
-- **Alias(es):** Apophis (Egyptian name - the great serpent, embodiment of chaos who tries to swallow the sun every night in Egyptian mythology).
-- **Type:** Dragon.
-- **Role:** Antagonist - a rival herald who went rogue.
-- **Demographics (optional):** Age unknown. Gender: male.
+## 2. Physical (Living Suit)
+- **Appearance:** In his Living Suit, Apophis took the form of a massive, terrifying serpent. This physical form was the direct inspiration for the Egyptian deity of chaos who sought to swallow the sun.
+- **Distinctive Traits:** His suit was designed for aquatic and subterranean movement, often operating from the shadows of the Nile.
 
-## 2. Physical
-
-- **Build:** Not humanoid; beast-like, animal-like, larger than humans (like all heralds in their suits).
-- **Distinctive traits:** His suit takes the form of a great serpent - the source of the Apophis myth in Egyptian theology.
-- **Voice/speech (optional):** TBD.
-- **Morphology (if hybrid/alien):** Serpentine Living Suit variant. Details TBD.
-
-## 3. Psychological / temperament
-
-- **Personality:** TBD.
-- **Drives:** TBD - whether he wanted to rule Earth, believed humanity was a lost cause, or had other reasons. His actions were clearly hostile: he sought to tear down everything [Alekandras](Alekandras.md) was building.
-- **Fears:** TBD.
-- **Flaws / weaknesses:** TBD.
-- **Secrets or hidden need:** TBD.
-- **Notable habits:** TBD.
+## 3. Psychological / Temperament
+- **Personality:** Machiavellian, nihilistic, and hostile. Unlike the idealistic Alekandras, Apophis viewed humanity as a failed species or a mere resource to be exploited.
+- **Drives:** To sabotage the Herald mission. Whether he was corrupted by the Cosmic Threat or simply sought to rule Earth as a god remains a mystery.
 
 ## 4. Backstory
-
-- **Origin:** The [Homeworld](../Homeworld.md) - the binary planet system.
-- **Key past events:** Eventually Apophis was corrupted by cosmic threat to sabotage the mission. Went rogue - the heralds were not a monolith; they had politics and disagreements. While [Alekandras](Alekandras.md) tried to guide humanity to build a civilization capable of resisting the threat, Apophis turned hostile. He created armies of serpent monsters and other beasts - designed to destroy everything [Alekandras](Alekandras.md) was building.  [Alekandras](Alekandras.md) won, but only drove Apophis into hiding - not a definitive kill. Apophis's current status is unknown.
-- **Ties to the world:** His creations (serpent creatures, other beasts) may still exist. His conflict with [Alekandras](Alekandras.md) shaped the Egyptian mythology of Ra vs. Apophis (sun vs. chaos).
+- **Origins:** A high-ranking Herald from the Homeworld binary system.
+- **The Biomech Civil War:** During the formation of Ancient Egypt, Apophis went rogue. He used his Living Suit’s genetic synthesizer to create armies of serpentine horrors and monsters designed to tear down the civilization Alekandras was building.
+- **The Defeat:** After a devastating war that drained the energy of both Heralds, Alekandras drove Apophis into hiding. He was never confirmed dead, leading to thousands of years of human myth regarding his nightly battles with Ra.
+- **Status in 2070:** Unknown. His long-term survival or hibernation remains a significant "wild card" in the modern era.
 
 ## 5. Relationships
+- **Alekandras:** His arch-rival. Their conflict is the "Unified Theory" behind the Egyptian myth of the Sun vs. the Serpent.
+- **The Cosmic Threat:** Some records suggest Apophis was a secret agent or "pathogen" of the very threat the Heralds were sent to warn against.
 
-- **Allies:** His own minions.
-- **Enemies:** [Alekandras](Alekandras.md). Potentially other aliens.
-- **Dependents / others:** Unknown.
-- **Public perception (optional):** Ancient Egypt: the great serpent, the ultimate enemy of Ra, the embodiment of chaos. In mythology he tries to swallow the sun every night - this was the human interpretation of the real conflict.
+## 6. Abilities
+- **Serpentine Bestiary:** Specializes in the creation of reptilian and aquatic hybrids.
+- **Subterfuge:** Unlike Alekandras, who sought to be a "Hidden Sun," Apophis thrived in actual darkness, utilizing his suit’s camouflaging capabilities to strike from the Nile's depths.
 
-## 6. Abilities and equipment
-
-- **Skills:** Same general capabilities as other aliens through the Living Suit: life-form creation (bestiary), biotech, self-modification, attack capabilities.
-- **Weapons / gear:** His exoskeleton suit (serpentine variant).
-- **Special capabilities:** TBD.
-
-## 7. Story usage
-
-- **Appearances:** [Alekandras](Alekandras.md) vs Apophis war. His current status (hiding, hibernating, dead) is TBD.
-- **Plot function:** Primary ancient antagonist - his war with [Alekandras](Alekandras.md) forced both to drain special energy of their suits. His conflict is the reason the Egyptian mythology of Ra vs. Apophis exists.
-- **Possible arcs:** Could return during the 2070 timeline (was driven into hiding, not killed). Could ally with or be exploited by the secret organization. His surviving creations could play a role. TBD.
-- **Archetype (optional):** Shadow / rival; the enemy within (a fellow herald turned hostile).
+## 7. Story Usage
+- **Historical Role:** The antagonist who forced the exhaustion of the Heralds' special energy, necessitating their hibernation.
+- **Modern Potential:** His return would represent a catastrophic threat to both Alekandras and the modern world.
