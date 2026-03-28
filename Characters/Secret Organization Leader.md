@@ -17,7 +17,7 @@
 
 ## 3. Psychological / temperament
 
-- **Personality:** Ruthless, pragmatic, calculating.
+- **Personality:** Ruthless, pragmatic, calculating. A loyal soldier of the organization — character archetype similar to Colonel Miles Quaritch (Avatar): a relentless military operative who executes orders without hesitation.
 - **Drives:** Obtain the alien's technology. Serve the secret organization's interests.
 - **Fears:** TBD.
 - **Flaws / weaknesses:** TBD.

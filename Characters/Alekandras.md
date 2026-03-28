@@ -31,6 +31,7 @@
   - *Maturity:* Emotional scarring from millennia of loss makes forming new bonds incredibly difficult
 - **Secrets or hidden need:**
   - **The Living Suit's true cost:** Without it, he would live only 150–170 years like any other member of his species. The suit grants him millennia—but at the cost of watching everyone he loves die.
+  - **Isolation in 2070:** After waking in 2070, he does not know that the hybrid species he created survived the millennia and still exist in hiding. He believes he is completely alone: his homeworld is dying or dead, his followers are gone, and he has no idea his "children" are still out there.
   - **Love as survival mechanism:** Over 3,000 years, he has fallen in love only ~25 times (*see [Alekandras' 25 Women](Alekandras_Soulmates.md)*). The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight. Each new love requires greater courage. By 2070, he carries the memory of dozens of lifetimes' worth of war, death, and lost intimacy—a burden no therapy can address.
   - **Accidental discovery:** The suit's neurochemical resonance recharging mechanism — where emotional intimacy converts into energy — was discovered by accident when Alekandras fell in love with his first Egyptian partner. See [Alien Technology](../Technology/AlienTech.md) for full technical details.
 - **Notable habits:** TBD.
@@ -45,6 +46,7 @@
   - Stole the Living Suit and left for Earth (he was not the chosen herald)
 
   **Arrival in Ancient Egypt (~3200-3000 BC)**
+  - Before departure, his homeworld civilization believed Earth's humans were already highly advanced — perhaps even more so than themselves. This was the mission's foundation: find a developed civilization that could help solve the cosmic threat. The reality was a shock: he landed in Ancient Egypt and found people who had not yet developed writing, music, or organized states.
   - Landed in Ancient Egypt when humanity did not yet have the institution of pharaohs
   - First contact with people on Earth; saw them as undeveloped and decided to help them advance
   - Influenced development secretly—did not want to reveal himself fully
@@ -73,7 +75,7 @@
   - Notable partners: [Hatshepsut](Hatshepsut.md) (woman-pharaoh, 18th dynasty) and [Iras](Iras.md) (Cleopatra's gift, his last love before hibernation)
   - *For complete catalog, see [Alekandras' 25 Women: Complete Reference](Alekandras_Soulmates.md)*
 
-  **Hibernation Decision (~30 BC)**
+  **Hibernation Decision (~32-33 BC, two to three years before Cleopatra's death)**
   - Calculated that in ~2,000 years humanity would reach a silicon era capable of understanding his message and possibly countering the cosmic threat
   - Targeted wake-up around 2200 AD
 

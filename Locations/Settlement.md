@@ -31,7 +31,7 @@ In 2070, the [Secret Organization](../Factions/SecretOrganization.md) finally di
 - **Primary residents:** Descendants of Cleopatra's followers
 - **Demographics:** Multi-generational community protected by concealment technology for 2000+ years, though residents could freely leave and re-enter the settlement
 - **Knowledge levels:** Residents knew they were guarding Amun-Ra (their god/the dragon). Over generations, this understanding evolved from mythological reverence to knowledge of the alien nature of their charge
-- **Lifestyle:** Mix of ancient traditions and modern (2070) technology, adapted to desert life. The settlement served as a protective cocoon—residents could leave to interact with the outside world, then return to the safety of the concealed space, vanishing from external observers upon re-entry
+- **Lifestyle:** Mix of ancient traditions and modern (2070) technology, adapted to desert life. Residents are fully embedded in global 2070 culture — they know the latest music, films, games, and technologies like anyone else. The settlement served as a protective cocoon—residents could leave to interact with the outside world, then return to the safety of the concealed space, vanishing from external observers upon re-entry. Internally, the community has its own tensions: younger residents may dream of leaving to study or work elsewhere, and some question why they must stay in this remote place at all
 - **Isolation clarification:** The community was not isolated in the traditional sense—the concealment field allowed controlled interaction with the outside world while maintaining secrecy and protection from external politics and threats
 
 ### Monster Residents

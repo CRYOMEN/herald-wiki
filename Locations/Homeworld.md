@@ -40,3 +40,4 @@ Earth is not just a random habitable planet. It is a biological sister to the Ho
 ## 7. Notes
 
 - The Homeworld is always spoken of as dying or already lost - the heralds are refugees as much as they are messengers.
+- **Planetary consciousness (concept):** In the overall story framework, all celestial bodies possess consciousness. The sister planet connection between the Homeworld and Earth is not merely physical or biological — it is also mental/conscious.

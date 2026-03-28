@@ -6,7 +6,7 @@
 - **Alias(es):** Cleopatra.
 - **Type:** Human
 - **Role:** Queen of Egypt during the Ptolemaic period; close friend of [Alekandras](Alekandras.md).
-- **Demographics (optional):** Female. Historical figure, Ptolemaic dynasty, died c. 30 BC.
+- **Demographics (optional):** Female. Historical figure, Ptolemaic dynasty. Born January 13, 69 BC; died August 10/12, 30 BC.
 
 ## 2. Physical
 

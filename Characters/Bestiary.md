@@ -17,6 +17,8 @@ Creatures are created by the Herald’s [Living Suit](../Technology/AlienTech.md
 
 - **Build:** Powerful, dominant, very muscular. Height up to about 2 m 40 cm. Strong, resilient. Often described as huge, much taller than humans, with claws, fangs, and either scales or fur; eyes described as “really wild.”
 - **Temperament:** Wild. Behavior is strongly influenced by mixed DNA; they do not behave like ordinary humans.
+- **Individual behavioral peculiarities:** Each species has its own specific behavioral traits rooted in its mixed DNA. For example, the Unicorn has peculiar behavior toward virgins. These behavioral differences are important distinguishing features of each type.
+- **No self-copies:** Heralds do not create creatures that look like themselves. The imposing alien form that people witnessed was the Living Suit — the actual alien inside looks nothing like the suit. All bestiary entries are Earth-fauna hybrids, not alien-forms.
 - **Sexuality:** Many hybrids (e.g. Werewolf, Lizardman, Centaur, Sphinx, Anubis) are described as having a high libido toward each other and humans; sexual interest in humans and desire for contact or unions (including love) are noted. This also explains the romance aspect of so many ancient myths—the gods and monsters constantly seducing or coupling with humans.
 - **Sentience:** They are sentient: they have desires, emotions, fears, can speak, and can coexist with ordinary people. They lived alongside humans and in some eras (e.g. Ancient Egypt) were treated as divine or semi-divine.
 

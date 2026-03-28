@@ -21,7 +21,7 @@
 - **Fears:** Has fears and worries (specifics TBD).
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** TBD.
-- **Notable habits:** TBD.
+- **Notable habits:** Over 2,000 years living among the followers of Cleopatra, Iko formed deep personal bonds with the settlement community — talking, joking, and playing with residents as an ordinary companion. She has watched many generations of people be born, live, and die, which gives her a quiet, underlying sadness: humans live so briefly. Because she knew people from birth, they trusted her completely — and she trusted them in return.
 
 ## 4. Backstory
 

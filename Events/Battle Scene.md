@@ -73,8 +73,16 @@ Following the catastrophic battle:
 - The **concealment technology's status is unknown**—it may have been damaged or deactivated during the catastrophic energy release that caused the teleportation
 - If the concealment field failed, the settlement's location would now be exposed to the outside world
 
+### Global Reaction to the Desert Anomaly
+
+News of the anomaly spreads worldwide: a freezing hurricane in the middle of the Sahara, a mass-casualty incident, a battle. Egyptian authorities cordon off a massive territory and begin investigation, inviting outside scientists. The world is in shock.
+
 ### Herald's Reappearance
 
 After 12 days, the capsule reappears in the middle of a huge metropolis. A deafening sonic boom occurs, blowing out windows in a large radius. The capsule crashes into the ground, breaking through the sewage system and creating a crater.
 
 The alien manages to hide in the sewers. To cover his tracks as best they could, the assistant initiates the capsule's biomass decomposition process-it melts and drains into the sewer system, leaving only a frame behind in the crater for authorities to discover.
+
+### Authorities' Response to the Capsule
+
+City and national authorities cordon off the crash site, blocking civilian access (though residents photograph it from a distance). Investigators begin studying the frame. At some point they determine it has extraterrestrial origin, though they do not yet know an alien was inside. Multiple countries and international scientists seek access and begin their own investigations in parallel.
