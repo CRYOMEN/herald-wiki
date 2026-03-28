@@ -26,8 +26,8 @@
 
 ## 4. Backstory
 
-- **Origin:** A high-ranking operative of the secret organization - a paramilitary corporation that traces its origins to power-hungry humans who saw the alien's technology and wanted it for themselves. By 2070, the organization has evolved into a high-tech, incredibly wealthy corporation. See [Game Sheet](../Game%20Sheet.md).
-- **Key past events:** Led the assault on the settlement in the Awakening event. See [Battle Scene](../Battle%20Scene.md).
+- **Origin:** A high-ranking operative of the [Secret Organization](../Factions/SecretOrganization.md).
+- **Key past events:** Led the assault on the settlement in the Awakening event. See [Battle Scene](../Events/Battle%20Scene.md).
 - **Ties to the world:** The secret organization (his employer / faction).
 
 ## 5. Relationships
@@ -45,7 +45,7 @@
 
 ## 7. Story usage
 
-- **Appearances:** [Battle Scene: The Awakening](../Battle%20Scene.md).
+- **Appearances:** [Battle Scene: The Awakening](../Events/Battle%20Scene.md).
 - **Plot function:** TBD.
 - **Possible arcs:** TBD.
 - **Archetype (optional):** The hunter; corporate soldier.

@@ -26,9 +26,9 @@
 
 ## 4. Backstory
 
-- **Origin:** The [Homeworld](../Homeworld.md) - the binary planet system.
-- **Key past events:** Eventually Apophis was corrupted by cosmic threat to sabotage the mission. Went rogue - the heralds were not a monolith; they had politics and disagreements. While [Alekandras](Alekandras.md) tried to guide humanity to build a civilization capable of resisting the threat, Apophis turned hostile. He created armies of serpent monsters and other beasts - designed to destroy everything [Alekandras](Alekandras.md) was building.  [Alekandras](Alekandras.md) won, but only drove Apophis into hiding - not a definitive kill. Apophis's current status is unknown.
-- **Ties to the world:** His creations (serpent creatures, other beasts) may still exist. His conflict with [Alekandras](Alekandras.md) shaped the Egyptian mythology of Ra vs. Apophis (sun vs. chaos).
+- **Origin:** The [Homeworld](../Locations/Homeworld.md) - the binary planet system.
+- **Key past events:** Went rogue and turned hostile against [Alekandras](Alekandras.md). Lost the war and was driven into hiding — not killed. Current status unknown. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md) for the full account.
+- **Ties to the world:** His creations (serpent creatures, other beasts) may still exist. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md) for the mythological legacy.
 
 ## 5. Relationships
 
@@ -39,13 +39,13 @@
 
 ## 6. Abilities and equipment
 
-- **Skills:** Same general capabilities as other aliens through the Living Suit: life-form creation (bestiary), biotech, self-modification, attack capabilities.
-- **Weapons / gear:** His exoskeleton suit (serpentine variant).
+- **Skills:** Same general capabilities as other heralds through the [Living Suit](../Technology/AlienTech.md).
+- **Weapons / gear:** His Living Suit (serpentine variant).
 - **Special capabilities:** TBD.
 
 ## 7. Story usage
 
 - **Appearances:** [Alekandras](Alekandras.md) vs Apophis war. His current status (hiding, hibernating, dead) is TBD.
-- **Plot function:** Primary ancient antagonist - his war with [Alekandras](Alekandras.md) forced both to drain special energy of their suits. His conflict is the reason the Egyptian mythology of Ra vs. Apophis exists.
+- **Plot function:** Primary ancient antagonist. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md).
 - **Possible arcs:** Could return during the 2070 timeline (was driven into hiding, not killed). Could ally with or be exploited by the secret organization. His surviving creations could play a role. TBD.
 - **Archetype (optional):** Shadow / rival; the enemy within (a fellow herald turned hostile).

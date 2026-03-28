@@ -2,9 +2,9 @@
 
 ## Prelude: Discovery and Warning
 
-The [Secret Organization](Characters/Secret%20Organization%20Leader.md), founded in Ancient Egypt to hunt alien technologies, finally locates the sleeping Herald's tomb hidden in the Egyptian desert. The [settlement](Settlement.md) of Cleopatra's followers, concealed for over 2,000 years by alien technology, has been discovered.
+The [Secret Organization](../Factions/SecretOrganization.md) finally locates the sleeping Herald's tomb hidden in the Egyptian desert. The [settlement](../Locations/Settlement.md) of Cleopatra's followers, concealed for over 2,000 years by alien technology, has been discovered.
 
-The Herald's assistant ([Iko](Characters/Iko.md)) is scouting outside the settlement when she notices military equipment moving toward them with hostile intent. She quickly runs back to warn the settlement leader.
+The Herald's assistant ([Iko](../Characters/Iko.md)) is scouting outside the settlement when she notices military equipment moving toward them with hostile intent. She quickly runs back to warn the settlement leader.
 
 The leader is shocked—their sensors and probes failed to detect the approaching threat, and worse: the settlement has been discovered. For 2,000 years, the alien concealment technology kept them hidden. Somehow, impossibly, the Secret Organization has found them.
 
@@ -67,9 +67,9 @@ The battle is over. The alien is gone, teleported to an unknown location. Most a
 ### Status of the Settlement
 
 Following the catastrophic battle:
-- The [settlement](Settlement.md) lies in ruins, frozen and largely uninhabitable
+- The [settlement](../Locations/Settlement.md) lies in ruins, frozen and largely uninhabitable
 - Most residents (both human and monster) are dead, frozen solid in the aftermath
-- A few survivors remain, including the [Settlement Leader](Characters/Settlement%20Leader.md) and those he managed to seal in protective capsules
+- A few survivors remain, including the [Settlement Leader](../Characters/Settlement%20Leader.md) and those he managed to seal in protective capsules
 - The **concealment technology's status is unknown**—it may have been damaged or deactivated during the catastrophic energy release that caused the teleportation
 - If the concealment field failed, the settlement's location would now be exposed to the outside world
 

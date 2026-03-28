@@ -3,17 +3,15 @@
 ## 1. Overview
 
 - The bestiary consists of creatures created by aliens (heralds) using their Living Suits.
-- Not all entries were created by the same alien or at the same time; multiple aliens were sent to Earth from the [Homeworld](Homeworld.md) at different times, and each could create new life forms.
-- Creation is done via the Living Suit (exoskeleton), which functions as a mobile laboratory: it can mix DNA of different creatures and produce new species or hybrids. Heralds create humanoid hybrids (e.g. werewolf, minotaur, horse-headed human) but do not create ordinary humans (or this is not recorded).
-- The secret organization (founded in Ancient Egypt) hunts both aliens  themselves and their creations: artifacts and creatures.
+- Not all entries were created by the same alien or at the same time; multiple aliens were sent to Earth from the [Homeworld](../Locations/Homeworld.md) at different times, and each could create new life forms.
+- Creation is done via the [Living Suit](../Technology/AlienTech.md). Heralds create humanoid hybrids (e.g. werewolf, minotaur, horse-headed human) but do not create ordinary humans (or this is not recorded).
+- The [Secret Organization](../Factions/SecretOrganization.md) hunts both aliens and their creations: artifacts and creatures.
 - Many of these hybrids were perceived as gods (e.g. zoomorphic gods in Ancient Egypt) and later influenced mythology (e.g. Greek).
 - **Unified theory of mythology:** Because each herald landed in a different region and sampled different local fauna, they created entirely different mythologies. This is why ancient, unconnected cultures all have stories of hybrid beasts - the heralds were literally manufacturing them as local defense forces or laborers. The bestiary is, in effect, a biological explanation for all of world mythology.
 
 ## 2. Creation mechanics
 
-- Beasts/monsters are created by the alien’s Living Suit; the suit can replicate a creature it has “seen” or combine DNA (e.g. dog + cow + other elements, or adding wings).
-- Creating beasts consumes special energy of the exoskeleton; this energy is difficult to recharge. Depletion of this energy is a reason the protagonist entered hibernation.
-- The creatures are artificially created life forms; after death they decompose quickly but leave biomass (technical trait of such forms).
+Creatures are created by the Herald’s [Living Suit](../Technology/AlienTech.md), which can sample local DNA and produce new species. For full technical details on creation mechanics, energy costs, and biomass decomposition, see [Alien Technology](../Technology/AlienTech.md).
 
 ## 3. Physical and behavioral traits
 
@@ -31,12 +29,11 @@
 
 ## 5. Secrecy
 
-- Humans and monsters jointly keep the existence of monsters secret from the outside world.
-- In 2070, there is a very small but stable population of these monsters living secretly all around the world. Their society has a memory-erasure technology in rare cases to modify or erase specific parts of memory. Used to: erase parts of memory about monster community from anyone leaving the community. This supports keeping the secret.
+In 2070, a small but stable global population of monsters lives hidden from mainstream humanity. For the community's laws, survival strategies, and memory-wipe technology used to enforce secrecy, see [Hidden Monster Community](../Factions/Monsters.md).
 
 ## 6. Death and decomposition
 
-- Monsters die and decompose quickly; biomass remains after them (technical feature of artificially created life forms).
+Monsters decompose rapidly after death, leaving only biomass — no skeletons. For the technical explanation, see [Alien Technology — Biomass Decomposition](../Technology/AlienTech.md).
 
 ## 7. Bestiary by category
 
@@ -88,10 +85,10 @@ Unicorn (created in Middle Ages, England; has behavioral peculiarities, e.g. tow
 ## 8. Story and usage
 
 - **Notable creations by protagonist:** Werewolf, Minotaur, Anubis (Ancient Egypt; worshipped as a god), Lizardman, Sobek. The hero remained in Egypt throughout his time on Earth; he did not travel to remote regions to create creatures or build armies elsewhere.
-- **Creations by other heralds:** Other hybrids and monsters across the world were created by other heralds - for example, [Arturas](Characters/Arturas.md) created few new species in England (including the Unicorn, during the Middle Ages). Each herald operated in their own region and sampled different local fauna, which is why mythologies differ across cultures. Regional examples: In Northern Europe sampled wolves and horses, producing the myths of werewolves, Fenrir, and unicorns. In Greece, humans + horses = centaurs, humans + goats = satyrs, humans + bulls = minotaurs. In Asia, the same principle produced Naga (serpent-human hybrids), and Tengu (birdmen) in Japan. All these ancient, unconnected cultures have hybrid-beast stories because the heralds were creating them.
-- **Armies:** The protagonist created armies of beasts in Egypt; these were used rarely to keep their existence secret. Example: defense against Apophis (a herald who became an antagonist) and his minions in Egypt (the big war between Amun-Ra and Apophis).
-- **Settlement (2070):** A settlement of followers (e.g. “followers of Cleopatra”) guards the sleeping herald. Monsters exist there in small numbers; people and monsters keep the monsters’ existence secret and use memory erasure when needed.
-- **Alien appearance (without suit):** Aliens are not humanoid and not “classic alien”; they are described as beast-like, animal-like, and larger than humans. The suit has a distinctive, imposing form: multiple limbs (often four, sometimes two), prominent head and jaw; morphology varies by herald (some with flight capability, some without).
+- **Creations by other heralds:** Other hybrids and monsters across the world were created by other heralds — for example, [Arturas](Arturas.md) created few new species in England (including the Unicorn, during the Middle Ages). Each herald operated in their own region and sampled different local fauna, which is why mythologies differ across cultures. See [Homeworld — The Mission](../Locations/Homeworld.md) for regional landing details.
+- **Armies:** The protagonist created armies of beasts in Egypt; these were used rarely to keep their existence secret. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md) for their use in the war.
+- **Settlement (2070):** See [Settlement](../Locations/Settlement.md) and [Hidden Monster Community](../Factions/Monsters.md).
+- **Alien appearance (without suit):** Not humanoid; beast-like, animal-like, larger than humans. For suit details, see [Alien Technology](../Technology/AlienTech.md).
 
 ## 9. References
 

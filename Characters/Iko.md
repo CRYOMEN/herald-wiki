@@ -25,8 +25,8 @@
 
 ## 4. Backstory
 
-- **Origin:** A standard feature of aliens living suits - every suit comes with an assistant. Created as part of the alien biotechnology; not born or evolved naturally.
-- **Key past events:** Accompanied [Alekandras](Alekandras.md). Lived among the followers of Cleopatra, acting as a scout and companion to the settlement. Helped [Iras](Iras.md) to modify her own germline DNA - encoding memories of the past. Created a special device, tuned for Iras's descendants, that allows them to brighten ancestral memories several magnitudes more than the faint echoes they might otherwise feel (e.g., a light breeze, attraction to things that remind them of Iras's past).
+- **Origin:** A standard component of every alien [Living Suit](../Technology/AlienTech.md). Not born or evolved naturally.
+- **Key past events:** Accompanied [Alekandras](Alekandras.md). Lived among the followers of Cleopatra, acting as a scout and companion to the settlement. Helped [Iras](Iras.md) modify her germline DNA and created a special artifact for her descendants — see [Iras](Iras.md) for full details.
 - **Ties to the world:** TBD.
 
 ## 5. Relationships

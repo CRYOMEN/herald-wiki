@@ -27,7 +27,7 @@
 ## 4. Backstory
 
 - **Origin:** TBD.
-- **Key past events:** The Awakening - the defining event of his life. See [Battle Scene](../Battle%20Scene.md).
+- **Key past events:** The Awakening - the defining event of his life. See [Battle Scene](../Events/Battle%20Scene.md).
 
 ## 5. Relationships
 

@@ -6,8 +6,8 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 
 - **Title:** Herald - The Awakening
 - **Tagline:** TBD
-- **Logline:** An alien herald who once lived as a god in Ancient Egypt wakes in 2070 and must warn humanity about an approaching cosmic threat-but in a world without pharaohs or slaves, he must first learn who to trust and find friends. His [Homeworld](Homeworld.md) is dying; his mission is to find a way to save both worlds.
-- **Premise:** An alien herald wakes in 2070 to warn Earth of a [cosmic threat](Homeworld.md) that already began destroying his homeworld. The game is built on betrayal, friendship, and love: humanity has changed-no slaves, no pharaohs-and he must navigate this new world, find allies and friends, and ultimately discover how to save both his civilization and ours.
+- **Logline:** An alien herald who once lived as a god in Ancient Egypt wakes in 2070 and must warn humanity about an approaching cosmic threat-but in a world without pharaohs or slaves, he must first learn who to trust and find friends. His [Homeworld](../Locations/Homeworld.md) is dying; his mission is to find a way to save both worlds.
+- **Premise:** An alien herald wakes in 2070 to warn Earth of a [cosmic threat](../Locations/Homeworld.md) that already began destroying his homeworld. The game is built on betrayal, friendship, and love: humanity has changed-no slaves, no pharaohs-and he must navigate this new world, find allies and friends, and ultimately discover how to save both his civilization and ours.
 - **Story answers / big questions:** This story offers a unified theory of mythology - an in-world explanation for: why dragons appeared in mythology across cultures; why the mythology of different countries and continents looks the way we know it today (each herald landed in a different region affecting different regional mythologies); why humanity and civilizations developed the way we know today; and why ancient unconnected cultures all have stories of dragons and hybrid beasts (centaurs, werewolves, minotaurs, Naga, Tengu, etc.). The story reframes all of human history: we spent thousands of years worshipping the messengers, fighting wars over their magic and legacy, and completely missed the message.
 - **Design pillars / vision (optional):** TBD
 - **Genre / tone:** 3dcg, adventure, animated, dystopian setting, humor, monster, tentacles, sci-fi, female protagonist, male protagonist, graphic violence, mobile game, monster girl, multiple endings, superpowers, multiple protagonist, paranormal, pov, rpg sandbox.
@@ -21,21 +21,21 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 - **Timeline / chronology (optional):** TBD.
 - **Key locations:** Egyptian desert; metropolis (ground and underground, sewers).
 - **Locations hierarchy (optional):** TBD
-- **People groups / factions:** Followers of Cleopatra; Secret Organization; Aliens from the [Homeworld](Homeworld.md); hidden monster society (descendants of heralds-created hybrids, living secretly among humans in 2070).
-- **Rules of the world (optional):** Some magic and mysticism; tech and physics are dominant. See [Technology](../Technology/AlienTech.md), [Bestiary](Bestiary.md).
+- **People groups / factions:** Followers of Cleopatra; Secret Organization; Aliens from the [Homeworld](../Locations/Homeworld.md); hidden monster society (descendants of heralds-created hybrids, living secretly among humans in 2070).
+- **Rules of the world (optional):** Some magic and mysticism; tech and physics are dominant. See [Technology](../Technology/AlienTech.md), [Bestiary](../Characters/Bestiary.md).
 
 ## 3. Core conflict and stakes
 
 - **Central conflict:** Cosmic threat vs humanity; secret org vs settlement; protagonist's mission vs his limits.
 - **Stakes:** If the protagonist fails, life will vanish.
-- **Antagonist(s) / opposing forces:** Cosmic threat (approaching Earth - see [Homeworld](Homeworld.md) for full details); Secret Organization (traces its origins to power-hungry humans who saw the alien's technology and wanted it for themselves; by 2070 they have evolved into a high-tech, incredibly wealthy paramilitary corporation); [Apophis](Characters/Apophis.md) (a rival alien who went rogue and was driven into hiding - status unknown, possibly still alive).
+- **Antagonist(s) / opposing forces:** Cosmic threat (see [Homeworld](../Locations/Homeworld.md)); [Secret Organization](../Factions/SecretOrganization.md) (ancient paramilitary corporation hunting alien technology); [Apophis](../Characters/Apophis.md) (rogue herald, driven into hiding — status unknown).
 
 ## 4. Main characters
 
 - **Protagonist(s):** TBD.
 - **Antagonist(s):** TBD.
-- **Key supporting cast:** [Iko](Characters/Iko.md); [the Settlement Leader](Characters/Settlement%20Leader.md); [Cleopatra](Characters/Cleopatra%20VII.md) (historical, flashbacks); [Iras](Characters/Iras.md) (historical, Jasmine's ancestor).
-- **Key antagonist characters:** [Secret Organization Leader](Characters/Secret%20Organization%20Leader.md) (field commander).
+- **Key supporting cast:** [Iko](../Characters/Iko.md); [the Settlement Leader](../Characters/Settlement%20Leader.md); [Cleopatra](../Characters/Cleopatra%20VII.md) (historical, flashbacks); [Iras](../Characters/Iras.md) (historical, Jasmine's ancestor).
+- **Key antagonist characters:** [Secret Organization Leader](../Characters/Secret%20Organization%20Leader.md) (field commander).
 - **Character list / who returns (optional):** TBD.
 
 ## 6. Themes and tone

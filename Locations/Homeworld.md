@@ -19,19 +19,19 @@ This reframes the alien arrival: the aliens did not come to conquer. They came t
 
 An extinction-level event that consumes entire planetary systems. The exact nature is unspecified - it could be a predatory species, a pathogen, or some kind of dark matter phenomenon - but the effect is clear: it destroyed the aliens' binary system, and it is expanding, moving toward Earth.
 
-The aliens are running from it. The entire heralds mission (including [Alekandras](Characters/Alekandras.md) journey) exists to warn humanity and prepare a defense. The cosmic threat is the ultimate antagonist of the story - the reason everything is happening.
+The aliens are running from it. The entire heralds mission (including [Alekandras](../Characters/Alekandras.md) journey) exists to warn humanity and prepare a defense. The cosmic threat is the ultimate antagonist of the story - the reason everything is happening.
 
 ## 4. Alien's Society and Politics
 
 - **Government:** The Homeworld has (or had) a governing body - referred to as the "twin planet council" (or equivalent authority) - that decided policy, including which the best minds were chosen for off-world missions.
-- **Not a monolith:** The aliens were not unified. They had politics, disagreements, and internal conflicts. Some believed in helping humanity; others (like [Apophis](Characters/Apophis.md)) went rogue and turned hostile.
-- **Multiple missions:** Multiple heralds were sent to Earth and they landed at different times and to different regions - this is why ancient, unconnected human cultures all have stories of hybrid beasts (see [Bestiary](Bestiary.md)).
+- **Not a monolith:** The aliens were not unified. They had politics, disagreements, and internal conflicts. Some believed in helping humanity; others (like [Apophis](../Characters/Apophis.md)) went rogue and turned hostile.
+- **Multiple missions:** Multiple heralds were sent to Earth and they landed at different times and to different regions - this is why ancient, unconnected human cultures all have stories of hybrid beasts (see [Bestiary](../Characters/Bestiary.md)).
 
 ## 5. The Mission
 
 - **Purpose:** Warn humanity about the approaching cosmic threat and help Earth's civilizations advance quickly enough to build a defense before the threat arrives.
 - **Stakes:** If the mission fails, both the Homeworld (already dying) and Earth will be consumed. The protagonist's drive is to save both worlds - theirs and humanity's.
-- **Regional landings:** Each herald landed in a different part of the world - Egypt, Northern Europe, Greece, Asia, North America, and elsewhere - causing localized mythologies based on the fauna we know today (see [Bestiary](Bestiary.md)).
+- **Regional landings:** Each herald landed in a different part of the world - Egypt, Northern Europe, Greece, Asia, North America, and elsewhere - causing localized mythologies based on the fauna we know today (see [Bestiary](../Characters/Bestiary.md)).
 
 ## 6. Connection to Earth
 
