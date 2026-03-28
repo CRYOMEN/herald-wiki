@@ -26,17 +26,64 @@
   - *Maturity (2070 AD):* measured, patient, world-weary yet still driven; centuries of loss and solitude have tempered his impulsivity into deliberate caution; deeply loyal to those few he trusts; carries the weight of thousands of years of memories and failed relationships; still idealistic at core, but masked by a stoic, sometimes melancholic exterior.
 - **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. His [Homeworld](../Homeworld.md) is dying-his mission is to save both worlds.
 - **Fears:** Fears never seeing his family again. Fears forming new attachments, knowing he will outlive them. The accumulated weight of memory — every death, every war, every lost love — threatens to crush his will to continue.
-- **Flaws / weaknesses:** Inexperienced; impulsive; reckless.
-- **Secrets or hidden need:** 
-  - Without his Living Suit, he would live only 150–170 years like any other member of his species. The suit grants him millennia — but at the cost of watching everyone he loves die.
-  - Over 3,000 years, he has fallen in love only ~25 times. The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight. Each new love requires greater courage.
-  - By 2070, he carries the memory of dozens of lifetimes' worth of war, death, and lost intimacy — a burden no therapy can address.
+- **Flaws / weaknesses:**
+  - *Youth:* Inexperienced; impulsive; reckless
+  - *Maturity:* Emotional scarring from millennia of loss makes forming new bonds incredibly difficult
+- **Secrets or hidden need:**
+  - **The Living Suit's true cost:** Without it, he would live only 150–170 years like any other member of his species. The suit grants him millennia—but at the cost of watching everyone he loves die.
+  - **Love as survival mechanism:** Over 3,000 years, he has fallen in love only ~25 times (*see [Alekandras' 25 Women](Alekandras_Soulmates.md)*). The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight. Each new love requires greater courage. By 2070, he carries the memory of dozens of lifetimes' worth of war, death, and lost intimacy—a burden no therapy can address.
+  - **Accidental discovery:** The "neurochemical resonance" recharging mechanism of his suit—where love and emotional intimacy convert into energy—was discovered purely by accident. When Alekandras fell in love with his first Egyptian partner, the suit unexpectedly absorbed the bioelectric output of their mutual emotional and physical connection. This was a profound surprise to him; neither he nor the suit's creators had known this function existed. The suit was built in haste, and not all capabilities were documented or understood.
 - **Notable habits:** TBD.
 
 ## 4. Backstory
 
 - **Origin:** The [Homeworld](../Homeworld.md) - a binary planet system in another galaxy.
-- **Key past events:** Stole the suit and left for Earth (he was not the chosen herald). Arrival in Ancient Egypt around 3,200-3,000 BC (when humanity did not yet have the institution of pharaohs). First contact with people on Earth; he saw them undeveloped and decided to help them develop. He influenced development very secretly - he did not want to show himself to people - but gradually society in Egypt formed: first the institution of pharaohs (he pulled strings in secret), then pyramids (2,700-2,500 BC), Middle Kingdom (2,050-1,750 BC), New Kingdom (1,550-1,070 BC); all this flourishing was thanks to his knowledge, technology, and culture, which he brought from his home and which resembled his own. People already worshipped **Ra** - the sun god. As they gradually became acquainted with him (some feared him, some became his friends), they began to think he was **Amun** - the hidden god, the invisible source of existence. He flies; when he arrives he blocks the sun and appears like the sun (a dragon in the sky). He is hidden - few people see him because he wants to stay concealed so they do not know he actually exists. So they combined the two: **Amun-Ra**, the hidden sun, the divine source both visible (like Ra) and unseen (like Amun). The cult of Amun and Amun-Ra became central in Thebes and across Egypt. A god by accident in the eyes of the people. Battle with [Apophis](Apophis.md) and his minions - a biomech civil war in the Nile Valley; Alekandras (Amun-Ra) won but only drove Apophis into hiding, not a definitive kill; the war drained his special energy to low levels. Intimate connection with many human during his life in Egypt - over 3,000 years he passed through all the great epochs; he loved queens, priestesses, and perhaps ordinary noblewomen; each left a trace of her era in his heart. Named examples include [Hatshepsut](Hatshepsut.md) (woman-pharaoh, 18th dynasty, ~15th century BC) and later [Iras](Iras.md). Decision to hibernate - he calculated that in ~2,000 years humanity would reach a silicon era capable of understanding his message and possibly countering the threat, targeting wake-up around 2200. Awakening in 2070 (malfunction, accident teleportation, then metropolis - 130 years too early). After crashing in the metropolis, he hides in the sewers.
+
+- **Key past events:**
+
+  **Departure from Homeworld (~3200 BC)**
+  - Stole the Living Suit and left for Earth (he was not the chosen herald)
+
+  **Arrival in Ancient Egypt (~3200-3000 BC)**
+  - Landed in Ancient Egypt when humanity did not yet have the institution of pharaohs
+  - First contact with people on Earth; saw them as undeveloped and decided to help them advance
+  - Influenced development secretly—did not want to reveal himself fully
+
+  **Becoming Amun-Ra (~3000 BC onward)**
+  - People already worshipped **Ra**—the sun god
+  - As they gradually became acquainted with him (some feared, some befriended), they began to think he was **Amun**—the hidden god, the invisible source of existence
+  - He flies; when he arrives he blocks the sun and appears like the sun (a dragon in the sky)
+  - He remained hidden—few people saw him because he wanted to stay concealed
+  - They combined the two: **Amun-Ra**, the hidden sun, the divine source both visible (like Ra) and unseen (like Amun)
+  - The cult of Amun and Amun-Ra became central in Thebes and across Egypt
+  - A god by accident in the eyes of the people
+
+  **Shaping Egyptian Civilization (~3000-1070 BC)**
+  - Gradually society in Egypt formed: first the institution of pharaohs (he pulled strings in secret)
+  - Pyramids era (2,700-2,500 BC)
+  - Middle Kingdom (2,050-1,750 BC)
+  - New Kingdom (1,550-1,070 BC)
+  - All this flourishing was thanks to his knowledge, technology, and culture from his homeworld
+
+  **War with Apophis (date TBD)**
+  - Battle with [Apophis](Apophis.md) and his minions—a biomech civil war in the Nile Valley
+  - Alekandras (Amun-Ra) won but only drove Apophis into hiding, not a definitive kill
+  - The war drained his special energy to low levels
+
+  **Intimate Connections (~3000-30 BC)**
+  - Fell in love approximately 25 times over 3,000 years with queens, priestesses, and noblewomen
+  - Notable partners: [Hatshepsut](Hatshepsut.md) (woman-pharaoh, 18th dynasty) and [Iras](Iras.md) (Cleopatra's gift, his last love before hibernation)
+  - *For complete catalog, see [Alekandras' 25 Women: Complete Reference](Alekandras_Soulmates.md)*
+
+  **Hibernation Decision (~30 BC)**
+  - Calculated that in ~2,000 years humanity would reach a silicon era capable of understanding his message and possibly countering the cosmic threat
+  - Targeted wake-up around 2200 AD
+
+  **Awakening (2070 AD)**
+  - Malfunction—awakened 130 years too early
+  - Accident teleportation into the metropolis
+  - After crashing in the metropolis, he hides in the sewers
+
 - **Ties to the world:** TBD.
 
 ## 5. Relationships
@@ -54,7 +101,16 @@
 
 ## 7. Story usage
 
-- **Appearances:** One of the main characters-appears almost everywhere.
-- **Plot function:** Protagonist; warn and save humanity from the cosmic threat; messenger from his dying civilization. In Ancient Egypt: god, teacher, defender (e.g. battle with Apophis). After awakening: hide, recover, find allies and friends, eventually deliver the message.
-- **Possible arcs:** Hidden functions in the suit (discovery). Conflict with the secret organization. Meeting his old friend [Arturas](Arturas.md). First signs that the threat to Earth is very close. Finding the reason why he mistakenly arrived in Ancient Egypt instead of a more advanced era. **Important:** After crashing in the metropolis in 2070, the hero knows nothing about Jasmine. He also does not know that [Iras](Iras.md) modified her own DNA after his hibernation.
+- **Appearances:** Main protagonist—appears throughout the story
+- **Plot function:**
+  - *Ancient Egypt era:* Hidden god, secret advisor to pharaohs, defender against threats
+  - *2070 AD era:* Warn and save humanity from the cosmic threat; messenger from his dying civilization
+  - *Overall arc:* Hide, recover, find allies, deliver the message, confront both old enemies and new organizations
+- **Possible arcs:**
+  - Discovery of hidden suit functions (including the neurochemical resonance mechanism)
+  - Conflict with the [secret organization](Secret%20Organization%20Leader.md)
+  - Reunion with old friend [Arturas](Arturas.md)
+  - First signs that the cosmic threat to Earth is imminent
+  - Uncovering why he mistakenly arrived in Ancient Egypt instead of a more advanced era
+  - **Important:** After awakening in 2070, he knows nothing about [Jasmine](Jasmine.md) or that [Iras](Iras.md) modified her own DNA after his hibernation
 - **Archetype (optional):** Protagonist; messenger / herald.

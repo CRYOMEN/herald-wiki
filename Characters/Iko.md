@@ -1,4 +1,4 @@
-# Character Sheet - Iko
+﻿# Character Sheet - Iko
 
 ## 1. Identity
 
@@ -12,7 +12,7 @@
 - **Build:** Non-humanoid. Described as tentacled, multi-limbed, sort of floating - a biological drone.
 - **Distinctive traits:** Somewhat similar to a Seraphim (many appendages, not quite human-like), possibly with long, thick tentacles. Exact appearance TBD.
 - **Voice/speech (optional):** Can speak; sentient and articulate. Details TBD.
-- **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton that can detach and operate independently. See [Technology](../Technology.md).
+- **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton that can detach and operate independently. See [Technology](../Technology/AlienTech.md).
 
 ## 3. Psychological / temperament
 

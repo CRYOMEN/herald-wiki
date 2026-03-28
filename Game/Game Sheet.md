@@ -1,4 +1,4 @@
-# Game Sheet - Template
+﻿# Game Sheet - Template
 
 Use this file as the master plan/template for the game (or story) as a whole. Fill or update sections as the project develops.
 
@@ -22,7 +22,7 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 - **Key locations:** Egyptian desert; metropolis (ground and underground, sewers).
 - **Locations hierarchy (optional):** TBD
 - **People groups / factions:** Followers of Cleopatra; Secret Organization; Aliens from the [Homeworld](Homeworld.md); hidden monster society (descendants of heralds-created hybrids, living secretly among humans in 2070).
-- **Rules of the world (optional):** Some magic and mysticism; tech and physics are dominant. See [Technology](Technology.md), [Bestiary](Bestiary.md).
+- **Rules of the world (optional):** Some magic and mysticism; tech and physics are dominant. See [Technology](../Technology/AlienTech.md), [Bestiary](Bestiary.md).
 
 ## 3. Core conflict and stakes
 

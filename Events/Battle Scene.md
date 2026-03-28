@@ -2,17 +2,21 @@
 
 ## Prelude: Discovery and Warning
 
-The secret organization, founded in Ancient Egypt to hunt alien technologies, finally locates the sleeping herald's tomb hidden in the Egyptian desert. The settlement of Cleopatra's followers has guarded this secret location for over 2000 years, though many residents don't know the true purpose of their settlement.
+The [Secret Organization](Characters/Secret%20Organization%20Leader.md), founded in Ancient Egypt to hunt alien technologies, finally locates the sleeping Herald's tomb hidden in the Egyptian desert. The [settlement](Settlement.md) of Cleopatra's followers, concealed for over 2,000 years by alien technology, has been discovered.
 
-The herald's assistant, a living creature loyal to the alien, is scouting outside the settlement when she notices military equipment moving toward them with hostile intent. She quickly runs back to warn the settlement leader.
+The Herald's assistant ([Iko](Characters/Iko.md)) is scouting outside the settlement when she notices military equipment moving toward them with hostile intent. She quickly runs back to warn the settlement leader.
 
-The leader is shocked-their sensors and probes failed to detect the approaching threat. The settlement mobilizes immediately. Weapons are distributed, heavy weaponry is pulled out. Those who knew about the alien's presence warn the others: "Hide. Everything is very bad, there's going to be a big confrontation."
+The leader is shocked—their sensors and probes failed to detect the approaching threat, and worse: the settlement has been discovered. For 2,000 years, the alien concealment technology kept them hidden. Somehow, impossibly, the Secret Organization has found them.
+
+"How?!" the leader demands, his voice filled with disbelief. "The concealment field has protected us for two millennia. How could they possibly—" But there's no time for answers.
+
+The settlement mobilizes immediately. Weapons are distributed, heavy weaponry is pulled out. Those who knew about the Herald warn the others: "Hide. Everything is very bad, there's going to be a big confrontation."
 
 ## The Confrontation Begins
 
 The secret organization arrives with tanks and infantry, surrounding the settlement. Their antagonist leader-a ruthless operative-negotiates first: "Guys, you can't handle us, surrender. We only need this place."
 
-But settlements remain loyal to their ancient oath. More than 2000 years ago, Cleopatra herself gave the order to guard the herald at the cost of their lives. They refuse to surrender.
+But the settlers remain loyal to their ancient oath given by Cleopatra herself. They refuse to surrender.
 
 The firefight begins. Shelling starts-heavy weaponry targets the settlement's defensive turrets. Then infantry combat erupts. The followers take cover, returning fire on the well-armed attackers. The battle rages for hours.
 
@@ -59,6 +63,17 @@ The final shot: everything is frozen. Frozen people-settlers and attackers alike
 The battle is over. The alien is gone, teleported to an unknown location. Most are dead, frozen solid. Only a few survive-the settlement leader, a couple of other side characters, and the antagonist who hid in his equipment.
 
 ## Post-Battle Events
+
+### Status of the Settlement
+
+Following the catastrophic battle:
+- The [settlement](Settlement.md) lies in ruins, frozen and largely uninhabitable
+- Most residents (both human and monster) are dead, frozen solid in the aftermath
+- A few survivors remain, including the [Settlement Leader](Characters/Settlement%20Leader.md) and those he managed to seal in protective capsules
+- The **concealment technology's status is unknown**—it may have been damaged or deactivated during the catastrophic energy release that caused the teleportation
+- If the concealment field failed, the settlement's location would now be exposed to the outside world
+
+### Herald's Reappearance
 
 After 12 days, the capsule reappears in the middle of a huge metropolis. A deafening sonic boom occurs, blowing out windows in a large radius. The capsule crashes into the ground, breaking through the sewage system and creating a crater.
 
