@@ -33,16 +33,16 @@ There is speculation that [Apophis](../Characters/Apophis.md) — a rogue herald
 
 ## Key Events
 
-- **[The Awakening Battle](../Events/Battle%20Scene.md)** — The organization's assault on the settlement in 2070. They arrived with tanks and infantry, breached the concealment field, and triggered a catastrophic malfunction that froze the entire area. Their field commander survived by sheltering inside military equipment.
+- **[The Awakening Battle](../Events/Battle Scene.md)** — The organization's assault on the settlement in 2070. They arrived with tanks and infantry, breached the concealment field, and triggered a catastrophic malfunction that froze the entire area. Their field commander survived by sheltering inside military equipment.
 
 ## Key Characters
 
-- [Secret Organization Leader](../Characters/Secret%20Organization%20Leader.md) — Field commander of the Awakening assault.
+- [Secret Organization Leader](../Characters/Secret Organization Leader.md) — Field commander of the Awakening assault.
 
 ## Related
 
 - [Alekandras](../Characters/Alekandras.md) — Primary target
 - [Settlement](../Locations/Settlement.md) — Target of the Awakening assault; theories on how it was found
-- [Battle Scene: The Awakening](../Events/Battle%20Scene.md) — The assault
+- [Battle Scene: The Awakening](../Events/Battle Scene.md) — The assault
 - [Apophis](../Characters/Apophis.md) — Possible connection
-- [Alien Technology](../Technology/AlienTech.md) — What the organization seeks
+- [Alien Technology](../Technology/Alien Tech.md) — What the organization seeks

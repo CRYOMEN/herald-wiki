@@ -27,8 +27,8 @@
 ## 4. Backstory
 
 - **Origin:** The [Homeworld](../Locations/Homeworld.md) - the binary planet system.
-- **Key past events:** Went rogue and turned hostile against [Alekandras](Alekandras.md). Lost the war and was driven into hiding — not killed. Current status unknown. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md) for the full account.
-- **Ties to the world:** His creations (serpent creatures, other beasts) may still exist. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md) for the mythological legacy.
+- **Key past events:** Went rogue and turned hostile against [Alekandras](Alekandras.md). Lost the war and was driven into hiding — not killed. Current status unknown. See [Ra vs Apophis War](../Events/Ra vs Apophis War.md) for the full account.
+- **Ties to the world:** His creations (serpent creatures, other beasts) may still exist. See [Ra vs Apophis War](../Events/Ra vs Apophis War.md) for the mythological legacy.
 
 ## 5. Relationships
 
@@ -39,13 +39,13 @@
 
 ## 6. Abilities and equipment
 
-- **Skills:** Same general capabilities as other heralds through the [Living Suit](../Technology/AlienTech.md).
+- **Skills:** Same general capabilities as other heralds through the [Living Suit](../Technology/Alien Tech.md).
 - **Weapons / gear:** His Living Suit (serpentine variant).
 - **Special capabilities:** TBD.
 
 ## 7. Story usage
 
 - **Appearances:** [Alekandras](Alekandras.md) vs Apophis war. His current status (hiding, hibernating, dead) is TBD.
-- **Plot function:** Primary ancient antagonist. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md).
+- **Plot function:** Primary ancient antagonist. See [Ra vs Apophis War](../Events/Ra vs Apophis War.md).
 - **Possible arcs:** Could return during the 2070 timeline (was driven into hiding, not killed). Could ally with or be exploited by the secret organization. His surviving creations could play a role. TBD.
 - **Archetype (optional):** Shadow / rival; the enemy within (a fellow herald turned hostile).

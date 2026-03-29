@@ -4,14 +4,14 @@
 
 - The bestiary consists of creatures created by aliens (heralds) using their Living Suits.
 - Not all entries were created by the same alien or at the same time; multiple aliens were sent to Earth from the [Homeworld](../Locations/Homeworld.md) at different times, and each could create new life forms.
-- Creation is done via the [Living Suit](../Technology/AlienTech.md). Heralds create humanoid hybrids (e.g. werewolf, minotaur, horse-headed human) but do not create ordinary humans (or this is not recorded).
-- The [Secret Organization](../Factions/SecretOrganization.md) hunts both aliens and their creations: artifacts and creatures.
+- Creation is done via the [Living Suit](../Technology/Alien Tech.md). Heralds create humanoid hybrids (e.g. werewolf, minotaur, horse-headed human) but do not create ordinary humans (or this is not recorded).
+- The [Secret Organization](../Factions/Secret Organization.md) hunts both aliens and their creations: artifacts and creatures.
 - Many of these hybrids were perceived as gods (e.g. zoomorphic gods in Ancient Egypt) and later influenced mythology (e.g. Greek).
 - **Unified theory of mythology:** Because each herald landed in a different region and sampled different local fauna, they created entirely different mythologies. This is why ancient, unconnected cultures all have stories of hybrid beasts - the heralds were literally manufacturing them as local defense forces or laborers. The bestiary is, in effect, a biological explanation for all of world mythology.
 
 ## 2. Creation mechanics
 
-Creatures are created by the Herald’s [Living Suit](../Technology/AlienTech.md), which can sample local DNA and produce new species. For full technical details on creation mechanics, energy costs, and biomass decomposition, see [Alien Technology](../Technology/AlienTech.md).
+Creatures are created by the Herald’s [Living Suit](../Technology/Alien Tech.md), which can sample local DNA and produce new species. For full technical details on creation mechanics, energy costs, and biomass decomposition, see [Alien Technology](../Technology/Alien Tech.md).
 
 ## 3. Physical and behavioral traits
 
@@ -35,7 +35,7 @@ In 2070, a small but stable global population of monsters lives hidden from main
 
 ## 6. Death and decomposition
 
-Monsters decompose rapidly after death, leaving only biomass — no skeletons. For the technical explanation, see [Alien Technology — Biomass Decomposition](../Technology/AlienTech.md).
+Monsters decompose rapidly after death, leaving only biomass — no skeletons. For the technical explanation, see [Alien Technology — Biomass Decomposition](../Technology/Alien Tech.md).
 
 ## 7. Bestiary by category
 
@@ -88,9 +88,9 @@ Unicorn (created in Middle Ages, England; has behavioral peculiarities, e.g. tow
 
 - **Notable creations by protagonist:** Werewolf, Minotaur, Anubis (Ancient Egypt; worshipped as a god), Lizardman, Sobek. The hero remained in Egypt throughout his time on Earth; he did not travel to remote regions to create creatures or build armies elsewhere.
 - **Creations by other heralds:** Other hybrids and monsters across the world were created by other heralds — for example, [Arturas](Arturas.md) created few new species in England (including the Unicorn, during the Middle Ages). Each herald operated in their own region and sampled different local fauna, which is why mythologies differ across cultures. See [Homeworld — The Mission](../Locations/Homeworld.md) for regional landing details.
-- **Armies:** The protagonist created armies of beasts in Egypt; these were used rarely to keep their existence secret. See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md) for their use in the war.
+- **Armies:** The protagonist created armies of beasts in Egypt; these were used rarely to keep their existence secret. See [Ra vs Apophis War](../Events/Ra vs Apophis War.md) for their use in the war.
 - **Settlement (2070):** See [Settlement](../Locations/Settlement.md) and [Hidden Monster Community](../Factions/Monsters.md).
-- **Alien appearance (without suit):** Not humanoid; beast-like, animal-like, larger than humans. For suit details, see [Alien Technology](../Technology/AlienTech.md).
+- **Alien appearance (without suit):** Not humanoid; beast-like, animal-like, larger than humans. For suit details, see [Alien Technology](../Technology/Alien Tech.md).
 
 ## 9. References
 

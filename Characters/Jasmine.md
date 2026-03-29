@@ -6,12 +6,12 @@
 - **Alias(es):** Scarlett (stage name at the nightclub; used to remain anonymous)
 - **Type:** Human
 - **Role:** Main character.
-- **Demographics (optional):** 21 years old in 2070. Female. High school student. Likes history. Moonlights as a dancer (ballet, belly dance) at a nightclub.
+- **Demographics (optional):** 21 years old in 2070. Female. High school student. Likes history. Moonlights as a dancer (ballet, belly dance, pole dancing) at a nightclub.
 
 ## 2. Physical
 
 - **Build:** 165 cm. Petite, slender, fragile-looking.
-- **Distinctive traits:** Long wavy golden (blonde) hair. Green eyes. Small, upturned nose. Thin neck. Pale, silky skin. Agile and flexible (dance, contortionist-capable). Often described as cute, elegant, fragile.
+- **Distinctive traits:** Long wavy golden (blonde) hair that flows down to her shins. Green eyes. Small, upturned nose. Thin neck. Pale, silky skin. Agile and flexible (dance, contortionist-capable). Often described as cute, elegant, fragile.
 - **Voice/speech (optional):** Languages: English (native), French. Pace: hesitant and soft; tends to speak slowly or with small pauses, and may trail off or drop volume when unsure; can rush or stumble over words when nervous. Catchphrases / verbal tics: “I don’t know…”, “Maybe…”, “Sorry” (often); “Um” or “Well…” when buying time; when she trusts someone, more “Right?” or “You know?” as she opens up.
 - **Morphology (if hybrid/alien):** N/A - human.
 
@@ -29,25 +29,24 @@
 
 ## 4. Backstory
 
-- **Origin:** 2070. Lives in a metropolis. Modest household with mother, grandmother. Parents divorced. She is the direct descendant of [Iras](Iras.md) — see [Iras](Iras.md) for full details on the genetic legacy. Jasmine does not know about any of this; she walks around the city with a subconscious backup of an ancient life buried in her genetic code.
+- **Origin:** 2070. Lives in a metropolis. Modest household with mother, grandmother. Parents divorced. She is the direct descendant of [Iras](Iras.md).
 - **Key past events:** TBD
 - **Ties to the world:** Father is a rich mafioso who loves her but rarely shows or admits it. Family is tight-knit despite modest means.
 
 ## 5. Relationships
 
-- **Allies:** Mother, grandmother. Father (complicated - she adores him and longs for his approval).
-- **Enemies:** None.
+- **Allies:** Mother, grandmother. Father (complicated — she adores him and longs for his approval). [Leena](Leena.md) — closest school friend.
 - **Dependents / others:** None.
 - **Public perception (optional):** At school: model student, possibly seen as shy. At the nightclub: seductive, mysterious (masked).
 
 ## 6. Abilities and equipment
 
-- **Skills:** Strong student (excels in studies, likes history). Dancing: ballet, belly dance; sensual and flexible performances; contortionist-capable.
+- **Skills:** Strong student (excels in studies, likes history). Dancing: ballet, belly dance, pole dancing; sensual and flexible performances; contortionist-capable; can do the splits.
 - **Weapons / gear:** None indicated.
 - **Special capabilities:** None (human). Except far ancestor life memory in her DNA.
 
 ## 7. Story usage
 
 - **Plot function:** Main character.
-- **Possible arcs:** Finding courage and agency; reconciling desire for approval with self-worth; discovery of her ancient genetic heritage; connection to the alien; relationship with father; encounter with the artifact and awakening of ancestral memories.
+- **Possible arcs:** Discovery of her ancient genetic heritage; relationship with father.
 - **Archetype (optional):** innocent/seductress, lover, seeker.

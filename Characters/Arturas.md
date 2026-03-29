@@ -40,7 +40,7 @@
 ## 6. Abilities and equipment
 
 - **Skills:** TBD.
-- **Weapons / gear:** TBD.
+- **Weapons / gear:** [Holy Grail / Gradale](../Technology/Artifacts.md) — ancient artifact from the Dragon homeworld; plans to present this to [Alekandras](Alekandras.md)
 - **Special capabilities:** TBD.
 
 ## 7. Story usage

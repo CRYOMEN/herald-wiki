@@ -22,7 +22,7 @@ The community's most important laws revolve around maintaining absolute secrecy 
 - Violations are treated as serious offenses
 
 **Law: Memory Modification**
-- If a human accidentally or intentionally discovers the community, their memory of the encounter is wiped and they are released — no harm, no further action. See [Technology](../Technology/AlienTech.md) for technical details
+- If a human accidentally or intentionally discovers the community, their memory of the encounter is wiped and they are released — no harm, no further action. See [Technology](../Technology/Alien Tech.md) for technical details
 - Community members (human only) who wish to leave permanently may also have their memories modified to allow safe reintegration into mainstream society
 
 ### Criminal Law

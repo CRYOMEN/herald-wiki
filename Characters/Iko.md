@@ -9,10 +9,10 @@
 
 ## 2. Physical
 
-- **Build:** Non-humanoid. Described as tentacled, multi-limbed, sort of floating - a biological drone.
-- **Distinctive traits:** Somewhat similar to a Seraphim (many appendages, not quite human-like), possibly with long, thick tentacles. Exact appearance TBD.
+- **Build:** Small and slender, standing at just under five feet tall (~150 cm). Non-humanoid but feminine-looking. Tentacled, multi-limbed, sort of floating.
+- **Distinctive traits:** Pale, slightly transparent skin giving a ghostly appearance. Delicate features. Somewhat similar to a Seraphim (many appendages, not quite human-like), possibly with long, thick tentacles. Exact appearance TBD.
 - **Voice/speech (optional):** Can speak; sentient and articulate. Details TBD.
-- **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton that can detach and operate independently. See [Technology](../Technology/AlienTech.md).
+- **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton that can detach and operate independently. See [Technology](../Technology/Alien Tech.md).
 
 ## 3. Psychological / temperament
 
@@ -25,7 +25,7 @@
 
 ## 4. Backstory
 
-- **Origin:** A standard component of every alien [Living Suit](../Technology/AlienTech.md). Not born or evolved naturally.
+- **Origin:** A standard component of every alien [Living Suit](../Technology/Alien Tech.md). Not born or evolved naturally.
 - **Key past events:** Accompanied [Alekandras](Alekandras.md). Lived among the followers of Cleopatra, acting as a scout and companion to the settlement. Helped [Iras](Iras.md) modify her germline DNA and created a special artifact for her descendants — see [Iras](Iras.md) for full details.
 - **Ties to the world:** TBD.
 

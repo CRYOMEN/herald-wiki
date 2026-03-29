@@ -3,7 +3,7 @@
 ## 1. Overview
 
 - **Location:** Another galaxy, far from Earth.
-- **System:** A binary planet system orbiting a single sun - two planets sharing one star.
+- **System:** A binary planet system orbiting a single sun - two planets sharing one star. Together with Earth, they form the **"Three Sisters"** — the overarching concept of the story universe ("Three Sisters Universe"). The two twin planets are the first and second sisters; Earth is the third.
 - **Nature:** The Homeworld is a living, thriving biosphere - the origin of aliens culture.
 - **Current status:** Dying. The binary system is being consumed by the cosmic threat (see below). Aliens launched missions to Earth - in a desperate effort to outrun and eventually counter this extinction.
 

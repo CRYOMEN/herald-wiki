@@ -58,4 +58,4 @@ Use this file as a master template. Copy the structure into new files (one per c
 
 ## Example
 
-See [Settlement Leader](Settlement%20Leader.md) for a filled-out example based on this template.
+See [Settlement Leader](Settlement Leader.md) for a filled-out example based on this template.

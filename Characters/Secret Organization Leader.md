@@ -26,8 +26,8 @@
 
 ## 4. Backstory
 
-- **Origin:** A high-ranking operative of the [Secret Organization](../Factions/SecretOrganization.md).
-- **Key past events:** Led the assault on the settlement in the Awakening event. See [Battle Scene](../Events/Battle%20Scene.md).
+- **Origin:** A high-ranking operative of the [Secret Organization](../Factions/Secret Organization.md).
+- **Key past events:** Led the assault on the settlement in the Awakening event. See [Battle Scene](../Events/Battle Scene.md).
 - **Ties to the world:** The secret organization (his employer / faction).
 
 ## 5. Relationships
@@ -45,7 +45,7 @@
 
 ## 7. Story usage
 
-- **Appearances:** [Battle Scene: The Awakening](../Events/Battle%20Scene.md).
+- **Appearances:** [Battle Scene: The Awakening](../Events/Battle Scene.md).
 - **Plot function:** TBD.
 - **Possible arcs:** TBD.
 - **Archetype (optional):** The hunter; corporate soldier.

@@ -18,7 +18,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** TBD.
-- **Drives:** Uphold the oath given by [Cleopatra](Cleopatra%20VII.md) - guard the Herald at the cost of their lives. Protect the settlement and its people.
+- **Drives:** Uphold the oath given by [Cleopatra](Cleopatra VII.md) - guard the Herald at the cost of their lives. Protect the settlement and its people.
 - **Fears:** Failure of the sacred mission; dishonoring the oath.
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** TBD.
@@ -27,7 +27,7 @@
 ## 4. Backstory
 
 - **Origin:** TBD.
-- **Key past events:** The Awakening - the defining event of his life. See [Battle Scene](../Events/Battle%20Scene.md).
+- **Key past events:** The Awakening - the defining event of his life. See [Battle Scene](../Events/Battle Scene.md).
 
 ## 5. Relationships
 

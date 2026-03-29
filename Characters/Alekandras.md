@@ -32,8 +32,8 @@
 - **Secrets or hidden need:**
   - **The Living Suit's true cost:** Without it, he would live only 150–170 years like any other member of his species. The suit grants him millennia—but at the cost of watching everyone he loves die.
   - **Isolation in 2070:** After waking in 2070, he does not know that the hybrid species he created survived the millennia and still exist in hiding. He believes he is completely alone: his homeworld is dying or dead, his followers are gone, and he has no idea his "children" are still out there.
-  - **Love as survival mechanism:** Over 3,000 years, he has fallen in love only ~25 times (*see [Alekandras' 25 Women](Alekandras_Soulmates.md)*). The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight. Each new love requires greater courage. By 2070, he carries the memory of dozens of lifetimes' worth of war, death, and lost intimacy—a burden no therapy can address.
-  - **Accidental discovery:** The suit's neurochemical resonance recharging mechanism — where emotional intimacy converts into energy — was discovered by accident when Alekandras fell in love with his first Egyptian partner. See [Alien Technology](../Technology/AlienTech.md) for full technical details.
+  - **Love as survival mechanism:** Over 3,000 years, he has fallen in love only ~25 times (*see [Alekandras' 25 Women](Alekandras Soulmates.md)*). The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight. Each new love requires greater courage. By 2070, he carries the memory of dozens of lifetimes' worth of war, death, and lost intimacy—a burden no therapy can address.
+  - **Accidental discovery:** The suit's neurochemical resonance recharging mechanism — where emotional intimacy converts into energy — was discovered by accident when Alekandras fell in love with his first Egyptian partner. See [Alien Technology](../Technology/Alien Tech.md) for full technical details.
 - **Notable habits:** TBD.
 
 ## 4. Backstory
@@ -68,12 +68,12 @@
   - All this flourishing was thanks to his knowledge, technology, and culture from his homeworld
 
   **War with Apophis (date TBD)**
-  - See [Ra vs Apophis War](../Events/Ra%20vs%20Apophis%20War.md) for the full account. The war drained his special energy to critically low levels.
+  - See [Ra vs Apophis War](../Events/Ra vs Apophis War.md) for the full account. The war drained his special energy to critically low levels.
 
   **Intimate Connections (~3000-30 BC)**
   - Fell in love approximately 25 times over 3,000 years with queens, priestesses, and noblewomen
   - Notable partners: [Hatshepsut](Hatshepsut.md) (woman-pharaoh, 18th dynasty) and [Iras](Iras.md) (Cleopatra's gift, his last love before hibernation)
-  - *For complete catalog, see [Alekandras' 25 Women: Complete Reference](Alekandras_Soulmates.md)*
+  - *For complete catalog, see [Alekandras' 25 Women: Complete Reference](Alekandras Soulmates.md)*
 
   **Hibernation Decision (~32-33 BC, two to three years before Cleopatra's death)**
   - Calculated that in ~2,000 years humanity would reach a silicon era capable of understanding his message and possibly countering the cosmic threat
@@ -88,8 +88,8 @@
 
 ## 5. Relationships
 
-- **Allies:** [Iko](Iko.md). Followers of [Cleopatra](Cleopatra%20VII.md). [Jasmine](Jasmine.md) (eventual ally).
-- **Enemies:** [Apophis](Apophis.md). The [Secret Organization](../Factions/SecretOrganization.md).
+- **Allies:** [Iko](Iko.md). Followers of [Cleopatra](Cleopatra VII.md). [Jasmine](Jasmine.md) (eventual ally).
+- **Enemies:** [Apophis](Apophis.md). The [Secret Organization](../Factions/Secret Organization.md).
 - **Dependents / others:** Pharaohs. TBD.
 - **Public perception (optional):** Amun-Ra in Ancient Egypt, worshipers, pharaohs, strangers saw him as divine - the zoomorphic gods (figures with animal heads) were literal physical descriptions of the suits. In 2070: dragons are mythical creatures in the eyes of the world - but he is a dragon in reality (hidden and unknown to the public).
 
@@ -97,7 +97,7 @@
 
 - **Skills:** All capabilities are channelled through the **Living Suit** — great strength, flight, attack (claws, tail, horns), armoured form, long lifespan, high intelligence, and speech.
 - **Weapons / gear:** None (no human tech). The Living Suit is his only weapon and tool.
-- **Special capabilities:** Life-form creation, self-modification, biomass decomposition. See [Alien Technology](../Technology/AlienTech.md) and [Bestiary](Bestiary.md) for details.
+- **Special capabilities:** Life-form creation, self-modification, biomass decomposition. See [Alien Technology](../Technology/Alien Tech.md) and [Bestiary](Bestiary.md) for details.
 
 ## 7. Story usage
 
@@ -108,7 +108,7 @@
   - *Overall arc:* Hide, recover, find allies, deliver the message, confront both old enemies and new organizations
 - **Possible arcs:**
   - Discovery of hidden suit functions (including the neurochemical resonance mechanism)
-  - Conflict with the [Secret Organization](../Factions/SecretOrganization.md)
+  - Conflict with the [Secret Organization](../Factions/Secret Organization.md)
   - Reunion with old friend [Arturas](Arturas.md)
   - First signs that the cosmic threat to Earth is imminent
   - Uncovering why he mistakenly arrived in Ancient Egypt instead of a more advanced era

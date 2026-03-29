@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Hidden Settlement is a community located deep in the Egyptian desert, established over 2,000 years ago by the followers of [Cleopatra VII](../Characters/Cleopatra%20VII.md) with a sacred mission: to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)) at all costs. For more than two millennia, this settlement has remained completely hidden from the outside world through advanced alien concealment technology.
+The Hidden Settlement is a community located deep in the Egyptian desert, established over 2,000 years ago by the followers of [Cleopatra VII](../Characters/Cleopatra VII.md) with a sacred mission: to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)) at all costs. For more than two millennia, this settlement has remained completely hidden from the outside world through advanced alien concealment technology.
 
 ## Location
 
@@ -22,7 +22,7 @@ For over two millennia, the settlement remained completely hidden from the outsi
 
 ### Discovery and The Awakening (2070 CE)
 
-In 2070, the [Secret Organization](../Factions/SecretOrganization.md) finally discovered the settlement's location. How they overcame the concealment technology remains unclear, but theories exist (see below). This discovery led to [The Awakening battle](../Events/Battle%20Scene.md), which resulted in the catastrophic teleportation of the Herald and the destruction of most of the settlement.
+In 2070, the [Secret Organization](../Factions/Secret Organization.md) finally discovered the settlement's location. How they overcame the concealment technology remains unclear, but theories exist (see below). This discovery led to [The Awakening battle](../Events/Battle Scene.md), which resulted in the catastrophic teleportation of the Herald and the destruction of most of the settlement.
 
 ## Population
 
@@ -45,19 +45,19 @@ For details on the monster community, its laws, and survival strategies, see [Hi
 Residents who wished to leave permanently had two options:
 
 - **Leave with knowledge intact** — continue living a dual life, maintaining secrecy voluntarily.
-- **Memory-wipe and permanent departure** — voluntary, irreversible. See [Alien Technology — Memory-Wipe](../Technology/AlienTech.md) for details.
+- **Memory-wipe and permanent departure** — voluntary, irreversible. See [Alien Technology — Memory-Wipe](../Technology/Alien Tech.md) for details.
 
 ## Concealment Technology
 
 The settlement has been hidden since ~30 BCE by alien concealment technology. Residents can freely cross the perimeter in and out.
 
-For technical details, see [Alien Technology — Settlement Concealment](../Technology/AlienTech.md).
+For technical details, see [Alien Technology — Settlement Concealment](../Technology/Alien Tech.md).
 
 ## How the Secret Organization Discovered It
 
 **Status:** Multiple theories exist (TBD - final explanation to be determined)
 
-The discovery of the settlement after 2,000 years of perfect concealment raises critical questions about how the [Secret Organization](../Factions/SecretOrganization.md) overcame such advanced alien technology. Several theories have been proposed:
+The discovery of the settlement after 2,000 years of perfect concealment raises critical questions about how the [Secret Organization](../Factions/Secret Organization.md) overcame such advanced alien technology. Several theories have been proposed:
 
 ### Theory 1: Reverse-Engineering of Alien Technology (Primary Theory)
 
@@ -116,16 +116,16 @@ A hostile alien entity—possibly [Apophis](../Characters/Apophis.md) or another
 
 ### The Awakening Battle (2070 CE)
 
-The settlement's discovery directly led to a catastrophic battle that resulted in mass casualties, the destruction of most of the settlement, and the chaotic teleportation of the Herald. A few survivors remain, including the [Settlement Leader](../Characters/Settlement%20Leader.md).
+The settlement's discovery directly led to a catastrophic battle that resulted in mass casualties, the destruction of most of the settlement, and the chaotic teleportation of the Herald. A few survivors remain, including the [Settlement Leader](../Characters/Settlement Leader.md).
 
-See [Battle Scene: The Awakening](../Events/Battle%20Scene.md) for the full account.
+See [Battle Scene: The Awakening](../Events/Battle Scene.md) for the full account.
 
 ## Related
 
-- [Battle Scene: The Awakening](../Events/Battle%20Scene.md) - The attack on the settlement
-- [Technology](../Technology/AlienTech.md) - Alien technology overview
+- [Battle Scene: The Awakening](../Events/Battle Scene.md) - The attack on the settlement
+- [Technology](../Technology/Alien Tech.md) - Alien technology overview
 - [Alekandras](../Characters/Alekandras.md) - The Herald being guarded
-- [Cleopatra VII](../Characters/Cleopatra%20VII.md) - Founder of the settlement's mission
+- [Cleopatra VII](../Characters/Cleopatra VII.md) - Founder of the settlement's mission
 - [Iko](../Characters/Iko.md) - The Herald's assistant
-- [Settlement Leader](../Characters/Settlement%20Leader.md) - Leader of the community
-- [Secret Organization Leader](../Characters/Secret%20Organization%20Leader.md) - Commander of the attacking force
+- [Settlement Leader](../Characters/Settlement Leader.md) - Leader of the community
+- [Secret Organization Leader](../Characters/Secret Organization Leader.md) - Commander of the attacking force
