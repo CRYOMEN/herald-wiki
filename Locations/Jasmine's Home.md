@@ -2,7 +2,7 @@
 
 ## Overview
 
-A modest family house on the outskirts of the [Metropolis](Metropolis.md), where [Jasmine](../Characters/Jasmine.md) lives at the start of the 2070 story.
+A modest family house on the outskirts of the [Metropolis](Metropolis.md), where [Jasmine Foster](../Characters/Jasmine.md) lives at the start of the 2070 story.
 
 ## Description
 
@@ -27,4 +27,4 @@ The house is modest — a tight-knit family living with limited means on the cit
 
 ## Related
 
-- [Jasmine](../Characters/Jasmine.md) — primary resident
+- [Jasmine Foster](../Characters/Jasmine.md) — primary resident

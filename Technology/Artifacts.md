@@ -20,10 +20,10 @@ Ancient and powerful objects of significance to the story and world-building.
 
 **Creator:** [Iko](../Characters/Iko.md)
 
-**Purpose:** Opens/unlocks hidden internal memory encoded within [Jasmine](../Characters/Jasmine.md)'s DNA. This artifact reveals information about Jasmine's true nature or past that is stored at a genetic/biological level.
+**Purpose:** Opens/unlocks hidden internal memory encoded within [Jasmine Foster](../Characters/Jasmine.md)'s DNA. This artifact reveals information about Jasmine's true nature or past that is stored at a genetic/biological level.
 
-**Significance:** Provides access to dormant knowledge or abilities within Jasmine that are crucial to the narrative.
+**Significance:** Provides access to dormant knowledge or abilities within [Jasmine Foster](../Characters/Jasmine.md) that are crucial to the narrative.
 
 **Related:**
-- [Jasmine](../Characters/Jasmine.md) (subject — has encoded memory in DNA)
+- [Jasmine Foster](../Characters/Jasmine.md) (subject — has encoded memory in DNA)
 - [Iko](../Characters/Iko.md) (creator)

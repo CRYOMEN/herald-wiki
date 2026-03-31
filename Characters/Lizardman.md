@@ -5,7 +5,7 @@
 - **Name:** TBD
 - **Alias(es):** Lizardman
 - **Type:** Hybrid (human–lizard); unique — his species has never been seen alive, only described in books
-- **Role:** Key character; Jasmine's rescuer and protector; famous afalinas trainer in the underground community
+- **Role:** Key character; [Jasmine Foster's](Jasmine.md) rescuer and protector; famous afalinas trainer in the underground community
 - **Demographics (optional):** Male. Age unknown (amnesia). Mostly neutral alignment.
 
 ## 2. Physical
@@ -42,7 +42,7 @@
 
 ## 5. Relationships
 
-- **Allies:** [Jasmine](Jasmine.md) — rescued her from kidnapping; becomes her protector. The underground community.
+- **Allies:** [Jasmine Foster](Jasmine.md) — rescued her from kidnapping; becomes her protector. The underground community.
 - **Enemies:** TBD.
 - **Dependents / others:** TBD.
 - **Public perception (optional):** Famous in the underground community as the best afalinas trainer. Many consider him a friend, but he does not feel he has true friends.
@@ -58,8 +58,8 @@
 
 ## 7. Story usage
 
-- **Appearances:** Kidnapper Story (rescues Jasmine); Beyond Friendship (visits Jasmine at high school); Prey for Angels (Jasmine finds him in the sewers).
-- **Plot function:** Jasmine's protector and love interest in the underground; bridge between human world and monster community. Famous afalinas mentor.
+- **Appearances:** Kidnapper Story (rescues [Jasmine Foster](Jasmine.md)); Beyond Friendship (visits Jasmine at high school); Prey for Angels (Jasmine finds him in the sewers).
+- **Plot function:** [Jasmine Foster's](Jasmine.md) protector and love interest in the underground; bridge between human world and monster community. Famous afalinas mentor.
 - **Possible arcs:** Discovering the truth about his past and origin.
 - **Archetype (optional):** Protector; beast with a heart; reluctant mentor.
 

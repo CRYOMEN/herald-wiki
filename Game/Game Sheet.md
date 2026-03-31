@@ -34,7 +34,7 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 
 - **Protagonist(s):** TBD.
 - **Antagonist(s):** TBD.
-- **Key supporting cast:** [Iko](../Characters/Iko.md); [the Settlement Leader](../Characters/Settlement Leader.md); [Cleopatra](../Characters/Cleopatra VII.md) (historical, flashbacks); [Iras](../Characters/Iras.md) (historical, Jasmine's ancestor).
+- **Key supporting cast:** [Iko](../Characters/Iko.md); [the Settlement Leader](../Characters/Settlement Leader.md); [Cleopatra](../Characters/Cleopatra VII.md) (historical, flashbacks); [Iras](../Characters/Iras.md) (historical, [Jasmine Foster's](../Characters/Jasmine.md) ancestor).
 - **Key antagonist characters:** [Secret Organization Leader](../Characters/Secret Organization Leader.md) (field commander).
 - **Character list / who returns (optional):** TBD.
 

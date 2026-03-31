@@ -5,7 +5,7 @@
 - **Name:** Professor Bartholomew Edwin Edwards
 - **Alias(es):** B.E.E. (initials); Professor Edwards
 - **Type:** Human
-- **Role:** Supporting character; [Jasmine](Jasmine.md)'s history professor
+- **Role:** Supporting character; [Jasmine Foster](Jasmine.md)'s history professor
 - **Demographics:** Male, Ph.D., college professor
 
 ## 2. Physical
@@ -27,11 +27,11 @@
 
 - **Origin:** —
 - **Key past events:** —
-- **Ties to the world:** Employed at the same college [Jasmine](Jasmine.md) attends; has access to the college AI assistant PrinAG789, which he uses to communicate with students
+- **Ties to the world:** Employed at the same college [Jasmine Foster](Jasmine.md) attends; has access to the college AI assistant PrinAG789, which he uses to communicate with students
 
 ## 5. Relationships
 
-- **Allies:** [Jasmine](Jasmine.md) -- recognizes her as one of the top students in her year level and personally selects her for the advanced mythology, folklore, and history program
+- **Allies:** [Jasmine Foster](Jasmine.md) -- recognizes her as one of the top students in her year level and personally selects her for the advanced mythology, folklore, and history program
 - **Enemies:** —
 - **Dependents / others:** —
 
@@ -43,12 +43,12 @@
 
 ## 7. Story usage
 
-- **Appearances:** Beyond Friendship (story) -- mentioned via PrinAG789's message to Jasmine (does not appear in person)
-- **Plot function:** Catalyst for Jasmine's academic advancement. His invitation to the advanced mythology, folklore, and history program validates Jasmine's intellect and love of history, opening a new chapter in her surface-world life. The program could also become a narrative bridge between Jasmine's academic interests and the hidden history of the underground world.
-- **Possible arcs:** Could become a mentor figure to Jasmine; the advanced history program might inadvertently lead Jasmine toward knowledge that intersects with the underground world's secrets; potential for Professor Edwards to have deeper knowledge or connections than he initially appears to have.
+- **Appearances:** Beyond Friendship (story) -- mentioned via PrinAG789's message to [Jasmine Foster](Jasmine.md) (does not appear in person)
+- **Plot function:** Catalyst for [Jasmine Foster's](Jasmine.md) academic advancement. His invitation to the advanced mythology, folklore, and history program validates Jasmine's intellect and love of history, opening a new chapter in her surface-world life. The program could also become a narrative bridge between Jasmine's academic interests and the hidden history of the underground world.
+- **Possible arcs:** Could become a mentor figure to [Jasmine Foster](Jasmine.md); the advanced history program might inadvertently lead Jasmine toward knowledge that intersects with the underground world's secrets; potential for Professor Edwards to have deeper knowledge or connections than he initially appears to have.
 
 ## 8. Notes
 
-- The program is an **advanced mythology, folklore, and history program** -- Jasmine is selected because she loves history and has excellent grades (she is one of the top students in her year level)
+- The program is an **advanced mythology, folklore, and history program** -- [Jasmine Foster](Jasmine.md) is selected because she loves history and has excellent grades (she is one of the top students in her year level)
 - Does not appear in person in the story; his invitation is delivered through PrinAG789, the college AI assistant
 - His initials B.E.E. are noted with question marks in the source text, suggesting the name may still be in development

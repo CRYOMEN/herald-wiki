@@ -16,16 +16,16 @@ Training and mentoring afalinas is a recognized profession in the underground co
 
 ## 4. Nature and vulnerability
 
-According to [Lizardman](../Characters/Lizardman.md)'s description (in his conversation with [Jasmine](../Characters/Jasmine.md)):
+According to [Lizardman](../Characters/Lizardman.md)'s description (in his conversation with [Jasmine Foster](../Characters/Jasmine.md)):
 
 - Afalinas are beings of such purity and clarity of soul that they attain an almost angelic grace.
 - Their sensitivity to the minds and hearts of others is peerless — as is their vulnerability to darkness that corrupts what is pristine if not kept safe.
 - They seek masters strong enough to shield their radiance from the evils of the world — and worthy of the devoted gifts afalinas offer.
 
-> *Note: This description comes from Lizardman's words to Jasmine and may reflect his personal or poetic interpretation rather than objective fact.*
+> *Note: This description comes from Lizardman's words to [Jasmine Foster](../Characters/Jasmine.md) and may reflect his personal or poetic interpretation rather than objective fact.*
 
 ## 5. Cultural significance
 
-- The word "afalina" carries weight in the underground world. [Lizardman](../Characters/Lizardman.md) uses it as a term of endearment and comparison for [Jasmine](../Characters/Jasmine.md), likening her to the beauty, devotion, and grace of these creatures.
+- The word "afalina" carries weight in the underground world. [Lizardman](../Characters/Lizardman.md) uses it as a term of endearment and comparison for [Jasmine Foster](../Characters/Jasmine.md), likening her to the beauty, devotion, and grace of these creatures.
 - The relationship between afalina and master involves "devoted gifts" — though this bond carries an undercurrent of power dynamics and potential peril.
-- Unknown to surface-dwellers; Jasmine does not recognize the word when she first hears it.
+- Unknown to surface-dwellers; [Jasmine Foster](Jasmine.md) does not recognize the word when she first hears it.
