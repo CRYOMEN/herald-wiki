@@ -47,7 +47,7 @@
 
 ## 7. Story usage
 
-- **Appearances:** Beyond Friendship (story) — delivers Professor Edwards' invitation to [Jasmine Foster](Jasmine.md); [Leena](Leena.md) tries to use it to locate Jasmine.
-- **Plot function:** Delivers the advanced history program invitation that validates [Jasmine Foster's](Jasmine.md) academic talent.
+- **Appearances:** Beyond Friendship (story) — delivers Professor Edwards' invitation to [Jasmine Foster](Jasmine Foster.md); [Leena](Leena.md) tries to use it to locate Jasmine.
+- **Plot function:** Delivers the advanced history program invitation that validates [Jasmine Foster's](Jasmine Foster.md) academic talent.
 - **Possible arcs:** TBD.
 - **Archetype (optional):** Helpful AI assistant.

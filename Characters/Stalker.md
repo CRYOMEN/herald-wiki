@@ -5,7 +5,7 @@
 - **Name:** Stalker
 - **Alias(es):** Tentaculo
 - **Type:** Unknown origin — not a hybrid, not human. True nature undetermined.
-- **Role:** The most dangerous inhabitant of the underground. Guardian of [Mara](Mara.md). Key figure in [Jasmine Foster's](Jasmine.md) flashback arc.
+- **Role:** The most dangerous inhabitant of the underground. Guardian of [Mara](Mara.md). Key figure in [Jasmine Foster's](Jasmine Foster.md) flashback arc.
 - **Demographics (optional):** Unknown age. Sentient.
 
 ## 2. Physical
@@ -45,8 +45,8 @@
 
 ## 7. Story usage
 
-- **Appearances:** Encounters with [Jasmine Foster](Jasmine.md) and [Lizardman](Lizardman.md). Key role in the flashback arc.
-- **Plot function:** Will take [Jasmine Foster](Jasmine.md) to the desert, through a temporal rift into the past, where she will witness who she was in a previous life — playing as the slave ([Iras](Iras.md)) who was gifted to [Alekandras](Alekandras.md). This is one of the key flashback events in the story.
+- **Appearances:** Encounters with [Jasmine Foster](Jasmine Foster.md) and [Lizardman](Lizardman.md). Key role in the flashback arc.
+- **Plot function:** Will take [Jasmine Foster](Jasmine Foster.md) to the desert, through a temporal rift into the past, where she will witness who she was in a previous life — playing as the slave ([Iras](Iras.md)) who was gifted to [Alekandras](Alekandras.md). This is one of the key flashback events in the story.
 - **Possible arcs:** TBD.
 - **Archetype (optional):** Unseen terror; unlikely guide.
 

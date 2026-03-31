@@ -2,7 +2,7 @@
 
 ## Overview
 
-An apartment on the top floor of a building in the [Metropolis](Metropolis.md). [Jasmine Foster](../Characters/Jasmine.md) moves here after the Herald's capsule crashes into the city, replacing her [family home on the outskirts](Jasmine's Home.md).
+An apartment on the top floor of a building in the [Metropolis](Metropolis.md). [Jasmine Foster](../Characters/Jasmine Foster.md) moves here after the Herald's capsule crashes into the city, replacing her [family home on the outskirts](Jasmine's Home.md).
 
 ## Description
 
@@ -44,5 +44,5 @@ The bedroom reflects Jasmine's personality — cozy yet vibrant:
 
 ## Related
 
-- [Jasmine Foster](../Characters/Jasmine.md) — resident
+- [Jasmine Foster](../Characters/Jasmine Foster.md) — resident
 - [Olf](../Characters/Olf.md) — visits the apartment by climbing the building at night

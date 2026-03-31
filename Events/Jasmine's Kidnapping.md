@@ -2,11 +2,11 @@
 
 ## Overview
 
-[Hassan al-Ali](../Characters/Hassan.md), a black-market smuggler drowning in debt to a powerful mafia clan, kidnaps [Jasmine Foster](../Characters/Jasmine.md) from a nightclub and brings her underground. This event leads to Jasmine's first encounter with [Lizardman](../Characters/Lizardman.md) and becomes the catalyst for their connection.
+[Hassan al-Ali](../Characters/Hassan.md), a black-market smuggler drowning in debt to a powerful mafia clan, kidnaps [Jasmine Foster](../Characters/Jasmine Foster.md) from a nightclub and brings her underground. This event leads to Jasmine's first encounter with [Lizardman](../Characters/Lizardman.md) and becomes the catalyst for their connection.
 
 ## Timeline
 
-1. **Hassan spots Jasmine:** Hassan visits the [City Club](../Locations/City Club.md) and sees [Jasmine Foster](../Characters/Jasmine.md) dancing as "Scarlett." He identifies her as the perfect subject for his scheme — producing provocative content featuring surface humans with underground creatures to sell to wealthy underground clients.
+1. **Hassan spots Jasmine:** Hassan visits the [City Club](../Locations/City Club.md) and sees [Jasmine Foster](../Characters/Jasmine Foster.md) dancing as "Scarlett." He identifies her as the perfect subject for his scheme — producing provocative content featuring surface humans with underground creatures to sell to wealthy underground clients.
 2. **The kidnapping:** Hassan kidnaps Jasmine and takes her underground to a cell in the [sewers](../Locations/Sewers.md). He binds her, dresses her in costumes from his oriental-decorated suitcase, and sets up recording equipment.
 3. **Hassan prepares Jasmine:** Hassan binds Jasmine with ropes and suspends her in the center of the cell. He deliberately creates this vulnerable situation before summoning Lizardman.
 4. **Lizardman is tricked:** Hassan knows [Lizardman](../Characters/Lizardman.md) from the [Underground Tavern](../Locations/Underground Tavern.md). He intentionally deceives Lizardman into coming to the cell by telling him a woman there "needed powerful love" — framing the encounter as consensual. Hassan then leaves to "call his accomplice," but actually leaves the cell, allowing Lizardman to discover Jasmine Foster's true situation.
@@ -25,7 +25,7 @@
 ## Related
 
 - [Hassan al-Ali](../Characters/Hassan.md) — the kidnapper
-- [Jasmine Foster](../Characters/Jasmine.md) — the victim
+- [Jasmine Foster](../Characters/Jasmine Foster.md) — the victim
 - [Lizardman](../Characters/Lizardman.md) — the rescuer
 - [City Club](../Locations/City Club.md) — where Hassan first spotted Jasmine
 - [Underground Council](../Factions/Underground Council.md) — whose laws Hassan violated

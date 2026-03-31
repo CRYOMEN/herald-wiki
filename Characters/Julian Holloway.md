@@ -3,7 +3,7 @@
 ## 1. Identity
 
 - **Name:** Julian Holloway
-- **Alias(es):** None
+- **Alias(es):** Big Boss; Julian
 - **Type:** Human
 - **Role:** Powerful mafia boss (mafioso) in the metropolis.
 - **Demographics:** Middle-aged, male.
@@ -16,23 +16,23 @@
 
 ## 3. Psychological / temperament
 
-- **Personality:** Disciplined, calculating, and cold on the surface; deeply protective of [Jasmine Foster](Jasmine.md) though he rarely shows it.
-- **Drives:** Power and control over his criminal empire; protection of his daughter.
-- **Fears:** Losing control; harm coming to [Jasmine Foster](Jasmine.md).
-- **Flaws / weaknesses:** Inability to express affection directly; his dangerous life puts his family at risk.
-- **Secrets or hidden need:** To be truly seen and understood by his daughter without the shadow of his criminal life.
+- **Personality:** Disciplined, calculating, and cold on the surface; deeply protective of [Jasmine Foster](Jasmine Foster.md).
+- **Drives:** Power and control over his criminal empire; protection of his daughter; deeply in love with [Grace Foster](Grace Foster.md) despite their distance.
+- **Fears:** Losing control; harm coming to [Jasmine Foster](Jasmine Foster.md).
+- **Flaws / weaknesses:** His dangerous life puts his family at risk. Struggle to balance his love for his family with his position as "Big Boss."
+- **Secrets or hidden need:** To be truly seen and understood by his daughter; he misses the life he could have had with [Grace Foster](Grace Foster.md).
 
 ## 4. Backstory
 
 - **Origin:** 2070 metropolis criminal underworld.
-- **Key past events:** Rose to the top of a powerful mafia clan. Divorce from [Elena Foster](Elena Foster.md) due to his dangerous profession.
-- **Ties to the world:** One of the most powerful and wealthy crime figures in the metropolis.
+- **Key past events:** Rose to the top of a powerful mafia clan. Separation from [Grace Foster](Grace Foster.md) due to his dangerous profession — they loved each other deeply, but Grace feared for their family's safety and chose to leave. Despite the separation, they still love each other.
+- **Ties to the world:** One of the most powerful and wealthy crime figures in the metropolis ("Big Boss").
 
 ## 5. Relationships
 
-- **Allies:** Various mafia lieutenants; [Jasmine Foster](Jasmine.md) (daughter; he adores her but struggles with the relationship).
-- **Enemies:** [Elena Foster](Elena Foster.md) (ex-wife; their relationship is strained and distant). Rivals in the criminal underworld.
-- **Dependents / others:** His mafia clan; [Jasmine Foster](Jasmine.md).
+- **Allies:** Various mafia lieutenants; [Jasmine Foster](Jasmine Foster.md) (daughter; he adores her and visits her from time to time). [Grace Foster](Grace Foster.md) (ex-partner; they are not enemies and still love each other deeply but have almost no contact).
+- **Enemies:** Rivals in the criminal underworld.
+- **Dependents / others:** His mafia clan; [Jasmine Foster](Jasmine Foster.md).
 
 ## 6. Abilities and equipment
 
@@ -41,5 +41,6 @@
 
 ## 7. Story usage
 
-- **Appearances:** Mentioned in [Jasmine's](Jasmine.md) backstory.
-- **Plot function:** Antagonist / supporting character whose status and actions heavily influence [Jasmine Foster's](Jasmine.md) arc.
+- **Appearances:** Mentioned in [Jasmine Foster's](Jasmine Foster.md) backstory.
+- **Plot function:** Antagonist / supporting character whose status and actions heavily influence Jasmine's arc.
+- **Possible arcs:** Conflict with [Leena](Leena.md), who challenges him to better protect [Jasmine Foster](Jasmine Foster.md). This conflict might eventually lead him to reconsider his life and move his organization away from criminal activities in the distant future.

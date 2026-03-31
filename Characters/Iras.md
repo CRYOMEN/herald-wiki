@@ -5,13 +5,13 @@
 - **Name:** Iras (not her real name—her real name is TBD; the name was given to her at [Cleopatra](Cleopatra VII.md)'s court).
 - **Alias(es):** None. The name **Iras** (comparable to Greek *Iris*) was given by people at court: in Greek mythology Iris is the goddess of the rainbow, messenger of the gods, mediator between heaven and earth—they named her thus because she became the connecting link, the messenger, between [Alekandras](Alekandras.md) (Amun-Ra) and the court.
 - **Type:** Human
-- **Role:** Key backstory character - the woman [Alekandras](Alekandras.md) loved in Ancient Egypt; the ancestor whose DNA modification created [Jasmine Foster's](Jasmine.md) genetic legacy. At court she was the connecting link between Amun-Ra and the rest of Egypt (specifically the court and [Cleopatra](Cleopatra VII.md)).
+- **Role:** Key backstory character - the woman [Alekandras](Alekandras.md) loved in Ancient Egypt; the ancestor whose DNA modification created [Jasmine Foster's](Jasmine Foster.md) genetic legacy. At court she was the connecting link between Amun-Ra and the rest of Egypt (specifically the court and [Cleopatra](Cleopatra VII.md)).
 - **Demographics (optional):** Female. Originally from Scandinavian country. Captured as a prisoner around age ten and sold into slavery in Greece; at age fifteen began studying court etiquette; later resold to Cleopatra's court. Lived during the Ptolemaic dynasty, around the time of the historical [Cleopatra](Cleopatra VII.md) (during or before Cleopatra's reign).
 
 ## 2. Physical
 
 - **Build:** Small in stature.
-- **Distinctive traits:** Long blonde hair; refined, beautiful; white skin. People in the area had never seen anyone like her—she was like a star in the black sky. In appearance, speech, and behavior she resembles [Jasmine Foster](Jasmine.md) (who lived in 2070).
+- **Distinctive traits:** Long blonde hair; refined, beautiful; white skin. People in the area had never seen anyone like her—she was like a star in the black sky. In appearance, speech, and behavior she resembles [Jasmine Foster](Jasmine Foster.md) (who lived in 2070).
 - **Voice/speech (optional):** Soft-spoken; tended to speak slowly, with small pauses or trailing off when uncertain. Could rush or stumble over words when nervous. Grew warmer and more open - even playful - when she felt safe with someone.
 - **Morphology (if hybrid/alien):** N/A - human.
 
@@ -44,5 +44,5 @@
 
 ## 7. Story usage
 
-- **Appearances:** Referenced in backstory across [Alekandras](Alekandras.md), [Jasmine Foster](Jasmine.md). Appears directly in the Flashback events. Her memories will surface through [Jasmine Foster's](Jasmine.md) subconscious genetic backup.
-- **Plot function:** The origin of [Jasmine Foster's](Jasmine.md) genetic legacy.
+- **Appearances:** Referenced in backstory across [Alekandras](Alekandras.md), [Jasmine Foster](Jasmine Foster.md). Appears directly in the Flashback events. Her memories will surface through [Jasmine Foster's](Jasmine Foster.md) subconscious genetic backup.
+- **Plot function:** The origin of [Jasmine Foster's](Jasmine Foster.md) genetic legacy.

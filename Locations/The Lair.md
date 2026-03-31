@@ -19,7 +19,7 @@ The underground hideout of [Alekandras](../Characters/Alekandras.md) (one of the
 ## Story Significance
 
 - Where [Alekandras](../Characters/Alekandras.md) hides after crashing into the metropolis
-- A location [Jasmine Foster](../Characters/Jasmine.md) visits as part of her underground journey
+- A location [Jasmine Foster](../Characters/Jasmine Foster.md) visits as part of her underground journey
 
 ## Connected Locations
 

@@ -18,7 +18,7 @@ The governing body of the [hidden monster community](Monsters.md) beneath the [M
 
 ## Story Significance
 
-- [Hassan](../Characters/Hassan.md) violated the Council's law by kidnapping [Jasmine Foster](../Characters/Jasmine.md) — a surface human — and bringing her underground.
+- [Hassan](../Characters/Hassan.md) violated the Council's law by kidnapping [Jasmine Foster](../Characters/Jasmine Foster.md) — a surface human — and bringing her underground.
 - The Council's secrecy enforcement creates constant tension between the underground and surface worlds.
 
 ## Related

@@ -29,13 +29,13 @@
 
 ## 4. Backstory
 
-- **Origin:** 2070. Lives in a metropolis. Modest household with her mother, [Elena Foster](Elena Foster.md), and grandmother, [Eleanor Foster](Eleanor Foster.md). Parents divorced. She is the direct descendant of [Iras](Iras.md).
+- **Origin:** 2070. Lives in a metropolis. Modest household with her mother, [Grace Foster](Grace Foster.md), and grandmother, [Eleanor Foster](Eleanor Foster.md). Parents divorced. She is the direct descendant of [Iras](Iras.md).
 - **Key past events:** TBD
 - **Ties to the world:** Father is a rich mafioso who loves her but rarely shows or admits it. Family is tight-knit despite modest means.
 
 ## 5. Relationships
 
-- **Allies:** [Elena Foster](Elena Foster.md) (mother), [Eleanor Foster](Eleanor Foster.md) (grandmother). [Julian Holloway](Julian Holloway.md) (father; relationship is complicated — she adores him and longs for his approval). [Leena](Leena.md) — closest school friend.
+- **Allies:** [Grace Foster](Grace Foster.md) (mother), [Eleanor Foster](Eleanor Foster.md) (grandmother). [Julian Holloway](Julian Holloway.md) (father; relationship is complicated — she adores him and longs for his approval). [Leena](Leena.md) — closest school friend.
 - **Dependents / others:** None.
 - **Public perception (optional):** At school: model student, possibly seen as shy. At the nightclub: seductive, mysterious (masked).
 
