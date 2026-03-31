@@ -23,16 +23,16 @@
 
 - **Personality:**
   - *Youth (arrival in 3200–3000 BC):* curious, idealistic, impulsive, naive; friendly, wants to help and improve others; can flit between fixations; strong-willed.
-  - *Maturity (2070 AD):* measured, patient, world-weary yet still driven; centuries of loss and solitude have tempered his impulsivity into deliberate caution; deeply loyal to those few he trusts; carries the weight of thousands of years of memories and failed relationships; still idealistic at core, but masked by a stoic, sometimes melancholic exterior.
+  - *Maturity (2070 AD):* measured, patient, world-weary yet still driven; centuries of loss and solitude have tempered his impulsivity into deliberate caution; deeply loyal to those few he trusts. He carries the weight of thousands of years of memories — every death, every war, every lost love — a burden that has left him emotionally scarred and makes forming new bonds incredibly difficult. He remains idealistic at core, but masked by a stoic, sometimes melancholic exterior.
 - **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. His [Homeworld](../Locations/Homeworld.md) is dying-his mission is to save both worlds.
-- **Fears:** Fears never seeing his family again. Fears forming new attachments, knowing he will outlive them. The accumulated weight of memory — every death, every war, every lost love — threatens to crush his will to continue.
+- **Fears:** Never seeing his family again. Forming new attachments, knowing he will outlive them. The crushing weight of accumulated memory.
 - **Flaws / weaknesses:**
   - *Youth:* Inexperienced; impulsive; reckless
-  - *Maturity:* Emotional scarring from millennia of loss makes forming new bonds incredibly difficult
+  - *Maturity:* Profound emotional scarring and self-imposed isolation due to past losses.
 - **Secrets or hidden need:**
   - **The Living Suit's true cost:** Without it, he would live only 150–170 years like any other member of his species. The suit grants him millennia—but at the cost of watching everyone he loves die.
   - **Isolation in 2070:** After waking in 2070, he does not know that the hybrid species he created survived the millennia and still exist in hiding. He believes he is completely alone: his homeworld is dying or dead, his followers are gone, and he has no idea his "children" are still out there.
-  - **Love as survival mechanism:** Over 3,000 years, he has fallen in love only ~25 times (*see [Alekandras' 25 Women](Alekandras Soulmates.md)*). The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight. Each new love requires greater courage. By 2070, he carries the memory of dozens of lifetimes' worth of war, death, and lost intimacy—a burden no therapy can address.
+  - **Love as survival mechanism:** Over 3,000 years, he has fallen in love only ~25 times (*see [Alekandras' 25 Women](Alekandras Soulmates.md)*). The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight, and each new love requires greater courage.
   - **Accidental discovery:** The suit's neurochemical resonance recharging mechanism — where emotional intimacy converts into energy — was discovered by accident when Alekandras fell in love with his first Egyptian partner. See [Alien Technology](../Technology/Alien Tech.md) for full technical details.
 - **Notable habits:** TBD.
 
@@ -91,7 +91,7 @@
 - **Allies:** [Iko](Iko.md). Followers of [Cleopatra](Cleopatra VII.md). [Jasmine Foster](Jasmine Foster.md) (eventual ally).
 - **Enemies:** [Apophis](Apophis.md). The [Secret Organization](../Factions/Secret Organization.md).
 - **Dependents / others:** Pharaohs. TBD.
-- **Public perception (optional):** Amun-Ra in Ancient Egypt, worshipers, pharaohs, strangers saw him as divine - the zoomorphic gods (figures with animal heads) were literal physical descriptions of the suits. In 2070: dragons are mythical creatures in the eyes of the world - but he is a dragon in reality (hidden and unknown to the public).
+- **Public perception (optional):** Regarded as Amun-Ra (the "hidden sun") in Ancient Egypt; worshiped as a divine being whose animal-headed form (the Living Suit) inspired Egyptian iconography. In 2070: dragons are considered purely mythical; his presence remains hidden from the general public.
 
 ## 6. Abilities and equipment
 

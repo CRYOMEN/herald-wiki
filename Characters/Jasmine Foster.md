@@ -11,21 +11,21 @@
 ## 2. Physical
 
 - **Build:** 165 cm. Petite, slender, fragile-looking.
-- **Distinctive traits:** Long wavy golden (blonde) hair that flows down to her shins. Green eyes. Small, upturned nose. Thin neck. Pale, silky skin. Agile and flexible (dance, contortionist-capable). Often described as cute, elegant, fragile.
+- **Distinctive traits:** Long wavy golden (blonde) hair that flows down to her shins. Green eyes. Small, upturned nose. Thin neck. Pale, silky skin. Often described as cute, elegant, and fragile.
 - **Voice/speech (optional):** Languages: English (native), French. Pace: hesitant and soft; tends to speak slowly or with small pauses, and may trail off or drop volume when unsure; can rush or stumble over words when nervous. Catchphrases / verbal tics: “I don’t know…”, “Maybe…”, “Sorry” (often); “Um” or “Well…” when buying time; when she trusts someone, more “Right?” or “You know?” as she opens up.
 - **Morphology (if hybrid/alien):** N/A - human.
 
 ## 3. Psychological / temperament
 
-- **Personality:** Shy and insecure in daily life; playful and lighthearted once she trusts someone. Kind, compassionate, down-to-earth; helps others sometimes to her detriment. Model student, determined and ambitious beneath a fragile appearance. Introspective; can confront her own desires and darker feelings.
-- **Drives:** Longing for father’s approval and affection; desire to be seen, desired, and validated; exploration of freedom and expression through dance; eventually (in some arcs) to stand up for herself and those she cares about.
+- **Personality:** Shy and insecure in daily life, yet determined and ambitious. She is kind, compassionate, and introspective, capable of confronting her own desires. Once she trusts someone, she becomes playful and lighthearted.
+- **Drives:** Longing for her father’s approval; a desire to be seen and validated; exploration of freedom through dance.
 - **Fears:** Exposure of her double life; rejection or abandonment.
-- **Flaws / weaknesses:** Vulnerable to manipulation and strong personalities; obedient/submissive tendency in the face of dominant figures; can put others’ needs before her own to her detriment.
-- **Secrets or hidden need:** Double life as a nightclub dancer (masked, sensual performances); attraction to dominant figures; need for validation and intimacy.
+- **Flaws / weaknesses:** Vulnerable to strong, dominant personalities; a submissive/yielding tendency; prone to self-sacrifice.
+- **Secrets or hidden need:** Her double life as "Scarlett"; an attraction to dominant figures; a deep need for validation and intimacy.
 - **Notable habits:** *Daily routines - School:* Conservative, efficient prep (neat clothes, minimal makeup, bag ready the night before); may review notes or help at home before leaving.
 *Nightclub:* Deliberate transformation into Scarlett: mask, exposed outfit (chains/silks), hair and posture shift; she is turned on by the danger of others’s attention.
-*Physical quirks:* Plays with her hair, avoids eye contact, fidgets (hands, hem, jewellery). Often slips into a subtly deferential, obedient demeanor -  feels an inherited pull toward yielding or pleasing others.
-*Tells:* When lying or hiding something: fidgeting increases, can’t hold eye contact, voice drops or trails off.
+*Physical quirks:* Plays with her hair, avoids eye contact, fidgets. Often slips into a subtly deferential, obedient demeanor—an inherited pull toward pleasing others.
+*Tells:* When nervous or lying, her fidgeting increases and her voice drops or trails off.
 
 ## 4. Backstory
 
@@ -41,7 +41,9 @@
 
 ## 6. Abilities and equipment
 
-- **Skills:** Strong student (excels in studies, likes history). Dancing: ballet, belly dance, pole dancing; sensual and flexible performances; contortionist-capable; can do the splits.
+- **Skills:**
+  - **Academic:** Strong student, excels in history.
+  - **Dance:** Accomplished in ballet, belly dance, and pole dancing; highly agile and flexible (contortionist-capable, can do the splits).
 - **Weapons / gear:** None indicated.
 - **Special capabilities:** None (human). Except far ancestor life memory in her DNA.
 

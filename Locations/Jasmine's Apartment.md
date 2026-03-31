@@ -2,7 +2,7 @@
 
 ## Overview
 
-An apartment on the top floor of a building in the [Metropolis](Metropolis.md). [Jasmine Foster](../Characters/Jasmine Foster.md) moves here after the Herald's capsule crashes into the city, replacing her [family home on the outskirts](Jasmine's Home.md).
+The high-rise residence of [Jasmine Foster](../Characters/Jasmine Foster.md) in the [Metropolis](Metropolis.md). Jasmine moves here after her [outskirts home](Jasmine's Home.md) is affected by the Herald's capsule crash.
 
 ## Description
 
@@ -33,9 +33,8 @@ The bedroom reflects Jasmine's personality — cozy yet vibrant:
 
 ## Story Significance
 
-- **Post-crash residence:** Jasmine moves here after the Herald's capsule crash destroys windows at her family home and disrupts life on the outskirts
-- **Crash observation:** From this high vantage point, Jasmine monitors and watches the crash site in the city
-- **Wolf's visits:** [Olf](../Characters/Olf.md) (Wolf) visits Jasmine at night by climbing the exterior of a building and entering through the window. The open window and summer breeze are part of the atmosphere during these encounters
+- **Strategic Location:** Provides a high vantage point for Jasmine to monitor the Herald's crash site in the city.
+- **Atmospheric Encounters:** [Olf](../Characters/Olf.md) (Wolf) visits Jasmine here at night, climbing the skyscraper to enter through the window.
 
 ## Connected Locations
 

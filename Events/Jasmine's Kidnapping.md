@@ -17,10 +17,9 @@
 
 ## Consequences
 
-- **Jasmine meets Lizardman:** This event is how Jasmine Foster first encounters the underground world and Lizardman specifically. Despite the circumstances, it becomes the starting point of their friendship.
-- **Violation of underground law:** Bringing a surface human underground is strictly forbidden by the [Underground Council](../Factions/Underground Council.md). Hassan broke this law, adding factional consequences beyond the kidnapping itself.
-- **Hassan's unresolved debt:** His debt to the mafia clan remains unpaid. The failed scheme leaves him in an even more desperate position.
-- **Jasmine's father:** Hassan does not know that Jasmine's father, [Julian Holloway](../Characters/Julian Holloway.md), is a rich mafioso — a dramatic irony that could escalate the situation.
+- **Catalyst for Connection:** The event establishes the bond between [Jasmine Foster](../Characters/Jasmine Foster.md) and [Lizardman](../Characters/Lizardman.md), bridging the gap between the surface and underground worlds.
+- **Escalated Danger for Hassan:** By violating [Underground Council](../Factions/Underground Council.md) law and targeting the daughter of [Julian Holloway](../Characters/Julian Holloway.md), Hassan has placed himself in extreme peril from both the law and the criminal underworld.
+- **The Video Recording:** The existence of the video and Jasmine's biometric data remains a dangerous loose thread for the future.
 
 ## Related
 

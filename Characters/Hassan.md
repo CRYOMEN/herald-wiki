@@ -46,13 +46,15 @@
 
 - **Appearances:** [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md) — Main event where Hassan's kidnapping scheme unfolds
 - **Plot function:** Primary antagonist of the kidnapping storyline; his actions bring [Jasmine Foster](Jasmine Foster.md) and [Lizardman](Lizardman.md) together, inadvertently catalyzing their connection; represents the criminal exploitation and desperation present in the underground world
-- **Possible arcs:** Will he turn himself in within the 3-day deadline given by [Lizardman](Lizardman.md), or attempt to flee/scheme his way out?; his debt to the mafia clan remains unresolved — could lead to further desperate actions or violence; the recorded video of [Jasmine Foster](Jasmine Foster.md) could surface and create additional complications; potential conflict with the [underground monster community](../Factions/Monsters.md) for violating the rule against bringing surface humans underground
+- **Possible arcs:**
+  - **The 3-day ultimatum:** Will he turn himself in as ordered by [Lizardman](Lizardman.md), or attempt to flee?
+  - **Mafia retaliation:** His massive debt remains unresolved; his failed scheme puts him at high risk of retaliation from the mafia clan and potentially [Jasmine's father](Julian Holloway.md).
+  - **The loose thread:** The recorded video of [Jasmine Foster](Jasmine Foster.md) could surface as blackmail or be sold to wealthy underground clients.
+  - **Legal consequences:** Potential conflict with the [Underground Council](../Factions/Underground Council.md) for violating the law against bringing surface humans underground.
 - **Archetype:** Trickster / exploiter; desperate criminal
 
 ## 8. Notes
 
-- **Critical legal violation:** Bringing a surface human ([Jasmine Foster](Jasmine Foster.md)) into the underground violates [Underground Council](../Factions/Underground Council.md) law. This violation carries serious factional consequences beyond the kidnapping itself — see [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md) for context.
-- Hassan does not know that [Jasmine's father](Julian Holloway.md) is a rich mafioso — a dramatic irony that could escalate the situation. If the father discovers Hassan's role, the consequences could be far worse than underground law enforcement.
-- Hassan's debt to the mafia clan is unresolved — his failed scheme leaves him in an even more desperate financial position, vulnerable to the clan's retaliation.
-- The recorded video of [Jasmine Foster](Jasmine Foster.md) remains a loose thread — Hassan planned to sell it to a wealthy client with specific interests. This evidence could be used against him or surface later as blackmail.
-- For detailed account of the kidnapping scheme, confrontation with [Lizardman](Lizardman.md), and the 3-day ultimatum, see [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md).
+- **Dramatic Irony:** Hassan is unaware that [Jasmine's father](Julian Holloway.md) is a powerful corporate mafioso. This ignorance significantly increases the danger he faces.
+- **Legal Context:** His actions violate both surface law (kidnapping) and [Underground Council](../Factions/Underground Council.md) law (bringing a surface human underground).
+- For a detailed account of the kidnapping scheme and the rescue, see [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md).

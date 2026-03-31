@@ -19,9 +19,9 @@
 - **Personality:** Bold, brash, shameless, outgoing, mischievous, loyal. Complete lack of filter -- says exactly what she thinks regardless of who is listening. Flirtatious and provocative in a joking way. Despite her outrageousness, genuinely caring and supportive underneath.
 - **Drives:** Wants [Jasmine Foster](Jasmine Foster.md) to "live a little" and open up socially; wants to be included in Jasmine's life and break through her reserved exterior. Genuinely proud of Jasmine's achievements and pushes her to seize opportunities.
 - **Fears:** —
-- **Flaws / weaknesses:** No sense of boundaries or subtlety; inability to let go of an idea once she gets it in her head; may push too hard on personal topics; tendency to jump to conclusions (e.g., immediately assumes [Jasmine Foster](Jasmine Foster.md) likes girls based on an ambiguous comment)
+- **Flaws / weaknesses:** No sense of boundaries or subtlety; inability to let go of an idea; tendency to jump to conclusions (e.g., misreading Jasmine's secrets as romantic).
 - **Secrets or hidden need:** Despite the brash exterior, shows moments of uncharacteristic seriousness when something truly matters to her (e.g., urging [Jasmine Foster](Jasmine Foster.md) to accept the advanced history program)
-- **Notable habits:** Constant teasing and innuendo; exaggerated physical affection (hugs from behind, slinging arm around shoulders); waggling eyebrows suggestively; miming zipping her lips (never actually staying quiet); flirtatiously volunteering herself as a romantic option for [Jasmine Foster](Jasmine Foster.md) as a joke
+- **Notable habits:** Constant teasing and innuendo; exaggerated physical affection; miming zipping her lips (never actually staying quiet); jokingly volunteering herself as a romantic option for Jasmine.
 
 ## 4. Backstory
 
@@ -51,8 +51,6 @@
 
 ## 8. Notes
 
-- Does NOT know about the underground world, the Lizard Man, or any of [Jasmine Foster's](Jasmine Foster.md) secret life
-- Suspects [Jasmine Foster](Jasmine Foster.md) has secrets but misreads them as romantic (thinks [Jasmine Foster](Jasmine Foster.md) might like girls, or has a secret partner)
-- Genuinely supportive when [Jasmine Foster](Jasmine Foster.md) is selected for Professor Edwards' advanced history program -- shows she values [Jasmine Foster's](Jasmine Foster.md) intellect, not just gossip
-- Tries to locate [Jasmine Foster](Jasmine Foster.md) via PrinAG789 when she goes missing during the swimming class break
-- Wants to celebrate [Jasmine Foster's](Jasmine Foster.md) program invitation by going to a nightclub together
+- **Ignorance:** Does NOT know about the underground world or [Jasmine Foster's](Jasmine Foster.md) secret life.
+- **Academic Support:** Genuinely supportive of Jasmine's selection for the advanced history program, showing she values Jasmine's intellect.
+- **Search Effort:** Tries to locate Jasmine via PrinAG789 when she goes missing during swimming class.
