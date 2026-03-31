@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Hidden Settlement is a community located deep in the Egyptian desert, established over 2,000 years ago by the followers of [Cleopatra VII](../Characters/Cleopatra VII.md) with a sacred mission: to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)) at all costs. For more than two millennia, this settlement has remained completely hidden from the outside world through advanced alien concealment technology.
+The Hidden Settlement is a community in the Egyptian desert established over 2,000 years ago. Its residents, descendants of [Cleopatra VII's](../Characters/Cleopatra VII.md) followers, were bound by a sacred oath to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)).
 
 ## Location
 
@@ -18,7 +18,7 @@ The settlement was established before Cleopatra VII's death, when [Alekandras](.
 
 ### 2000 Years of Secrecy (30 BCE - 2070 CE)
 
-For over two millennia, the settlement remained completely hidden from the outside world. Multiple generations of Cleopatra's followers lived, worked, and died while maintaining their ancestral oath. The residents knew they were guarding their god—Amun-Ra—in his sacred slumber. Over time, as understanding deepened and the reality became undeniable, they came to understand the truth: they were guarding a dragon, an alien being in a Living Suit. This knowledge was part of their heritage, passed down through generations along with the sacred duty to protect him.
+For over two millennia, advanced alien concealment technology kept the settlement hidden. Over generations, the residents' understanding of their charge evolved from mythological reverence (guarding the god Amun-Ra) to the realization that they were protecting an alien being.
 
 ### Discovery and The Awakening (2070 CE)
 
@@ -28,11 +28,10 @@ In 2070, the [Secret Organization](../Factions/Secret Organization.md) finally d
 
 ### Human Residents
 
-- **Primary residents:** Descendants of Cleopatra's followers
-- **Demographics:** Multi-generational community protected by concealment technology for 2000+ years, though residents could freely leave and re-enter the settlement
-- **Knowledge levels:** Residents knew they were guarding Amun-Ra (their god/the dragon). Over generations, this understanding evolved from mythological reverence to knowledge of the alien nature of their charge
-- **Lifestyle:** Mix of ancient traditions and modern (2070) technology, adapted to desert life. Residents are fully embedded in global 2070 culture — they know the latest music, films, games, and technologies like anyone else. The settlement served as a protective cocoon—residents could leave to interact with the outside world, then return to the safety of the concealed space, vanishing from external observers upon re-entry. Internally, the community has its own tensions: younger residents may dream of leaving to study or work elsewhere, and some question why they must stay in this remote place at all
-- **Isolation clarification:** The community was not isolated in the traditional sense—the concealment field allowed controlled interaction with the outside world while maintaining secrecy and protection from external politics and threats
+- **Primary residents:** Descendants of Cleopatra's followers.
+- **Lifestyle:** A blend of ancient tradition and 2070 global culture. Residents are fully integrated into modern society—knowing the latest media and technology—but live within the "protective cocoon" of the concealment field.
+- **Dynamic:** While the oath remains central, younger residents often face internal tension, dreaming of lives beyond the remote desert settlement.
+- **Controlled Interaction:** The concealment field allows residents to leave and re-enter freely; they appear to "vanish" to external observers upon re-entry. This maintains secrecy while preventing total isolation.
 
 ### Monster Residents
 
@@ -53,11 +52,9 @@ The settlement has been hidden since ~30 BCE by alien concealment technology. Re
 
 For technical details, see [Alien Technology — Settlement Concealment](../Technology/Alien Tech.md).
 
-## How the Secret Organization Discovered It
+## Discovery Theories
 
-**Status:** Multiple theories exist (TBD - final explanation to be determined)
-
-The discovery of the settlement after 2,000 years of perfect concealment raises critical questions about how the [Secret Organization](../Factions/Secret Organization.md) overcame such advanced alien technology. Several theories have been proposed:
+**Status:** Multiple theories exist regarding how the [Secret Organization](../Factions/Secret Organization.md) overcame the concealment technology in 2070.
 
 ### Theory 1: Reverse-Engineering of Alien Technology (Primary Theory)
 

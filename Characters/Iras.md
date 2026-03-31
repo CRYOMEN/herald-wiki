@@ -3,9 +3,9 @@
 ## 1. Identity
 
 - **Name:** Iras (not her real name—her real name is TBD; the name was given to her at [Cleopatra](Cleopatra VII.md)'s court).
-- **Alias(es):** None. The name **Iras** (comparable to Greek *Iris*) was given by people at court: in Greek mythology Iris is the goddess of the rainbow, messenger of the gods, mediator between heaven and earth—they named her thus because she became the connecting link, the messenger, between [Alekandras](Alekandras.md) (Amun-Ra) and the court.
+- **Alias(es):** None.
 - **Type:** Human
-- **Role:** Key backstory character - the woman [Alekandras](Alekandras.md) loved in Ancient Egypt; the ancestor whose DNA modification created [Jasmine Foster's](Jasmine Foster.md) genetic legacy. At court she was the connecting link between Amun-Ra and the rest of Egypt (specifically the court and [Cleopatra](Cleopatra VII.md)).
+- **Role:** Key backstory character; [Alekandras](Alekandras.md)' lover in Ancient Egypt; ancestor of [Jasmine Foster](Jasmine Foster.md).
 - **Demographics (optional):** Female. Originally from Scandinavian country. Captured as a prisoner around age ten and sold into slavery in Greece; at age fifteen began studying court etiquette; later resold to Cleopatra's court. Lived during the Ptolemaic dynasty, around the time of the historical [Cleopatra](Cleopatra VII.md) (during or before Cleopatra's reign).
 
 ## 2. Physical
@@ -17,24 +17,28 @@
 
 ## 3. Psychological / temperament
 
-- **Personality:** Deeply loyal, resourceful, and far-sighted. Deferential and yielding by upbringing - accustomed to serving. Kind, compassionate, willing to help others to her own detriment. Shy and reserved with strangers, but playful and lighthearted once she trusted someone.
-- **Drives:** Devotion to Cleopatra. Love to Alekandras.
-- **Fears:** TBD.
-- **Flaws / weaknesses:** Tendency toward self-sacrifice to the point of self-neglect - she would erase her own needs for the sake of others. Drawn to powerful, dominant figures; potentially vulnerable to manipulation by strong personalities. Submissive and obedient in the face of authority, sometimes unable to assert her own will. Put others' needs before her own, often to her detriment.
-- **Secrets or hidden need:** TBD.
-- **Notable habits:** Deferential, subtly obedient demeanor - a natural pull toward yielding and pleasing others, even when it cost her. Physically expressive; practiced dance as cultural and personal expression (Egyptian ritual movement, belly dance). When nervous or hiding something: avoided eye contact, spoke softly with hesitation or trailed off mid-sentence.
+- **Personality:** Deeply loyal, resourceful, and far-sighted. Naturally deferential and yielding due to her background as a servant, she is kind and compassionate, often putting others' needs before her own. Shy with strangers, she becomes playful and lighthearted with those she trusts.
+- **Drives:** Devotion to Cleopatra; love for Alekandras; preserving her legacy for her descendants.
+- **Fears:** Losing Alekandras; failing her duties at court.
+- **Flaws / weaknesses:** Extreme self-sacrifice; vulnerability to dominant personalities; difficulty asserting her own will against authority.
+- **Secrets or hidden need:** A deep need to immortalize her love for Alekandras beyond her own short lifespan.
+- **Notable habits:** Expresses herself through ritual dance and belly dance. When nervous, she avoids eye contact and her voice trails off.
 
 ## 4. Backstory
 
-- **Origin:** From Scandinavian countries; captured around age ten and sold into slavery in Greece. At fifteen she began studying court etiquette; she was then resold to Cleopatra's court. [Cleopatra](Cleopatra VII.md) presented her to [Alekandras](Alekandras.md) (Amun-Ra) as a great sacrifice—a very valuable gift, because her unusual appearance (blonde, refined, beautiful, white-skinned) was unique in the region; With such a special (in Egyptian culture) gift, Cleopatra wanted to secure [Alekandras](Alekandras.md) support.
-- **Key past events:** She was presented to Alekandras as a literal sacrifice — the exoskeleton eats living things for energy, and Cleopatra gave her as food for the god. He could have simply consumed her. Instead, he treated her indifferently at first, then developed feelings for her. She became the connecting link between Amun-Ra and the court (and Cleopatra). People at court gave her the name Iras (messenger of the gods, mediator between heaven and earth). She and the dragon fell in love and had an intimate relationship. Formed a deep personal bond with [Alekandras](Alekandras.md). Alekandras passing from Iras's life was a great shock to her. Her love for the alien was so strong that she couldn't accept such a loss. But she couldn't awaken him either, jeopardizing the survival of all humanity. However, [Iko](Iko.md) let it slip that the DNA, in a sense, contains the history of all our ancestors. Iras had the idea of ​​preserving her memory, even if it was vague in her descendants. In this way, she would immortalize her love for the dragon for centuries. [Iko](Iko.md) said this was possible if the DNA were modified. After Cleopatra's death, Iras with the help of [Iko](Iko.md) modified her own germline DNA and encoded her past memories into her genes. [Iko](Iko.md) also created a special alien artifact, tuned to be used by Iras's descendants. Even without the artifact, descendants may feel faint echoes—a light breeze, an unexplained attraction to things that remind them of Iras's past. The artifact, when used, brightens those ancestral memories several magnitudes more, allowing the past to surface with far greater clarity.
+- **Origin:** From Scandinavia; captured at age ten and sold into slavery. After years of study in Greece, she was resold to Cleopatra's court.
+  **Key past events:**
+  - **The Sacrifice:** Presented by Cleopatra to [Alekandras](Alekandras.md) as a literal sacrifice (intended as food for the Living Suit). Her unique appearance made her a highly valuable gift meant to secure the Herald's support. Instead of consuming her, Alekandras eventually fell in love with her.
+  - **The Messenger:** Became the vital link between the court and the "god," earning the name **Iras** (inspired by the Greek goddess Iris, the divine messenger and mediator).
+  - **DNA Modification:** Following Alekandras' hibernation and Cleopatra's death, Iras worked with [Iko](Iko.md) to modify her germline DNA, encoding her memories of her love for the dragon to be passed down to her descendants.
+  - **The Artifact:** [Iko](Iko.md) created a special alien artifact for her bloodline to amplify these ancestral memories in future generations.
 
 ## 5. Relationships
 
-- **Allies:** [Alekandras](Alekandras.md).
+- **Allies:** [Alekandras](Alekandras.md) (lover); [Cleopatra VII](Cleopatra VII.md) (mistress/queen); [Iko](Iko.md) (collaborator).
 - **Enemies:** None.
-- **Dependents / others:** TBD.
-- **Public perception (optional):** At court she was seen as the connecting link, the messenger, between Amun-Ra and the rest of Egypt—hence the name Iras (like Iris, messenger of the gods).
+- **Dependents / others:** Her future descendants.
+- **Public perception (optional):** Revered at court as the divine mediator between Amun-Ra and Egypt.
 
 ## 6. Abilities and equipment
 

@@ -5,7 +5,7 @@
 - **Name:** TBD
 - **Alias(es):** Lizardman
 - **Type:** Hybrid (human–lizard); unique — his species has never been seen alive, only described in books
-- **Role:** Key character; [Jasmine Foster's](Jasmine Foster.md) rescuer and protector; famous afalinas trainer in the underground community
+- **Role:** Key character; [Jasmine Foster's](Jasmine Foster.md) rescuer and protector.
 - **Demographics (optional):** Male. Age unknown (amnesia). Mostly neutral alignment.
 
 ## 2. Physical
@@ -18,11 +18,9 @@
 ## 3. Psychological / temperament
 
 - **Personality:**
-  - *Surface:* Brutal and domineering. Never backs down from a challenge. Speaks little — prefers action over words. Dry, grim humor.
-  - *Beneath:* Complex psychological makeup that defies initial expectations. Beneath the savage exterior lies a deeply sensitive soul capable of surprising empathy and compassion. Fiercely protective of those he cares about. Shrewd and perceptive beyond his primal form. Aversion to manipulation. Rich inner life hidden from those who judge by appearances.
-  - *With strangers:* Treats them with distrust. Answers reluctantly, in short phrases. Answers questions with questions to end conversations quickly. Hostile, dismissive.
-  - *With people he knows:* Friendly and respectful. Takes the position of a strong mentor. Warm, supportive, sometimes humorous.
-- **Drives:** Seeks answers about his past and origin. Respects strength and wisdom. Respects acts of mercy or compassion. Strong connection to nature. Moral code measures worth based on power and cunning.
+  - **Surface:** Brutal and domineering; dry, grim humor. He speaks little and prefers action. To strangers, he is hostile, dismissive, and guarded.
+  - **Beneath:** A deeply sensitive soul with a rich inner life. He is fiercely protective, empathetic, and compassionate toward those he cares about. With friends, he is a warm and supportive mentor.
+- **Drives:** Seeks his origin and past; respects strength, wisdom, and mercy.
 - **Fears:** The unknown of his own past. Loneliness — despite fame in the community, he feels he has no true friends. The absence of family bothers him deeply.
 - **Flaws / weaknesses:** Solitary nature makes deep connections difficult. Different species — cannot form romantic relationships with others. Distrust of strangers can push people away.
 - **Secrets or hidden need:** Yearns for connection and understanding. Despite being known by many, feels fundamentally alone. His capacity for empathy and emotional connection remains hidden beneath his formidable exterior.
@@ -42,14 +40,14 @@
 
 ## 5. Relationships
 
-- **Allies:** [Jasmine Foster](Jasmine Foster.md) — rescued her from kidnapping; becomes her protector. The underground community.
+- **Allies:** [Jasmine Foster](Jasmine Foster.md); the underground community.
 - **Enemies:** TBD.
 - **Dependents / others:** TBD.
-- **Public perception (optional):** Famous in the underground community as the best afalinas trainer. Many consider him a friend, but he does not feel he has true friends.
+- **Public perception (optional):** Widely respected as the premier afalinas trainer.
 
 ## 6. Abilities and equipment
 
-- **Skills:** Combat (tooth and claw); fast movement on all fours or upright; keen senses of vision, hearing, and smell to track prey or detect threats. Intuitive understanding of human emotions and power dynamics.
+- **Skills:** Master afalinas trainer; combat (tooth and claw); expert tracking (vision, hearing, smell); intuitive understanding of human emotions.
 - **Weapons / gear:** Natural weapons — sharp claws, fangs, heavy tail. Rarely uses weapons or tools.
 - **Special capabilities:**
   - **Telekinesis** (innate): Can displace matter in space. This is a unique ability that no one else possesses. Requires very high mental concentration and effort. He prefers brute force over this ability. Does not like being seen in this state.
@@ -59,7 +57,7 @@
 ## 7. Story usage
 
 - **Appearances:** Kidnapper Story (rescues [Jasmine Foster](Jasmine Foster.md)); Beyond Friendship (visits Jasmine at high school); Prey for Angels (Jasmine finds him in the sewers).
-- **Plot function:** [Jasmine Foster's](Jasmine Foster.md) protector and love interest in the underground; bridge between human world and monster community. Famous afalinas mentor.
+- **Plot function:** Jasmine's protector and love interest; bridge between the human and monster worlds.
 - **Possible arcs:** Discovering the truth about his past and origin.
 - **Archetype (optional):** Protector; beast with a heart; reluctant mentor.
 

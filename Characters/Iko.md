@@ -16,12 +16,12 @@
 
 ## 3. Psychological / temperament
 
-- **Personality:** Sentient - can think, has fears, worries, emotions, possesses and can acquire knowledge. Loyal, dutiful, resourceful.
-- **Drives:** Serve and protect whoever is currently inside the suit. Keeps the suit owner alive and functional.
-- **Fears:** Has fears and worries (specifics TBD).
+- **Personality:** Sentient, loyal, and resourceful. After 2,000 years with the settlement community, she has developed a deep, quiet sadness over the transience of human life, having watched many generations be born and die. She is deeply bonded to the residents and enjoys social interaction, humor, and play.
+- **Drives:** Protect the suit owner; maintain functionality of the exoskeleton.
+- **Fears:** The death of those she protects; the failure of her mission. (Specifics TBD).
 - **Flaws / weaknesses:** TBD.
-- **Secrets or hidden need:** TBD.
-- **Notable habits:** Over 2,000 years living among the followers of Cleopatra, Iko formed deep personal bonds with the settlement community — talking, joking, and playing with residents as an ordinary companion. She has watched many generations of people be born, live, and die, which gives her a quiet, underlying sadness: humans live so briefly. Because she knew people from birth, they trusted her completely — and she trusted them in return.
+- **Secrets or hidden need:** A yearning for the permanence of those she cares about; the weight of her long memory of mortal friends.
+- **Notable habits:** Often engages in "human" social behaviors like joking or talking with community members.
 
 ## 4. Backstory
 
