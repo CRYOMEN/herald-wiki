@@ -2,17 +2,17 @@
 
 ## Overview
 
-A modest family house on the outskirts of the [Metropolis](Metropolis.md), where [Jasmine](../Characters/Jasmine.md) lives at the start of the 2070 story.
+A modest family house on the outskirts of the [Metropolis](Metropolis.md), where [Jasmine Foster](../Characters/Jasmine Foster.md) lives at the start of the 2070 story.
 
 ## Description
 
 - **Type:** Small residential house
 - **Location:** Outskirts of the metropolis
-- **Residents:** Jasmine, her mother and her grandmother
+- **Residents:** [Jasmine Foster](../Characters/Jasmine Foster.md), [Grace Foster](../Characters/Grace Foster.md) (mother), and [Eleanor Foster](../Characters/Eleanor Foster.md) (grandmother)
 
 ## Details
 
-The house is modest — a tight-knit family living with limited means on the city's periphery. Despite the humble conditions, the household is warm and close. Jasmine's father, a rich mafioso, loves the family but lives separately and rarely shows it openly.
+The house is modest — a tight-knit family living with limited means on the city's periphery. Despite the humble conditions, the household is warm and close. [Jasmine Foster's](../Characters/Jasmine Foster.md) father, [Julian Holloway](../Characters/Julian Holloway.md), a rich mafioso, loves the family but lives separately and rarely shows it openly.
 
 ## Story Significance
 
@@ -27,4 +27,4 @@ The house is modest — a tight-knit family living with limited means on the cit
 
 ## Related
 
-- [Jasmine](../Characters/Jasmine.md) — primary resident
+- [Jasmine Foster](../Characters/Jasmine Foster.md) — primary resident

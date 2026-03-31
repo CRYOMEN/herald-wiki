@@ -48,7 +48,7 @@ Beneath the metropolis lies an extensive sewer and tunnel system that serves as 
 
 ## Related
 
-- [Jasmine](../Characters/Jasmine.md) — resident of the metropolis
+- [Jasmine Foster](../Characters/Jasmine Foster.md) — resident of the metropolis
 - [Alekandras](../Characters/Alekandras.md) — the Herald, who crashes into the city and hides in its sewers
 - [Iko](../Characters/Iko.md) — the Herald's servant, navigates the city with him
 - [Secret Organization](../Factions/Secret Organization.md) — pursues the Herald into the metropolis

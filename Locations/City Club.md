@@ -2,7 +2,7 @@
 
 ## Overview
 
-A nightclub in the metropolis where [Jasmine](../Characters/Jasmine.md) moonlights as a dancer under the stage name "Scarlett."
+A nightclub in the metropolis where [Jasmine Foster](../Characters/Jasmine Foster.md) moonlights as a dancer under the stage name "Scarlett."
 
 ## Description
 
@@ -13,8 +13,8 @@ A nightclub in the metropolis where [Jasmine](../Characters/Jasmine.md) moonligh
 
 ## Significance
 
-- The venue where [Jasmine](../Characters/Jasmine.md) performs under her alter ego — see her character sheet for details on her double life and dance style
+- The venue where [Jasmine Foster](../Characters/Jasmine Foster.md) performs under her alter ego — see her character sheet for details on her double life and dance style
 
 ## Connected characters
 
-- [Jasmine](../Characters/Jasmine.md) — dancer (as Scarlett)
+- [Jasmine Foster](../Characters/Jasmine Foster.md) — dancer (as Scarlett)

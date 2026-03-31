@@ -17,7 +17,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** Quiet, silent, and attentive in daily life. Never talks about his past. A leader by nature — commands respect through presence, not words. Bold and dominant in intimate settings. Has a teasing, provocative sense of humor with those he trusts.
-- **Drives:** Drawn to [Jasmine](Jasmine.md).
+- **Drives:** Drawn to [Jasmine Foster](Jasmine Foster.md).
 - **Flaws / weaknesses:** His primal instincts can overpower his rational mind.
 - **Secrets or hidden need:** The details of his past are unknown — he has never told anyone.
 
@@ -42,5 +42,5 @@
 
 - **Appearances:** Werewolf Story (visits Jasmine's bedroom at night); Underground Tavern scenes.
 - **Plot function:** One of Jasmine's love interests from the underground. Leader figure.
-- **Possible arcs:** Relationship with Jasmine.
+- **Possible arcs:** Relationship with [Jasmine Foster](Jasmine Foster.md).
 - **Archetype (optional):** The cursed prince; dominant protector.

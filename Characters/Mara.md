@@ -46,6 +46,6 @@
 ## 7. Story usage
 
 - **Appearances:** TBD.
-- **Plot function:** Will meet [Jasmine](Jasmine.md) at some point in the story. Details TBD.
+- **Plot function:** Will meet [Jasmine Foster](Jasmine Foster.md) at some point in the story. Details TBD.
 - **Possible arcs:** TBD.
 - **Archetype (optional):** Witch; mystic guide.

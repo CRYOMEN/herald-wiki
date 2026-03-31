@@ -88,7 +88,7 @@
 
 ## 5. Relationships
 
-- **Allies:** [Iko](Iko.md). Followers of [Cleopatra](Cleopatra VII.md). [Jasmine](Jasmine.md) (eventual ally).
+- **Allies:** [Iko](Iko.md). Followers of [Cleopatra](Cleopatra VII.md). [Jasmine Foster](Jasmine Foster.md) (eventual ally).
 - **Enemies:** [Apophis](Apophis.md). The [Secret Organization](../Factions/Secret Organization.md).
 - **Dependents / others:** Pharaohs. TBD.
 - **Public perception (optional):** Amun-Ra in Ancient Egypt, worshipers, pharaohs, strangers saw him as divine - the zoomorphic gods (figures with animal heads) were literal physical descriptions of the suits. In 2070: dragons are mythical creatures in the eyes of the world - but he is a dragon in reality (hidden and unknown to the public).
@@ -112,5 +112,5 @@
   - Reunion with old friend [Arturas](Arturas.md)
   - First signs that the cosmic threat to Earth is imminent
   - Uncovering why he mistakenly arrived in Ancient Egypt instead of a more advanced era
-  - **Important:** After awakening in 2070, he knows nothing about [Jasmine](Jasmine.md) or that [Iras](Iras.md) modified her own DNA after his hibernation
+  - **Important:** After awakening in 2070, he knows nothing about [Jasmine Foster](Jasmine Foster.md) or that [Iras](Iras.md) modified her own DNA after his hibernation
 - **Archetype (optional):** Protagonist; messenger / herald.
