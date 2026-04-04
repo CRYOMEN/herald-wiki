@@ -12,13 +12,12 @@ A modest family house on the outskirts of the [Metropolis](Metropolis.md), where
 
 ## Details
 
-The house is modest — a tight-knit family living with limited means on the city's periphery. Despite the humble conditions, the household is warm and close. [Jasmine Foster's](../Characters/Jasmine Foster.md) father, [Julian Holloway](../Characters/Julian Holloway.md), a rich mafioso, loves the family but lives separately and rarely shows it openly.
+The house is modest — a tight-knit family living with limited means on the city's periphery. Despite the humble conditions, the household is warm and close.
 
 ## Story Significance
 
-- **Starting location:** This is where Jasmine lives when the Herald's capsule crashes into the metropolis
-- **The crash impact:** The capsule crash sends a shockwave across the city, blowing out windows in a large radius — including at this house on the outskirts
-- **Departure:** After the crash, Jasmine leaves this home and moves to a high-rise apartment deeper in the city. See [Jasmine's Apartment](Jasmine's Apartment.md)
+- **Starting location:** Jasmine's residence at the start of the 2070 story
+- **Departure:** After the [Herald's crash](../Events/Battle Scene.md), Jasmine moves to [Jasmine's Apartment](Jasmine's Apartment.md)
 
 ## Connected Locations
 

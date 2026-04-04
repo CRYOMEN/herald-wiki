@@ -33,9 +33,7 @@ The bedroom reflects Jasmine's personality — cozy yet vibrant:
 
 ## Story Significance
 
-- **Post-crash residence:** Jasmine moves here after the Herald's capsule crash destroys windows at her family home and disrupts life on the outskirts
-- **Crash observation:** From this high vantage point, Jasmine monitors and watches the crash site in the city
-- **Wolf's visits:** [Olf](../Characters/Olf.md) (Wolf) visits Jasmine at night by climbing the exterior of a building and entering through the window. The open window and summer breeze are part of the atmosphere during these encounters
+- **Post-crash residence:** Jasmine moves here from [Jasmine's Home](Jasmine's Home.md) after the [Herald's crash](../Events/Battle Scene.md)
 
 ## Connected Locations
 
@@ -45,4 +43,4 @@ The bedroom reflects Jasmine's personality — cozy yet vibrant:
 ## Related
 
 - [Jasmine Foster](../Characters/Jasmine Foster.md) — resident
-- [Olf](../Characters/Olf.md) — visits the apartment by climbing the building at night
+- [Olf](../Characters/Olf.md) — visits the apartment

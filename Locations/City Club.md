@@ -11,10 +11,6 @@ A nightclub in the metropolis where [Jasmine Foster](../Characters/Jasmine Foste
 - **Clientele:** Male and female clientele seeking exclusive, secretive entertainment
 - **Atmosphere:** Clandestine, dimly lit, mysterious. Performers wear masks to maintain anonymity.
 
-## Significance
+## Related
 
-- The venue where [Jasmine Foster](../Characters/Jasmine Foster.md) performs under her alter ego — see her character sheet for details on her double life and dance style
-
-## Connected characters
-
-- [Jasmine Foster](../Characters/Jasmine Foster.md) — dancer (as Scarlett)
+- [Jasmine Foster](../Characters/Jasmine Foster.md) — performs here as "Scarlett"

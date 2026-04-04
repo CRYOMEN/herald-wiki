@@ -51,8 +51,4 @@
 
 ## 8. Notes
 
-- **Critical legal violation:** Bringing a surface human ([Jasmine Foster](Jasmine Foster.md)) into the underground violates [Underground Council](../Factions/Underground Council.md) law. This violation carries serious factional consequences beyond the kidnapping itself — see [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md) for context.
-- Hassan does not know that [Jasmine's father](Julian Holloway.md) is a rich mafioso — a dramatic irony that could escalate the situation. If the father discovers Hassan's role, the consequences could be far worse than underground law enforcement.
-- Hassan's debt to the mafia clan is unresolved — his failed scheme leaves him in an even more desperate financial position, vulnerable to the clan's retaliation.
-- The recorded video of [Jasmine Foster](Jasmine Foster.md) remains a loose thread — Hassan planned to sell it to a wealthy client with specific interests. This evidence could be used against him or surface later as blackmail.
-- For detailed account of the kidnapping scheme, confrontation with [Lizardman](Lizardman.md), and the 3-day ultimatum, see [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md).
+- See [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md) for full account of the kidnapping scheme, consequences, and loose threads.

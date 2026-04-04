@@ -81,8 +81,7 @@
 
   **Awakening (2070 AD)**
   - Malfunction—awakened 130 years too early
-  - Accident teleportation into the metropolis
-  - After crashing in the metropolis, he hides in the sewers
+  - See [Battle Scene: The Awakening](../Events/Battle Scene.md) for full details of the catastrophic awakening, teleportation, and crash in the metropolis
 
 - **Ties to the world:** TBD.
 

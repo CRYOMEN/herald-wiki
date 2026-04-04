@@ -22,7 +22,7 @@ For over two millennia, the settlement remained completely hidden from the outsi
 
 ### Discovery and The Awakening (2070 CE)
 
-In 2070, the [Secret Organization](../Factions/Secret Organization.md) finally discovered the settlement's location. How they overcame the concealment technology remains unclear, but theories exist (see below). This discovery led to [The Awakening battle](../Events/Battle Scene.md), which resulted in the catastrophic teleportation of the Herald and the destruction of most of the settlement.
+In 2070, the [Secret Organization](../Factions/Secret Organization.md) finally discovered the settlement's location. How they overcame the concealment technology remains unclear, but theories exist (see below). This discovery led to [The Awakening battle](../Events/Battle Scene.md).
 
 ## Population
 
@@ -115,8 +115,6 @@ A hostile alien entity—possibly [Apophis](../Characters/Apophis.md) or another
 ## Connection to Major Events
 
 ### The Awakening Battle (2070 CE)
-
-The settlement's discovery directly led to a catastrophic battle that resulted in mass casualties, the destruction of most of the settlement, and the chaotic teleportation of the Herald. A few survivors remain, including the [Settlement Leader](../Characters/Settlement Leader.md).
 
 See [Battle Scene: The Awakening](../Events/Battle Scene.md) for the full account.
 

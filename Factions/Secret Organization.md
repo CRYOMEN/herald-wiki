@@ -33,7 +33,7 @@ There is speculation that [Apophis](../Characters/Apophis.md) — a rogue herald
 
 ## Key Events
 
-- **[The Awakening Battle](../Events/Battle Scene.md)** — The organization's assault on the settlement in 2070. They arrived with tanks and infantry, breached the concealment field, and triggered a catastrophic malfunction that froze the entire area. Their field commander survived by sheltering inside military equipment.
+- **[The Awakening Battle](../Events/Battle Scene.md)** — The organization's assault on the settlement in 2070.
 
 ## Key Characters
 

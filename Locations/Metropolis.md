@@ -32,7 +32,7 @@ The metropolis operates under an partial AI-controlled government. The governmen
 
 ## Key Events
 
-- **The Herald's Crash (2070):** The Herald's capsule reappears from an unknown dimension and crashes into the metropolis after 12 days of instability. The crash sends a shockwave across the city, blowing out windows in a large radius. See [Battle Scene: The Awakening](../Events/Battle Scene.md) for context.
+- **The Herald's Crash (2070):** See [Battle Scene: The Awakening](../Events/Battle Scene.md) for full details.
 
 ## Underground
 
@@ -48,7 +48,4 @@ Beneath the metropolis lies an extensive sewer and tunnel system that serves as 
 
 ## Related
 
-- [Jasmine Foster](../Characters/Jasmine Foster.md) — resident of the metropolis
-- [Alekandras](../Characters/Alekandras.md) — the Herald, who crashes into the city and hides in its sewers
-- [Iko](../Characters/Iko.md) — the Herald's servant, navigates the city with him
-- [Secret Organization](../Factions/Secret Organization.md) — pursues the Herald into the metropolis
+- [Battle Scene: The Awakening](../Events/Battle Scene.md) — the Herald's crash into the city
