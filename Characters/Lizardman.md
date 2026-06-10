@@ -58,7 +58,7 @@
 
 ## 7. Story usage
 
-- **Appearances:** Kidnapper Story (rescues [Jasmine Foster](Jasmine Foster.md)); Beyond Friendship (visits Jasmine at high school); Prey for Angels (Jasmine finds him in the sewers).
+- **Appearances:** Kidnapper Story (rescues [Jasmine Foster](Jasmine Foster.md)); Beyond Friendship (visits Jasmine at college); Prey for Angels (Jasmine finds him in the sewers).
 - **Plot function:** [Jasmine Foster's](Jasmine Foster.md) protector and love interest in the underground; bridge between human world and monster community. Famous afalinas mentor.
 - **Possible arcs:** Discovering the truth about his past and origin.
 - **Archetype (optional):** Protector; beast with a heart; reluctant mentor.

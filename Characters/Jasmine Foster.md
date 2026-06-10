@@ -6,7 +6,7 @@
 - **Alias(es):** Scarlett (stage name at the nightclub; used to remain anonymous)
 - **Type:** Human
 - **Role:** Main character.
-- **Demographics (optional):** 21 years old in 2070. Female. High school student. Likes history. Moonlights as a dancer (ballet, belly dance, pole dancing) at a nightclub.
+- **Demographics (optional):** 21 years old in 2070. Female. College student. Likes history. Moonlights as a dancer (ballet, belly dance, pole dancing) at a nightclub.
 
 ## 2. Physical
 
@@ -18,7 +18,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** Shy and insecure in daily life; playful and lighthearted once she trusts someone. Kind, compassionate, down-to-earth; helps others sometimes to her detriment. Model student, determined and ambitious beneath a fragile appearance. Introspective; can confront her own desires and darker feelings.
-- **Drives:** Longing for father’s approval and affection; desire to be seen, desired, and validated; exploration of freedom and expression through dance; eventually (in some arcs) to stand up for herself and those she cares about.
+- **Drives:** Desire to be seen, desired, and validated; exploration of freedom and expression through dance; eventually (in some arcs) to stand up for herself and those she cares about.
 - **Fears:** Exposure of her double life; rejection or abandonment.
 - **Flaws / weaknesses:** Vulnerable to manipulation and strong personalities; obedient/submissive tendency in the face of dominant figures; can put others’ needs before her own to her detriment.
 - **Secrets or hidden need:** Double life as a nightclub dancer. A central part of her inner life is the desire to be seen and the fear of being exposed while vulnerable.
@@ -35,7 +35,7 @@
 
 ## 5. Relationships
 
-- **Allies:** [Grace Foster](Grace Foster.md) (mother), [Eleanor Foster](Eleanor Foster.md) (grandmother). [Julian Holloway](Julian Holloway.md) (father; relationship is complicated — she adores him and longs for his approval). [Leena](Leena.md) — closest school friend.
+- **Allies:** [Grace Foster](Grace Foster.md) (mother), [Eleanor Foster](Eleanor Foster.md) (grandmother). [Julian Holloway](Julian Holloway.md) (father; relationship is complicated — she adores him). [Leena](Leena.md) — closest school friend.
 - **Dependents / others:** None.
 - **Public perception (optional):** At school: model student, possibly seen as shy. At the nightclub: seductive, mysterious (masked).
 

@@ -5,7 +5,7 @@
 - **Name:** Leena
 - **Alias(es):** Leena
 - **Type:** Human
-- **Role:** Supporting character; [Jasmine Foster](Jasmine Foster.md)'s closest high school friend
+- **Role:** Supporting character; [Jasmine Foster](Jasmine Foster.md)'s closest college friend
 - **Demographics:** Age 17, female, college student (same school as Jasmine Foster)
 
 ## 2. Physical
