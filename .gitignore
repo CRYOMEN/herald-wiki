@@ -1,3 +1,8 @@
 /Ideas
 *.m4a
 !Audio/wiki-summary.m4a
+.mcp.json
+.claude/
+.fathom-server.json
+.idea/
+.playwright-mcp/

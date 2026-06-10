@@ -17,7 +17,7 @@
 
 ## 3. Psychological / temperament
 
-- **Personality:** Sentient and intelligent. Extremely territorial. Kills anyone who sees him — no exceptions.
+- **Personality:** Sentient and intelligent. Extremely territorial.
 - **Drives:** Guarding [Mara](Mara.md). Ruling the sewers.
 - **Fears:** TBD.
 - **Flaws / weaknesses:** TBD.

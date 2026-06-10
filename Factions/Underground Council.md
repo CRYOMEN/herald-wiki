@@ -12,9 +12,10 @@ The governing body of the [hidden monster community](Monsters.md) beneath the [M
 
 ## Laws and Enforcement
 
-- **Secrecy above all:** The underground world must remain hidden from surface-dwellers. Bringing a surface human underground is strictly forbidden.
+The Council enforces the laws established by the [Hidden Monster Community](Monsters.md) (see Laws and Governance).
+
 - **Memory-wipe hunts:** When an outsider discovers the underground, the Council dispatches hunters to find and mind-wipe them — erasing all knowledge of the underground from the intruder's memory.
-- **Consequences for violations:** Those who break the secrecy rules face severe punishment from the Council.
+- **Violations** of secrecy rules face severe punishment from the Council.
 
 ## Story Significance
 

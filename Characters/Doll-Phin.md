@@ -18,7 +18,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** Unknown past makes his current motivations unclear. Autonomous — acts on his own agenda since resuming operation.
-- **Drives:** Unknown. Originally designed for military espionage and scouting. Current objectives are a mystery.
+- **Drives:** Unknown. Current objectives are a mystery.
 - **Fears:** TBD.
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** TBD.
@@ -28,7 +28,6 @@
 
 - **Origin:** Military development — designed to spy and scout the enemy. A hybrid of a real dolphin and synthetic materials.
 - **Key past events:**
-  - Created as a military bio-robotic unit for espionage and reconnaissance
   - Disabled and thrown away on a junkyard (reason unknown)
   - By accident, resumed operation on his own
   - Improved his own specifications after reactivation

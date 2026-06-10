@@ -42,7 +42,7 @@
 
 ## 5. Relationships
 
-- **Allies:** [Jasmine Foster](Jasmine Foster.md) — rescued her from kidnapping; becomes her protector. The underground community.
+- **Allies:** [Jasmine Foster](Jasmine Foster.md) — rescued her from [kidnapping](../Events/Jasmine's Kidnapping.md); becomes her protector. The underground community.
 - **Enemies:** TBD.
 - **Dependents / others:** TBD.
 - **Public perception (optional):** Famous in the underground community as the best afalinas trainer. Many consider him a friend, but he does not feel he has true friends.

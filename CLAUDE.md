@@ -22,7 +22,7 @@ grep -r "Arturas" --include="*.md" -l
 
 ### Protected Files
 
-- **Characters/Alekandras Soulmates.md** — do not edit without explicit user permission. Always ask first.
+- **Relationships/Alekandras Soulmates.md** — do not edit without explicit user permission. Always ask first.
 
 ### When Information Contradicts
 

@@ -17,10 +17,10 @@
 ## 3. Psychological / temperament
 
 - **Personality:** Disciplined, calculating, and cold on the surface; deeply protective of [Jasmine Foster](Jasmine Foster.md).
-- **Drives:** Power and control over his criminal empire; protection of his daughter; deeply in love with [Grace Foster](Grace Foster.md) despite their distance.
+- **Drives:** Power and control over his criminal empire; protection of his daughter.
 - **Fears:** Losing control; harm coming to [Jasmine Foster](Jasmine Foster.md).
 - **Flaws / weaknesses:** His dangerous life puts his family at risk. Struggle to balance his love for his family with his position as "Big Boss."
-- **Secrets or hidden need:** To be truly seen and understood by his daughter; he misses the life he could have had with [Grace Foster](Grace Foster.md).
+- **Secrets or hidden need:** To be truly seen and understood by his daughter.
 
 ## 4. Backstory
 

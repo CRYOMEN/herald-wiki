@@ -17,7 +17,7 @@
 ## 3. Psychological / temperament
 
 - **Personality:** Confident, calculating; quick to panic when physically threatened by someone stronger
-- **Drives:** Paying off a massive debt to one of the most powerful mafia clans in the metropolis above; financial survival
+- **Drives:** Financial survival
 - **Fears:** The mafia clan he owes credits to; physical confrontation with creatures stronger than him; imprisonment
 - **Flaws / weaknesses:** Overconfident in his schemes; underestimates resistance from others; when physically overpowered, requests mercy; relies on manipulation rather than direct force
 - **Secrets or hidden need:** Desperate financial situation
@@ -26,7 +26,7 @@
 ## 4. Backstory
 
 - **Origin:** Operates in the underground black market beneath the metropolis; has long-standing connections in the criminal underworld
-- **Key past events:** Accumulated a very large debt of credits to one of the most powerful mafia clans in the metropolis on the surface. Out of desperation, devised a scheme to produce provocative content featuring surface humans with underground creatures for wealthy clients willing to pay large sums, hoping to pay off his debt. See [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md) for details of the failed kidnapping scheme.
+- **Key past events:** Accumulated a very large debt of credits to one of the most powerful mafia clans in the metropolis on the surface. See [Jasmine's Kidnapping and Rescue](../Events/Jasmine's Kidnapping.md) for his desperate scheme and its consequences.
 - **Ties to the world:** Connected to a powerful mafia clan (as debtor); has wealthy clients in the underground who pay for illicit content; acquainted with [Lizardman](Lizardman.md) from an [Underground Tavern](../Locations/Underground Tavern.md)
 
 ## 5. Relationships

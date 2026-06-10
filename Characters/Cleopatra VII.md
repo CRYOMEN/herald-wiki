@@ -21,10 +21,7 @@
 - **Drives:** TBD.
 - **Fears:** TBD.
 - **Flaws / weaknesses:** TBD.
-- **Secrets or hidden need:** She knew [Alekandras](Alekandras.md) 
-himself—that he is a alien, even though it was tough to her to understand it, he is 
-not exactly a god—but treated and adored him as a god because he was very 
-strong and very smart; she respected him greatly.
+- **Secrets or hidden need:** —
 - **Notable habits:** TBD.
 
 ## 4. Backstory
@@ -35,7 +32,7 @@ strong and very smart; she respected him greatly.
 
 ## 5. Relationships
 
-- **Allies:** [Alekandras](Alekandras.md). [Iras](Iras.md).
+- **Allies:** [Alekandras](Alekandras.md) — see [Soulmates](../Relationships/Alekandras Soulmates.md). [Iras](Iras.md).
 - **Enemies:** TBD.
 - **Dependents / others:** TBD.
 - **Public perception (optional):** Historical queen.

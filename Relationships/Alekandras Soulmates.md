@@ -292,10 +292,10 @@ Her military trophies included "strange golden weapons"—possibly a gift from A
 **Period:** Amarna Period (preceding)
 
 **Circumstances of Meeting:**
-The greatest female pharaoh, who ruled for 22 years. ALREADY IN Heralds-Wiki: Alekandras was her "secret advisor," helping in governance.
+The greatest female pharaoh, who ruled for 22 years. Alekandras was her "secret advisor," helping in governance. She bore the title **wife of God Amun** — the most important religious title of the high priestess, closely connected with the cult of Amun and Amun-Ra in Thebes. Under his guidance and using his power, she ascended to the throne around 1478 BC. Through the dual connection of being the daughter of Amun-Ra and the wife of God Amun, she acted both as the earthly embodiment of God's will and as a key figure of his cult, which made the alliance between the pharaoh and the Theban priesthood as close as possible.
 
 **Integration into Lore:**
-Secret advisor and ally. Helped plan the expedition to Punt—their relationship became the legend of a goddess born from a sacred serpent.
+Secret advisor and ally. Helped plan the expedition to Punt — their relationship became the legend of a goddess born from a sacred serpent. She dedicated her mortuary temple at **Deir el-Bahari** specifically to Amun-Ra, emphasizing her special relationship with this god.
 
 **Connection to Real Events:**
 18th Dynasty, reign ~1479-1458 BCE. Expedition to Punt, construction of Deir el-Bahari temple.
@@ -551,13 +551,13 @@ Nubia/Kush, 1st century BCE. Kandake (warrior-queen) who led resistance against 
 **Period:** Late Ptolemaic
 
 **Circumstances of Meeting:**
-Scandinavian woman enslaved at Cleopatra VII's court. ALREADY IN Heralds-Wiki: Alekandras met her in Alexandria, her free spirit captivated him.
+Scandinavian woman enslaved at Cleopatra VII's court. Cleopatra presented her to Alekandras (Amun-Ra) as a great sacrifice — a very valuable gift, because her unusual appearance (blonde, refined, beautiful, white-skinned) was unique in the region. The exoskeleton eats living things for energy, and Cleopatra gave her as food for the god. He could have simply consumed her. Instead, he treated her indifferently at first, then developed feelings for her.
 
 **Integration into Lore:**
-Last love before hibernation. Her free northern spirit, unbroken even by slavery, captivated Alekandras—in her he saw a reflection of his own struggle for freedom of choice.
+Last love before hibernation. Her free northern spirit, unbroken even by slavery, captivated Alekandras — in her he saw a reflection of his own struggle for freedom of choice. She and the dragon fell in love and had an intimate relationship. Alekandras' passing from Iras's life was a great shock to her. Her love for the alien was so strong that she couldn't accept such a loss.
 
 **Connection to Real Events:**
-Alexandria, 1st century BCE. Scandinavian slave brought to Cleopatra VII's court (mentioned in Heralds-Wiki).
+Alexandria, 1st century BCE. Scandinavian slave brought to Cleopatra VII's court.
 
 **Sources:**
 - Heralds-Wiki: ../../herald-wiki/Characters/Iras.md
@@ -571,7 +571,7 @@ Alexandria, 1st century BCE. Scandinavian slave brought to Cleopatra VII's court
 **Period:** Before Hibernation
 
 **Circumstances of Meeting:**
-Last pharaoh of Ancient Egypt, ruling during the critical period of independence's fall before Rome. Friend who became lover—symbol of an era's end.
+Last pharaoh of Ancient Egypt, ruling during the critical period of independence's fall before Rome. Friend who became lover — symbol of an era's end. She knew Alekandras himself — that he is an alien, even though it was tough for her to understand; he is not exactly a god — but treated and adored him as a god because he was very strong and very smart; she respected him greatly.
 
 **Integration into Lore:**
 Her connection to goddess Isis and position as divine pharaoh make her a natural object of attention for the dragon-guardian of Amun-Ra. Their meeting became a symbol of passing eras: from ancient Egypt to Roman rule, from gods to emperors. Cleopatra gifted Iras to Alekandras, and then their relationship evolved into romance in the final years before Egypt's fall.

@@ -24,4 +24,4 @@ Home to the [underground monster community](../Factions/Monsters.md) and various
 ## Connected locations
 
 - [Underground Tavern](Underground Tavern.md) — a gathering place within the tunnel network
-- [Herald's Lair](Herald's Lair.md) — Alekandras' biological hideout deep in the tunnels
+- [The Lair](The Lair.md) — Alekandras' biological hideout deep in the tunnels

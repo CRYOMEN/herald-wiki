@@ -19,13 +19,13 @@
 - **Personality:** Kind, resilient, and protective.
 - **Drives:** Ensuring her daughter's safety and success; keeping the family hidden from the dangers associated with Julian's life.
 - **Fears:** Her daughter being drawn into the criminal lifestyle or the dangers of the metropolis.
-- **Flaws / weaknesses:** Sometimes overly cautious; she chose distance over the man she loves to ensure safety.
-- **Secrets or hidden need:** Deeply loves [Julian Holloway](Julian Holloway.md), though she refuses to live with him.
+- **Flaws / weaknesses:** Sometimes overly cautious.
+- **Secrets or hidden need:** —
 
 ## 4. Backstory
 
 - **Origin:** 2070 metropolis.
-- **Key past events:** Separation from [Julian Holloway](Julian Holloway.md). They were once deeply in love, but Grace chose to end the relationship and take their daughter away because of Julian's high-level criminal activities. She feared for her family's safety and wanted to raise Jasmine in a normal environment.
+- **Key past events:** Separation from [Julian Holloway](Julian Holloway.md). They were once deeply in love, but Grace chose to end the relationship and take their daughter away because of Julian's high-level criminal activities. She feared for her family's safety and wanted to raise Jasmine in a normal environment. Despite the separation, she still loves him deeply.
 - **Ties to the world:** Part of a modest, tight-knit family with [Jasmine Foster](Jasmine Foster.md) and her mother [Eleanor Foster](Eleanor Foster.md).
 
 ## 5. Relationships

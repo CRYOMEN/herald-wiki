@@ -21,7 +21,7 @@
 - **Drives:** Longing for father’s approval and affection; desire to be seen, desired, and validated; exploration of freedom and expression through dance; eventually (in some arcs) to stand up for herself and those she cares about.
 - **Fears:** Exposure of her double life; rejection or abandonment.
 - **Flaws / weaknesses:** Vulnerable to manipulation and strong personalities; obedient/submissive tendency in the face of dominant figures; can put others’ needs before her own to her detriment.
-- **Secrets or hidden need:** Double life as a nightclub dancer (masked, sensual performances); attraction to dominant figures; need for validation and intimacy.
+- **Secrets or hidden need:** Double life as a nightclub dancer. A central part of her inner life is the desire to be seen and the fear of being exposed while vulnerable.
 - **Notable habits:** *Daily routines - School:* Conservative, efficient prep (neat clothes, minimal makeup, bag ready the night before); may review notes or help at home before leaving.
 *Nightclub:* Deliberate transformation into Scarlett: mask, exposed outfit (chains/silks), hair and posture shift; she is turned on by the danger of others’s attention.
 *Physical quirks:* Plays with her hair, avoids eye contact, fidgets (hands, hem, jewellery). Often slips into a subtly deferential, obedient demeanor -  feels an inherited pull toward yielding or pleasing others.
@@ -43,7 +43,7 @@
 
 - **Skills:** Strong student (excels in studies, likes history). Dancing: ballet, belly dance, pole dancing; sensual and flexible performances; contortionist-capable; can do the splits.
 - **Weapons / gear:** None indicated.
-- **Special capabilities:** None (human). Except far ancestor life memory in her DNA.
+- **Special capabilities:** Known user of a personal concealment field. Her control over it is shaped by the psychological trigger described above. See [Alien Technology - Personal Concealment Field](../Technology/Alien Tech.md#3-personal-concealment-field).
 
 ## 7. Story usage
 

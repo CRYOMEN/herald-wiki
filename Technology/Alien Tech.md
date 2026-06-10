@@ -75,12 +75,31 @@ The concealment technology was deployed to hide [the settlement](../Locations/Se
 
 **Spatial characteristics:**
 - Covers the entire settlement area with vertical extension
-- Does not affect physical space itself—only affects perception and detection from outside
-- Physical matter remains fully tangible within the field
+- Does not destroy or relocate the settlement's physical matter
+- Separates the settlement from normal external interaction by placing it in a shifted interaction layer
+- Inside the field, matter remains fully tangible
+- From outside, paths, light, sound, and sensor signals resolve as if the area were empty desert
 
-## 3. Memory-Wipe Technology
+## 3. Personal Concealment Field
 
-### 3.1 Nature and Purpose
+**Classification:** Alien-derived weak concealment field  
+**Scale:** Individual body
+
+A personal concealment field wraps a living body in a veil that misdirects the signals normally used to detect it: visible light, shadow, thermal outline, minor sound, and other surface-level traces.
+
+The field affects perception, not physical presence. The user's body remains in ordinary space, so direct touch or collision can reveal them.
+
+The veil is generated through the user's body and nervous system. It requires sustained mental and emotional focus; loss of control can cause fading, rippling, flickering, or collapse.
+
+**Limitations:**
+- Does not allow phasing through matter
+- Can be revealed by physical contact
+- May distort dust, rain, smoke, water, or moving air
+- Can destabilize under stress, pain, panic, or sudden interruption
+
+## 4. Memory-Wipe Technology
+
+### 4.1 Nature and Purpose
 
 Memory-wipe technology is an alien bioengineering system capable of selectively removing, implanting, or altering memories in a sentient being. It can also modify personality and identity to varying degrees.
 
@@ -95,7 +114,7 @@ Memory-wipe technology is an alien bioengineering system capable of selectively 
 - Based on the same alien bioengineering principles as the Living Suit and other technologies
 - Represents advanced understanding of neurological structures and memory formation
 
-### 3.2 Technical Mechanism
+### 4.2 Technical Mechanism
 
 **Process:**
 - Targets specific neural pathways associated with memories of events
@@ -109,7 +128,7 @@ Memory-wipe technology is an alien bioengineering system capable of selectively 
 - Requires trained individuals within the community to operate
 - Process details (TBD)
 
-### 3.3 Capabilities 
+### 4.3 Capabilities 
 
 - Can remove specific memories selectively
 - Can implant false memories (events that never happened)
@@ -119,7 +138,7 @@ Memory-wipe technology is an alien bioengineering system capable of selectively 
 **For information about how this technology was used in the settlement context, see [Settlement](../Locations/Settlement.md).**
 
 ---
-## 4. Comparison with Human Technology
+## 5. Comparison with Human Technology
 
 | Aspect            | Human (2070)              | Alien                       |
 |:------------------|:--------------------------|:----------------------------|

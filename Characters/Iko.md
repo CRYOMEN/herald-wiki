@@ -12,7 +12,7 @@
 - **Build:** Small and slender, standing at just under five feet tall (~150 cm). Non-humanoid but feminine-looking. Tentacled, multi-limbed, sort of floating.
 - **Distinctive traits:** Pale, slightly transparent skin giving a ghostly appearance. Delicate features. Somewhat similar to a Seraphim (many appendages, not quite human-like), possibly with long, thick tentacles. Exact appearance TBD.
 - **Voice/speech (optional):** Can speak; sentient and articulate. Details TBD.
-- **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton that can detach and operate independently. See [Technology](../Technology/Alien Tech.md).
+- **Morphology (if hybrid/alien):** Alien biotech construct. A built-in subsystem of the living exoskeleton. See [Technology](../Technology/Alien Tech.md).
 
 ## 3. Psychological / temperament
 
