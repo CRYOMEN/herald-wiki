@@ -70,4 +70,6 @@ Adding new content should require editing **one file**. If you're updating multi
 
 ## Verification Before Committing
 
-Run `git diff` to compare the new version with the previous version. Review each change against the deduplication rules above. Verify that no information was lost and all changes are correct.
+Foreach modified file Run `git diff` to compare the new version with the previous version. Then:
+1. Critically review each change against the deduplication rules above. Verify that no information was lost and a narrative writing style maintained;
+2. Make fixes and always keep narrative writing style.
