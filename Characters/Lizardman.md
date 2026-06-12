@@ -5,7 +5,7 @@
 - **Name:** TBD
 - **Alias(es):** Lizardman
 - **Type:** Hybrid (human–lizard); unique — his species has never been seen alive, only described in books
-- **Role:** Key character; [Jasmine Foster's](Jasmine Foster.md) rescuer and protector; famous afalinas trainer in the underground community
+- **Role:** Key character; [Jasmine Foster's](Jasmine Foster.md) rescuer and protector; famous [afalinas](../Factions/Afalinas.md) trainer in the underground community
 - **Demographics (optional):** Male. Age unknown (amnesia). Mostly neutral alignment.
 
 ## 2. Physical
@@ -35,7 +35,7 @@
   - Found by a hunter in a remote tunnel — the hunter could not believe his eyes
   - At first, people scared him; joined the underground community at adult age
   - Accepted into the underground multispecies community — probably accepted quickly because other non-human species already lived there
-  - At first people were against him becoming an afalinas trainer, but over time they recognized he was the best
+  - At first people were against him becoming an [afalinas](../Factions/Afalinas.md) trainer, but over time they recognized he was the best
   - Dejavu moments occasionally surface, helping him develop his personality and skills
   - Played a significant part in a historic event in the past (details TBD)
 - **Ties to the world:** Lives in the underground tunnels below the metropolis (2070 AD). Part of the [Hidden Monster Community](../Factions/Monsters.md).
@@ -45,7 +45,7 @@
 - **Allies:** [Jasmine Foster](Jasmine Foster.md) — rescued her from [kidnapping](../Events/Jasmine's Kidnapping.md); becomes her protector. The underground community.
 - **Enemies:** TBD.
 - **Dependents / others:** TBD.
-- **Public perception (optional):** Famous in the underground community as the best afalinas trainer. Many consider him a friend, but he does not feel he has true friends.
+- **Public perception (optional):** Famous in the underground community as the best [afalinas](../Factions/Afalinas.md) trainer. Many consider him a friend, but he does not feel he has true friends.
 
 ## 6. Abilities and equipment
 
@@ -53,13 +53,13 @@
 - **Weapons / gear:** Natural weapons — sharp claws, fangs, heavy tail. Rarely uses weapons or tools.
 - **Special capabilities:**
   - **Telekinesis** (innate): Can displace matter in space. This is a unique ability that no one else possesses. Requires very high mental concentration and effort. He prefers brute force over this ability. Does not like being seen in this state.
-  - **Afalinas sense**: Can intuitively sense the subtle nature of afalinas, which makes him one of the best trainers. Telekinesis and afalinas sense are the only things he has discovered about his past self.
+  - **[Afalinas](../Factions/Afalinas.md) sense**: Can intuitively sense the subtle nature of [afalinas](../Factions/Afalinas.md), which makes him one of the best trainers. Telekinesis and afalinas sense are the only things he has discovered about his past self.
   - See [Bestiary](Bestiary.md) for general hybrid traits.
 
 ## 7. Story usage
 
 - **Appearances:** Kidnapper Story (rescues [Jasmine Foster](Jasmine Foster.md)); Beyond Friendship (visits Jasmine at college); Prey for Angels (Jasmine finds him in the sewers).
-- **Plot function:** [Jasmine Foster's](Jasmine Foster.md) protector and love interest in the underground; bridge between human world and monster community. Famous afalinas mentor.
+- **Plot function:** [Jasmine Foster's](Jasmine Foster.md) protector and love interest in the underground; bridge between human world and monster community. Famous [afalinas](../Factions/Afalinas.md) mentor.
 - **Possible arcs:** Discovering the truth about his past and origin.
 - **Archetype (optional):** Protector; beast with a heart; reluctant mentor.
 
