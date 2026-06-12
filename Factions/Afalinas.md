@@ -12,7 +12,7 @@ Afalinas are a unique type of being — an afalina can be a person, an animal, o
 
 ## 3. Training and mentorship
 
-Training and mentoring afalinas is a recognized profession in the underground community. It requires an intuitive sense for their subtle nature — not everyone can do it. The [Lizardman](../Characters/Lizardman.md) is the most famous and skilled afalinas trainer; see his [character sheet](../Characters/Lizardman.md) for details on his abilities and background.
+Training and mentoring afalinas is a recognized profession in the underground community. Over thousands of years, afalina mentorship became prestigious, elite, and dangerous. It requires an intuitive sense for their subtle nature, dependence, power, desire, and psyche. Not every beastperson has the skills and knowledge needed for this work. The [Lizardman](../Characters/Lizardman.md) is the most famous and skilled afalinas trainer; see his [character sheet](../Characters/Lizardman.md) for details on his abilities and background.
 
 ## 4. Nature and vulnerability
 
@@ -28,4 +28,6 @@ According to [Lizardman](../Characters/Lizardman.md)'s description (in his conve
 
 - The word "afalina" carries weight in the underground world. [Lizardman](../Characters/Lizardman.md) uses it as a term of endearment and comparison for [Jasmine Foster](../Characters/Jasmine Foster.md), likening her to the beauty, devotion, and grace of these creatures.
 - The relationship between afalina and master involves "devoted gifts" — though this bond carries an undercurrent of power dynamics and potential peril.
+- Afalinas are a prestigious form of possession in hidden monster cultures. They may be bought, gifted, abducted, inherited, or bound to a master.
+- An afalina's master usually gains status, psychic support, love, devotion, and influence in political circles and among partners.
 - Unknown to surface-dwellers; [Jasmine Foster](../Characters/Jasmine Foster.md) does not recognize the word when she first hears it.
