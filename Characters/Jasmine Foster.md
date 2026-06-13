@@ -19,9 +19,10 @@
 
 - **Personality:** Shy and insecure in daily life; playful and lighthearted once she trusts someone. Kind, compassionate, down-to-earth; helps others sometimes to her detriment. Model student, determined and ambitious beneath a fragile appearance. Introspective; can confront her own desires and darker feelings.
 - **Drives:** Desire to be seen, desired, and validated; exploration of freedom and expression through dance; eventually (in some arcs) to stand up for herself and those she cares about.
-- **Fears:** Exposure of her double life; rejection or abandonment.
+- **Fears:** Losing control of how her private life, vulnerability, and double identity are revealed; rejection or abandonment.
 - **Flaws / weaknesses:** Vulnerable to manipulation and strong personalities; obedient/submissive tendency in the face of dominant figures; can put others’ needs before her own to her detriment.
-- **Secrets or hidden need:** Double life as a nightclub dancer. A central part of her inner life is the desire to be seen and the fear of being exposed while vulnerable.
+- **Secrets or hidden need:** Double life as a nightclub dancer. A central part of her inner life is the desire to be seen, desired, and sexually exposed under dangerous or barely controlled conditions.
+- **Hidden sexuality:** Jasmine's hidden sexuality is best described as a non-disordered, consent-oriented exhibitionistic-masochistic paraphilic interest centered on dangerous sexual exposure. Her arousal is triggered by voluntarily exposing herself, imagining forced exposure, or remaining barely concealed while feeling vulnerable, sexually available, and at risk of being objectified. In fantasy, she imagines herself as a sexual object or prey who may be claimed, used, or controlled by another. The pattern combines exhibitionistic interest, sexual masochistic interest, sexual coercion/ravishment fantasy, erotic objectification, dominance-submission dynamics, and fear-mediated sexual arousal.
 - **Notable habits:** *Daily routines - School:* Conservative, efficient prep (neat clothes, minimal makeup, bag ready the night before); may review notes or help at home before leaving.
 *Nightclub:* Deliberate transformation into Scarlett: mask, exposed outfit (chains/silks), hair and posture shift; she is turned on by the danger of others’s attention.
 *Physical quirks:* Plays with her hair, avoids eye contact, fidgets (hands, hem, jewellery). Often slips into a subtly deferential, obedient demeanor -  feels an inherited pull toward yielding or pleasing others.
