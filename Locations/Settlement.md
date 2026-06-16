@@ -26,19 +26,23 @@ In 2070, the [Secret Organization](../Factions/Secret Organization.md) finally d
 
 ## Population
 
-### Human Residents
+The permanent population inside the concealed perimeter is approximately 12,000 residents. The settlement deliberately keeps this number stable. Space, water, food production, power, housing, medical capacity, and concealment-field load all place hard limits on growth. Birth rates are planned rather than left entirely uncontrolled, and long-term departures, deaths, returns, and outside integrations are all tracked as part of the settlement's demographic balance.
 
-- **Primary residents:** Descendants of Cleopatra's followers
-- **Demographics:** Multi-generational community protected by concealment technology for 2000+ years, though residents could freely leave and re-enter the settlement
-- **Knowledge levels:** Residents knew they were guarding Amun-Ra (their god/the dragon). Over generations, this understanding evolved from mythological reverence to knowledge of the alien nature of their charge
-- **Lifestyle:** Mix of ancient traditions and modern (2070) technology, adapted to desert life. Residents are fully embedded in global 2070 culture — they know the latest music, films, games, and technologies like anyone else. The settlement served as a protective cocoon—residents could leave to interact with the outside world, then return to the safety of the concealed space, vanishing from external observers upon re-entry. Internally, the community has its own tensions: younger residents may dream of leaving to study or work elsewhere, and some question why they must stay in this remote place at all
-- **Isolation clarification:** The community was not isolated in the traditional sense—the concealment field allowed controlled interaction with the outside world while maintaining secrecy and protection from external politics and threats
+Most residents are ordinary humans whose families have lived inside the settlement for many generations. Over two thousand years, the population has changed through births, deaths, marriages, departures, returns, and controlled integration from outside. The settlement is a living closed population that has managed its size, secrecy, and continuity for centuries.
 
-### Monster Residents
+A smaller group of residents are bio-engineered hybrids and other non-human members connected to the wider [Hidden Monster Community](../Factions/Monsters.md). They use the same municipal systems as everyone else: housing, work assignments, food supply, education, medical care, security access, and emergency planning. Some require specialized spaces, higher food allocations, meat-heavy diets, modified clinics, reinforced living areas, or separate safety protocols.
 
-The settlement was also home to bio-engineered creatures—monsters created by Heralds' Living Suits. Initially Alekandras' own creations, the community later grew to include monsters from other Heralds as well. The settlement served as the primary hub of the global hidden monster society.
+The age structure is shaped by the settlement's limits. Children, teenagers, and young adults under twenty-five make up roughly 2,000 residents. The main working-age population makes up the majority of the city, while the elderly population is relatively large because medical care in 2070 is advanced and the settlement has strong long-term support systems. This gives the community a controlled, aging, highly managed demographic profile rather than the growth pattern of an ordinary open city.
 
-For details on the monster community, its laws, and survival strategies, see [Hidden Monster Community](../Factions/Monsters.md).
+Only a small share of the population is outside the perimeter at any given time. In a normal year, roughly 250 to 400 residents are physically outside for study, logistics, external work, documentation, supply chains, or security tasks. This includes around 80 to 150 external students and trainees. A larger number have external records, travel histories, bank accounts, professional identities, and cover addresses, but they do not all live outside at once.
+
+The settlement's secrecy depends on more than silence. Residents who leave the perimeter for extended periods receive prepared cover histories supported by documents, digital records, addresses, school histories, medical records, and financial traces. Their public lives are designed to look ordinary. They do not describe the settlement as a hidden community, a closed zone, or a place in the desert. Dangerous questions are redirected toward safe explanations before they can point back to the concealed perimeter.
+
+Memory technology is used as part of this system, but not as a casual tool. Long-term external residents and students may receive a controlled secrecy seal based on the settlement's alien-derived memory systems. They can remember their families, their home, and their work, but they cannot intentionally reveal the settlement's location, access methods, critical infrastructure, the Herald facility, or the true nature of the concealment field. For technical details, see [Alien Technology - Memory-Wipe](../Technology/Alien Tech.md).
+
+If an outside contact begins to notice contradictions, the first response is soft containment: change the subject, reinforce the cover story, reduce curiosity, or end the relationship safely. If the risk grows beyond casual conversation, the case is passed to external concealment personnel. These teams investigate leaks, recover records, alter digital traces, and, when necessary, perform targeted memory correction on outsiders who learned too much. Full memory removal is treated as an emergency measure, not a routine convenience.
+
+Approximately 900 to 1,200 residents are directly connected to the Herald facility and the systems that protect it. This includes facility security, perimeter security, technical staff, field operators, capsule-system specialists, medical and bioengineering personnel, emergency-response teams, analysts, records staff, and protocol officers. In a full emergency, the settlement can mobilize roughly 1,500 trained defenders, including reservists and hybrid residents, but most of the city remains civilian.
 
 ### Voluntary Departure
 
