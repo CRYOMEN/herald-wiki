@@ -1,4 +1,4 @@
-﻿# The Hidden Settlement - Cleopatra's Legacy
+# The Hidden Settlement
 
 ## Overview
 
