@@ -1,72 +1,72 @@
-**Культура Зверолюдей**
+**Beastfolk Culture**
 
-Истоки общей культурной матрицы зверолюдей уходят на тысячи лет до прибытия Алекандраса на Землю. Разные Посланники прибывали в разные эпохи и создавали гибридов в разных регионах планеты. Часть ранних гибридов стала для людей богами, духами, чудовищами, хранителями или проклятыми существами.
+The roots of the beastfolk's shared cultural matrix go back thousands of years before Alekandras arrived on Earth. Different Heralds arrived in different eras and created hybrids in different regions of the planet. Some hybrids became gods, spirits, monsters, guardians, or cursed beings in human eyes.
 
-У зверолюдей существует общая культурная матрица. Локальные общества развивались обособленно, поэтому в разных частях света появились собственные языки, обычаи, формы власти, табу, ритуалы и способы взаимодействия с миром.
+The beastfolk have a shared cultural matrix. Local societies developed separately, so different parts of the world formed their own languages, customs, forms of authority, taboos, rituals, and ways of interacting with the world.
 
-Общие признаки культуры общества гибридов возникли из-за похожей природы и похожего исторического положения. Прежде всего их сформировала физическая сила и животная агрессия, описанная в [Bestiary.md](../Characters/Bestiary.md). В зверолюдских общинах сила стала повседневным доказательством права: ею удерживают дом, защищают добычу, получают статус, вызывают на поединок и показывают, кто способен отстоять свое.
+The common traits of hybrid society arose from similar natures and similar historical positions. Above all, they were shaped by physical strength and animal aggression, described in [Bestiary.md](../Characters/Bestiary.md). In beastfolk communities, strength became the everyday proof of right: it holds a territory, protects prey, grants status, calls rivals to duels, and shows who can defend what is theirs.
 
-Природа гибридов, описанная в [Bestiary.md](../Characters/Bestiary.md), внутри их обществ становится повседневным порядком. Дом защищают как продолжение тела, стаю - как продолжение крови, добычу - как доказательство права. Спор редко остается разговором: за ним стоит готовность к поединку, мести, метке владения или союзу против врага. Разум дал этим импульсам имена, правила, клятвы, договоры и родовые иерархии. Поэтому зверолюдское общество может выглядеть упорядоченным, но всегда живет рядом с насилием и хаосом.
+The nature of hybrids, described in [Bestiary.md](../Characters/Bestiary.md), becomes everyday order inside their societies. A territory is defended as an extension of the body, a pack as an extension of blood, prey as proof of right. A dispute rarely remains a conversation: behind it stands readiness for a duel, revenge, a mark of possession, or an alliance against an enemy. Reason gave these impulses names, rules, oaths, contracts, and clan hierarchies. Beastfolk society can look orderly while living close to violence and chaos.
 
-Тяга к людям занимает в их культуре особое место. Исторически люди для гибридов являлись origin: зверолюди видели в них свою сущность, лучшее себя, но в то же время объект сильного желания, владения, продолжения рода, власти, привязанности и в некоторых случаях - статуса. Человек может быть супругом, рабом, наложником, любимцем, пленником, политическим даром, частью дома или источником дохода. Малочисленность популяции гибридов делает такие связи еще важнее. Родословные, редкие виды, проверенных союзников, партнеров, старые семьи, связи и безопасные убежища ценят как основу выживания.
+Attraction to humans holds a special place in their culture. Historically, humans were the origin for hybrids: beastfolk saw their own essence in humans, the best version of themselves, and also an object of strong desire, possession, lineage, power, attachment, and in some cases status. A human can be a spouse, slave, concubine, favorite, captive, political gift, member of a household, or source of income. The small hybrid population makes such bonds even more important. Lineages, rare species, trusted allies, partners, old families, connections, and safe refuges are valued as the foundation of survival.
 
-Потребность во власти над людьми сохранилась с древности. Некоторые гибриды были для людей богами, чудовищами, хранителями или объектами поклонения. Люди боялись их, приносили им дары, служили им, заключали с ними сделки или попадали к ним в зависимость. Этот опыт породил гордость, чувство превосходства и привычку видеть человека как зависимое и слабое существо.
+The need for power over humans has remained since antiquity. Some hybrids were gods, monsters, guardians, or objects of worship to humans. People feared them, brought them offerings, served them, made deals with them, or fell into dependence on them. This experience created pride, a sense of superiority, and the habit of seeing a human as a dependent and weak being.
 
-Однако со временем появился опыт страха, когда человечество стало достаточно опасным, чтобы угрожать даже физически сильным гибридам: государства, армии, наука, технологии превратили открытое существование зверолюдей в риск непонимания, неприятия, плена, изучения и экспериментов. Поэтому рядом с гордостью высшего хищника в их культуре появилась осторожность малочисленного скрытого народа. Необходимость скрываться стала отдельным слоем культуры: появились тайные маршруты, подземные рынки, скрытые поселения, технологии, запретные зоны, легенды-прикрытия и жестокие наказания за раскрытие.
+Over time, fear also entered their experience, when humanity became dangerous enough to threaten even physically powerful hybrids. States, armies, science, and technology turned open beastfolk existence into a risk of misunderstanding, rejection, captivity, study, and experimentation. Alongside the pride of a superior predator, their culture developed the caution of a small hidden people. The need to hide became its own cultural layer: secret routes, underground markets, hidden settlements, technologies, forbidden zones, cover legends, and harsh punishments for exposure appeared.
 
-Конкретные субкультуры формировались под влиянием географии, человеческой истории, уровня технологий людей, степени изоляции, состава видов внутри группы, памяти и преданий о собственной роли в прошлом. Северные стаи, подземные городские общины, пустынные храмовые роды, секты, джунглевые кланы и общества развитых мегаполисов могут иметь общий культурный фундамент, но разные степени жестокости, религиозности, закрытости и даже уровня криминальности.
+Specific subcultures formed under the influence of geography, human history, human technological level, degree of isolation, species composition within the group, memory, and traditions about their own role in the past. Northern packs, underground urban communities, desert temple lineages, sects, jungle clans, and societies in developed megacities may share a common cultural foundation while differing in cruelty, religiosity, secrecy, and even criminality.
 
-История человечества и история зверолюдей развивались параллельно и постоянно соприкасались. Человеческие мифы о богах и чудовищах часто сохраняли следы реальных скрытых обществ. Зверолюди местами влияли на политику, культы, культуру людей, войны, династии и местные законы, чтобы защищать свои укрытия и сохранять тайну.
+Human history and beastfolk history developed in parallel and constantly touched each other. Human myths about gods and monsters often preserved traces of real hidden societies. In some places, beastfolk influenced politics, cults, human culture, wars, dynasties, and local laws in order to protect their refuges and preserve secrecy.
 
-**Основная Культура**
+**Core Culture**
 
-Внутренний порядок зверолюдей иерархичен и держится на силе и владении. Сильный защищает, берет и отвечает. Слабый может попасть под покровителя, хозяина, или найти семью, стаю или клан.
+The internal order of the beastfolk is hierarchical and rests on strength and possession. The strong protect, take, and answer for what is theirs. The weak may come under a patron or master, or find a family, pack, or clan.
 
-Грабеж, рабство, многоженство, похищения, месть и жесткие разборки существуют внутри такого общества как часть жизни.
+Raiding, slavery, polygyny, abduction, revenge, and violent confrontations exist inside this society as part of life.
 
-**Право Силы**
+**Right of Strength**
 
-Право силы в зверолюдских культурах работает как социальная основа. Сильный получает власть над территорией, домом, пленниками, партнерами и добычей. Сильный также несет ответственность перед теми, кто находится под его властью. Безответственный глава теряет уважение, союзников и право владеть ценными существами.
+The right of strength works as a social foundation in beastfolk cultures. The strong gain power over territory, captives, partners, and prey. The strong also bear responsibility toward those under their power. An irresponsible head loses respect, allies, and the right to possess valuable beings.
 
-**Сексуальная Культура**
+**Sexual Culture**
 
-Высокое либидо гибридов описано в [Bestiary.md](../Characters/Bestiary.md), а в зверолюдских обществах оно воспринимается как часть природы, с которой не спорят. В некоторых субкультурах постоянное желание становится поводом для владения, гаремов, наложниц, брачных сделок, сезонных союзов и силовых притязаний. Человек может быть супругом, любимцем, пленником, рабом, наложницей, наследственным партнером рода или политическим даром.
+The hybrids' high libido is described in [Bestiary.md](../Characters/Bestiary.md), and beastfolk societies treat it as part of nature. In some subcultures, constant desire becomes a cause for possession, harems, concubines, marriage bargains, seasonal unions, and forceful claims. A human can be a spouse, favorite, captive, slave, concubine, hereditary partner of a lineage, or political gift.
 
-Многоженство среди сильных гибридов редко, но возможно. Чем выше статус самца, тем больше вокруг него зависимых слуг.
+Polygyny among powerful hybrids is rare but possible. The higher a male's status, the more dependent servants surround him.
 
-Система держится на правилах собственности, мести и компенсации. Взять “ничейного” пленника допустимо. Взять человека сильного рода без права означает получить себе врагов. Убить ценного члена другого дома означает вызвать кровную месть или выплату.
+The system rests on rules of property, revenge, and compensation. Taking an "unclaimed" captive is acceptable. Taking a human from a powerful lineage without right means making enemies. Killing a valuable member of another clan means provoking blood revenge or compensation.
 
-**Субкультуры**
+**Subcultures**
 
-Субкультуры зверолюдей представляют собой разрозненные общества в разных частях света. Они похожи по корню и различаются степенью жестокости, религиозностью, отношением к людям, технологиям и власти.
+Beastfolk subcultures are scattered societies in different parts of the world. They share a common root and differ in their degree of cruelty, religiosity, attitude toward humans, attitude toward technology, and attitude toward power.
 
-На них влияли:
+They were shaped by:
 
-- география: пустыня, север, джунгли, горы, острова, подземелья, большие города;
-- человеческая история вокруг них;
-- уровень технологий;
-- степень изоляции;
-- состав видов внутри группы;
-- память о роли в человеческих мифах и истории.
+- geography: desert, north, jungle, mountains, islands, underground spaces, major cities;
+- the human history around them;
+- technological level;
+- degree of isolation;
+- species composition within the group;
+- memory of their role in human myths and history.
 
-В развитых странах зверолюдские общества чаще используют документы, подставных людей, шантаж, медицину, цифровые легенды, криминальные сети и контроль информации. В менее развитых регионах сильнее сохраняются племенные формы власти, прямое рабство, страх перед местными духами, запретные территории, культовые ритуалы и личная власть вождя.
+In developed countries, beastfolk societies more often use documents, front people, blackmail, medicine, digital legends, criminal networks, and information control. In less developed regions, tribal forms of authority, direct slavery, fear of local spirits, forbidden territories, cult rituals, and the personal power of a chieftain remain stronger.
 
-Подземные общества под большими городами формируют слегка криминальную культуру: таверны, черные рынки, должники, беглецы, похищенные люди, торговля услугами, связи с мафией и закрытые клубы для тех, кто знает о мире снизу.
+Underground societies beneath major cities form a somewhat criminal culture: taverns, black markets, debtors, fugitives, abducted people, trade in services, mafia connections, and closed clubs for those who know about the world below.
 
-Северные общества могут строиться вокруг стаи, охоты, старшинства, силы вожака, зимнего выживания, кровной мести и сезонных брачных обычаев.
+Northern societies may form around the pack, hunting, seniority, the leader's strength, winter survival, blood revenge, and seasonal marriage customs.
 
-Джунглевые общества могут строиться вокруг территории, плодородия, скрытых деревень, культа хищника, пленников, жертвенных обычаев и полного контроля над входами в свои земли.
+Jungle societies may form around territory, fertility, hidden villages, predator cults, captives, sacrificial customs, and complete control over the entrances to their lands.
 
-Пустынные и храмовые общества могут строиться вокруг древних клятв, священных родов, гробниц, рабов храма, ритуального владения, памяти о богах и тайных союзов с человеческими династиями.
+Desert and temple societies may form around ancient oaths, sacred lineages, tombs, temple slaves, ritual possession, memory of the gods, and secret alliances with human dynasties.
 
-**Внутренние Группы Поселения Клеопатры**
+**Internal Groups of Cleopatra's Settlement**
 
-Внутри поселения Клеопатры могут существовать свои темные группы:
+Inside Cleopatra's settlement, its own dark groups may exist:
 
-- **Кланы Когтя:** гибридные семьи, где власть держится на силе, потомстве, гаремах и личной преданности.
-- **Дома Покровительства:** человеческие семьи, которые выжили через союзы с сильными гибридами.
-- **Охотники за головами и Торговцы Живым Товаром:** поставщики рабов, должников, беглецов, редких людей снаружи и иногда [афалин](Afalinas.md).
-- **Хранители Клятвы:** военная элита, которая защищает от угрозы тайне Амун-Ра.
-- **Дикие Стаи:** молодые гибриды, живущие грабежом, драками, похищениями и ночными охотами.
-- **Хозяева [Афалин](Afalinas.md):** закрытый круг владельцев и тренеров, где власть строится на психическом влиянии.
-- **Старые Египетские Роды:** люди, считающие себя наследниками Клеопатры и хранителями древнего порядка.
+- **Claw Clans:** hybrid families where power rests on strength, offspring, harems, and personal loyalty.
+- **Houses of Patronage:** human families that survived through alliances with powerful hybrids.
+- **Bounty Hunters and Traders in Living Goods:** suppliers of slaves, debtors, fugitives, rare outsiders, and sometimes [afalinas](Afalinas.md).
+- **Keepers of the Oath:** a military elite that protects against threats to the secrecy of Amun-Ra.
+- **Wild Packs:** young hybrids living through raiding, fighting, abductions, and night hunts.
+- **Masters of [Afalinas](Afalinas.md):** a closed circle of owners and trainers whose power is built on psychic influence.
+- **Old Egyptian Lineages:** humans who consider themselves heirs of Cleopatra and guardians of the ancient order.
