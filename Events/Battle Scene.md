@@ -30,23 +30,23 @@ The assistant runs toward the tomb. Enemy infantry breaks through the security s
 
 As the assistant activates the awakening procedure, the enemy begins blasting the tomb gates to break through. During the battle, one of the projectiles strikes the tomb itself.
 
-The impact damages the hibernation systems-the mechanisms designed to safely bring the alien out of stasis and restore life functions to both the living suit and the alien himself. After 2000 years, the ancient systems were already fragile. Now they begin to malfunction.
+The impact damages the area where the hibernation capsule, the awakening system, and lines tied to the [Life-Support Matrix](../Technology/Alien Tech.md) converge. After 2000 years, the ancient systems were already fragile. The damaged control path sends an emergency awakening request through the Thermal Conversion Module (TCM).
 
-Instead of a controlled awakening, it glitches and starts slowly collecting thermal energy from the surrounding environment. Over the next roughly 15 minutes, energy accumulates far beyond what the system was designed to handle.
+The capsule needs rapid stabilization energy to restore life functions to both the living suit and the alien himself. The broken control logic misreads the surrounding environment as an available energy reserve. Over the next roughly 15 minutes, TCM pulls heat with escalating force while the capsule concentrates energy around the pod.
 
 ## The Freezing Begins
 
-The temperature starts dropping. First, the people inside the tomb-the enemy soldiers who broke through-feel the biting cold. They do not freeze instantly; they try to retreat and find a safer place, but the cold is inescapable and they cannot get far enough in time.
+The temperature starts dropping inside the tomb first. Frost spreads across metal, stone, weapons, and the inner gates. The enemy soldiers who broke through feel the biting cold before anyone outside understands what is happening. They do not freeze instantly; they try to retreat and find a safer place, but the cold is inescapable and they cannot get far enough in time.
 
 The settlement leader, still fighting, begins saving people. He closes some survivors in protective capsules to shield them from the freezing temperatures. Some will survive this way.
 
-The cold spreads further. People in the settlement start shivering, desperately seeking shelter-but there is nowhere safe enough to hide. The temperature continues to drop. People try to find cover but ultimately freeze and die.
+The cold spreads through the connected systems of the Heart of Akhet. Water lines, technical corridors, stone floors, greenhouse supports, exterior walls, soil, machinery, plants, animals, and living bodies all become sources of heat for the emergency awakening. People in the settlement start shivering, desperately seeking shelter-but there is nowhere safe enough to hide. The temperature continues to drop. People try to find cover but ultimately freeze and die.
 
 The cold reaches the attackers. The secret organization's soldiers begin freezing-they too scramble for protection but cannot escape the spreading cold. Their antagonist leader realizes something has gone catastrophically wrong. He quickly hides inside military equipment to survive, understanding that if he doesn't take shelter now, he'll die too.
 
 ## The Hurricane
 
-The thermal energy drain creates a massive atmospheric anomaly. Meteorologists around the world detect something impossible: in the middle of a hot desert, a freezing hurricane vortex begins to form gradually. As the wind strengthens, the temperature starts to drop.
+The expanding thermal collapse creates a massive atmospheric anomaly. Cold dense air falls around the epicenter while warmer air from the perimeter rushes inward, loses heat, sinks, and forces other layers aside. The damaged concealment field and spatial instability amplify the turbulence. Meteorologists around the world detect something impossible: in the middle of a hot desert, a freezing hurricane vortex begins to form gradually. As the wind strengthens, the temperature starts to drop.
 
 The vortex grows to a diameter of 15 kilometers around the epicenter; the temperature falls to minus 200 degrees Celsius. A terrible storm rages-no sunlight penetrates the vortex, and powerful lightning flashes constantly due to the massive temperature imbalance.
 
@@ -54,7 +54,7 @@ The vortex grows to a diameter of 15 kilometers around the epicenter; the temper
 
 At the peak of the energy drain, the capsule breaks through to the surface, rising approximately 10 meters above the ground-a massive, ancient structure now visible to all.
 
-After roughly 15 minutes of accumulation, the energy reaches a critical threshold in one single point around the pod. The massive energy surge. This causes uncontrollable chaotic teleportation anomaly. The pod sucked into a hole, vanishing into an unknown dimension.
+After roughly 15 minutes of accumulation, the energy reaches a critical threshold in one single point around the pod. The capsule tries to complete the emergency transition while the control systems remain damaged and the field around it is unstable. The energy surge triggers an uncontrollable chaotic teleportation anomaly. The pod is sucked into a hole, vanishing into an unknown dimension.
 
 ## Aftermath
 
