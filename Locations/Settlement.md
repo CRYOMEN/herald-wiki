@@ -63,6 +63,8 @@ For technical details, see [Alien Technology — Settlement Concealment](../Tech
 
 Akhet's habitable environment is maintained by an alien Life-Support Matrix connected to the settlement's concealed perimeter.
 
+Residents commonly call this system **Heart of Akhet**.
+
 For technical details, see [Alien Technology — Life-Support Matrix](../Technology/Alien Tech.md).
 
 ## How the Secret Organization Discovered It
