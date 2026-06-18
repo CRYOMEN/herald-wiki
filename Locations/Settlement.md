@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Hidden Settlement is a community located deep in the Egyptian desert, established over 2,000 years ago by the followers of [Cleopatra VII](../Characters/Cleopatra VII.md) with a sacred mission: to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)) at all costs. For more than two millennia, this settlement has remained completely hidden from the outside world through advanced alien concealment technology.
+The Hidden Settlement is known internally as **Akhet**. It is a community located deep in the Egyptian desert, established over 2,000 years ago by the followers of [Cleopatra VII](../Characters/Cleopatra VII.md) with a sacred mission: to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)) at all costs. For more than two millennia, this settlement has remained completely hidden from the outside world through advanced alien concealment technology.
 
 ## Location
 
