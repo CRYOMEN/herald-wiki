@@ -1,4 +1,4 @@
-﻿# Alien Technology
+# Alien Technology
 
 ## Overview
 
@@ -138,7 +138,27 @@ Memory-wipe technology is an alien bioengineering system capable of selectively 
 **For information about how this technology was used in the settlement context, see [Settlement](../Locations/Settlement.md).**
 
 ---
-## 5. Comparison with Human Technology
+## 5. Life-Support Matrix
+
+**Classification:** Alien bioengineering life-support system
+**Key module:** Thermal Conversion Module (TCM)
+
+The Life-Support Matrix is a large alien bioengineering system that maintains water, energy, microclimate, soil, organic cycles, and a stable habitable environment inside a closed oasis.
+
+The **Thermal Conversion Module (TCM)** extracts excess heat from air, soil, stone, water, and interior spaces, then converts that thermal energy into usable energy for other system circuits. Stable environmental cooling is a byproduct of TCM operation.
+
+The water circuit purifies water, collects condensation, returns moisture from air and soil, maintains underground reservoirs, regulates mineral balance, and distributes water through internal zones.
+
+The biotechnical circuit processes organic waste and maintains nutrient cycles, soil microbiome, humidity, root systems, greenhouse conditions, and stability of living organisms inside the oasis.
+
+The air circuit regulates temperature, humidity, dust, odors, spores, microorganisms, oxygen, and carbon dioxide.
+
+The system has an operational layer with readable interfaces, metrics, filters, distribution stations, and serviceable modules. Its deeper layer remains alien living biotechnology.
+
+The system has a limited maximum load. Increased water use, heat transfer, energy demand, biomass, or supported habitat area requires load calculation against the matrix.
+
+---
+## 6. Comparison with Human Technology
 
 | Aspect            | Human (2070)              | Alien                       |
 |:------------------|:--------------------------|:----------------------------|
