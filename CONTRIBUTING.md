@@ -68,6 +68,12 @@ Adding new content should require editing **one file**. If you're updating multi
 
 ---
 
+## Writing Style
+
+Write in direct narrative statements. Avoid explaining a point through contrastive formulas such as "not X, but Y" when a direct statement works better. This also applies to equivalent phrasing in any language used inside content files.
+
+---
+
 ## Verification Before Committing
 
 Foreach modified file Run `git diff` to compare the new version with the previous version. Then:
