@@ -51,11 +51,19 @@ Residents who wished to leave permanently had two options:
 - **Leave with knowledge intact** — continue living a dual life, maintaining secrecy voluntarily.
 - **Memory-wipe and permanent departure** — voluntary, irreversible. See [Alien Technology — Memory-Wipe](../Technology/Alien Tech.md) for details.
 
-## Concealment Technology
+## Settlement Technology
+
+### Concealment Technology
 
 The settlement has been hidden since ~30 BCE by alien concealment technology. Residents can freely cross the perimeter in and out.
 
 For technical details, see [Alien Technology — Settlement Concealment](../Technology/Alien Tech.md).
+
+### Life-Support Matrix
+
+Akhet's habitable environment is maintained by an alien Life-Support Matrix connected to the settlement's concealed perimeter.
+
+For technical details, see [Alien Technology — Life-Support Matrix](../Technology/Alien Tech.md).
 
 ## How the Secret Organization Discovered It
 
