@@ -70,7 +70,9 @@ Adding new content should require editing **one file**. If you're updating multi
 
 ## Writing Style
 
-Write in direct narrative statements. Avoid explaining a point through contrastive formulas such as "not X, but Y" when a direct statement works better. This also applies to equivalent phrasing in any language used inside content files.
+Write in direct narrative statements.
+
+Do not explain canon with contrastive formulas such as "not X, but Y" or equivalent phrasing in any language. State what is true directly. State what is false only when that negation is itself a canon fact.
 
 ---
 
