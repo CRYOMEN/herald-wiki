@@ -68,6 +68,10 @@ Adding new content should require editing **one file**. If you're updating multi
 
 ---
 
+## Language
+
+All wiki content is written in English. This applies to every file, section, and entry without exception.
+
 ## Writing Style
 
 Write in direct narrative statements.

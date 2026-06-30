@@ -18,6 +18,16 @@ Specific subcultures formed under the influence of geography, human history, hum
 
 Human history and beastfolk history developed in parallel and constantly touched each other. Human myths about gods and monsters often preserved traces of real hidden societies. In some places, beastfolk influenced politics, cults, human culture, wars, dynasties, and local laws in order to protect their refuges and preserve secrecy.
 
+**Terminology**
+
+Within the hidden community, hybrid beings are referred to as **therianthropes**, shortened in everyday speech to **therians**.
+
+The terminology has shifted across eras. Early regional names tied to each culture's perception of hybrid beings are documented in [Bestiary](../Characters/Bestiary.md). As the hidden community developed its closed internal culture, *lycanthrope* became the shared internal term, used across the community for centuries.
+
+In December 1994, the word *therianthropy* was proposed on a public network forum as a term covering all human-animal hybrid types. It spread through an external subculture of people who identified psychologically or spiritually with animal types. Inside the hidden community, the same word was adopted as the precise name for actual hybrid beings.
+
+By 2070, the external subculture continues in evolved forms. The shared terminology provides a passive layer of cover in everyday speech.
+
 **Core Culture**
 
 The internal order of the beastfolk is hierarchical and rests on strength and possession. The strong protect, take, and answer for what is theirs. The weak may come under a patron or master, or find a family, pack, or clan.
