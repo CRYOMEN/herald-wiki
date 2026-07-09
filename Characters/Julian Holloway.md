@@ -42,5 +42,5 @@
 ## 7. Story usage
 
 - **Appearances:** Mentioned in [Jasmine Foster's](Jasmine Foster.md) backstory.
-- **Plot function:** Antagonist / supporting character whose status and actions heavily influence Jasmine's arc.
+- **Plot function:** Supporting character whose status and actions heavily influence Jasmine's arc.
 - **Possible arcs:** Conflict with [Leena](Leena.md), who challenges him to better protect [Jasmine Foster](Jasmine Foster.md). This conflict might eventually lead him to reconsider his life and move his organization away from criminal activities in the distant future.

@@ -1,6 +1,6 @@
 # Contributing to Herald Wiki
 
-Rules for maintaining the wiki. LLMs: also read [CLAUDE.md](CLAUDE.md).
+Rules for maintaining the wiki.
 
 ---
 
