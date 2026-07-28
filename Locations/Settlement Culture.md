@@ -28,6 +28,8 @@ The settlement lives with the internal knowledge that the outside world sees onl
 
 This knowledge creates a distinct sense of separation from outside humanity among residents. They use the same gadgets, study at the same universities, watch the same films, and read the same scientific articles, but their picture of the world is deeper. They know that part of human history was misunderstood, part of myth grew out of real encounters, and part of the impossible is simply kept securely hidden.
 
+Everyday language inside the settlement is modern and often ironic. Residents nickname the sleeping Herald beneath the city "the big guy downstairs," or, with dry affection, "the landlord," and they call a voluntary, memory-wiped departure "going to zero."
+
 Inside the perimeter, truth is part of the everyday picture of the world. Beastfolk, the Herald, Zero-Point Reality Intersection technology, old events, and the extraterrestrial nature of the technology can be discussed openly if a person has the proper access and a reason to know the details. Secrecy is directed outward. When a resident leaves the settlement, their public biography, documents, and memory enter the external cover regime, where dangerous lines of thought are blocked or redirected toward safe explanations.
 
 Residents develop a culture of double knowledge. There is an external version of the world suitable for universities, documents, conversations with outsiders, and life beyond the field. There is an internal version where ancient images, legends, hybrids, extraterrestrial traces, and the Herald's history form a fuller picture. An educated person from the settlement can live freely in both versions.
