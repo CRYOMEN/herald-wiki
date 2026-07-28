@@ -22,7 +22,7 @@
 - **Fears:** TBD.
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** TBD.
-- **Notable habits:** Nobody has ever seen the Stalker — not beasts, not people. Anyone who catches a glimpse is killed immediately.
+- **Notable habits:** No beast or person has seen the Stalker and remained alive. Anyone who catches a glimpse is killed immediately.
 
 ## 4. Backstory
 
@@ -35,7 +35,7 @@
 - **Allies:** [Mara](Mara.md) — serves as her guardian/protector.
 - **Enemies:** Anyone who enters his territory uninvited.
 - **Dependents / others:** TBD.
-- **Public perception (optional):** A legend in the underground — the most ferocious inhabitant. Nobody has seen him and lived to tell about it.
+- **Public perception (optional):** Known in the underground as its most ferocious inhabitant. No account of him comes from a witness.
 
 ## 6. Abilities and equipment
 

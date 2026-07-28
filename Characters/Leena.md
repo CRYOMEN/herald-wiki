@@ -45,7 +45,7 @@
 ## 7. Story usage
 
 - **Appearances:** Swimming class scene and aftermath
-- **Plot function:** Represents Jasmine's normal, surface-world life. Provides comic relief and emotional warmth. Her probing questions about Jasmine's love life create dramatic irony -- she senses Jasmine has secrets but interprets them as romantic rather than supernatural. Serves as a foil to Jasmine's hidden underground existence.
+- **Plot function:** Represents Jasmine's normal, surface-world life. Provides comic relief and emotional warmth. Her probing questions about Jasmine's love life create dramatic irony -- she senses Jasmine has secrets and reads them as romantic, missing the supernatural truth behind them. Serves as a foil to Jasmine's hidden underground existence.
 - **Possible arcs:** Could she eventually discover the truth about Jasmine's underground life? Her persistent curiosity and refusal to accept deflections make her a candidate for accidental discovery. The story explores the tension between Jasmine wanting to confide in Leena and fearing judgment. **Future Conflict:** Leena will have a significant conflict with [Julian Holloway](Julian Holloway.md) — challenging him for his failure to protect [Jasmine Foster](Jasmine Foster.md). This confrontation becomes a turning point for Julian, leading him to rethink his organization's criminal activities.
 - **Archetype:** The loyal, loud-mouthed best friend
 
@@ -53,6 +53,6 @@
 
 - Does NOT know about the underground world, the Lizard Man, or any of [Jasmine Foster's](Jasmine Foster.md) secret life
 - Suspects [Jasmine Foster](Jasmine Foster.md) has secrets but misreads them as romantic (thinks [Jasmine Foster](Jasmine Foster.md) might like girls, or has a secret partner)
-- Genuinely supportive when [Jasmine Foster](Jasmine Foster.md) is selected for Professor Edwards' advanced history program -- shows she values [Jasmine Foster's](Jasmine Foster.md) intellect, not just gossip
+- Genuinely supportive when [Jasmine Foster](Jasmine Foster.md) is selected for Professor Edwards' advanced history program -- shows she values [Jasmine Foster's](Jasmine Foster.md) intellect alongside their shared gossip
 - Tries to locate [Jasmine Foster](Jasmine Foster.md) via PrinAG789 when she goes missing during the swimming class break
 - Wants to celebrate [Jasmine Foster's](Jasmine Foster.md) program invitation by going to a nightclub together

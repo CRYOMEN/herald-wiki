@@ -13,7 +13,7 @@
 - **Build:** Dolphin-based body — partly organic (real dolphin biology), partly synthetic materials.
 - **Distinctive traits:** Aquatic. Exact appearance TBD.
 - **Voice/speech (optional):** TBD.
-- **Morphology (if hybrid/alien):** Hybrid of a real bottlenose dolphin and synthetic/bio-robotic materials. A military engineering product, not a natural creature.
+- **Morphology (if hybrid/alien):** Hybrid of a real bottlenose dolphin and synthetic/bio-robotic materials. A military engineering product.
 
 ## 3. Psychological / temperament
 

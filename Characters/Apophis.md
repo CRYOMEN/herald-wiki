@@ -47,5 +47,5 @@
 
 - **Appearances:** [Alekandras](Alekandras.md) vs Apophis war. His current status (hiding, hibernating, dead) is TBD.
 - **Plot function:** Primary ancient antagonist. See [Ra vs Apophis War](../Events/Ra vs Apophis War.md).
-- **Possible arcs:** Could return during the 2070 timeline (was driven into hiding, not killed). Could ally with or be exploited by the secret organization. His surviving creations could play a role. TBD.
+- **Possible arcs:** Could return during the 2070 timeline (survived the defeat and went into hiding). Could ally with or be exploited by the secret organization. His surviving creations could play a role. TBD.
 - **Archetype (optional):** Shadow / rival; the enemy within (a fellow herald turned hostile).

@@ -21,7 +21,7 @@
 - **Fears:** Has fears and worries (specifics TBD).
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** TBD.
-- **Notable habits:** Over 2,000 years living among the followers of Cleopatra, Iko formed deep personal bonds with the settlement community — talking, joking, and playing with residents as an ordinary companion. She has watched many generations of people be born, live, and die, which gives her a quiet, underlying sadness: humans live so briefly. Because she knew people from birth, they trusted her completely — and she trusted them in return.
+- **Notable habits:** Over 2,000 years living among the followers of Cleopatra, Iko formed deep personal bonds with the settlement community — talking, joking, and playing with residents as an ordinary companion. She has watched many generations of the settlement be born and die, and the brevity of human life is a quiet, underlying sadness for her. Because she knew people from birth, they trusted her completely — and she trusted them in return.
 
 ## 4. Backstory
 
@@ -34,7 +34,7 @@
 - **Allies:** The suit owner. The followers of Cleopatra settlement leader.
 - **Enemies:** The secret organization. Apophis (by extension).
 - **Dependents / others:** Responsible for the owner wellbeing; effectively co-guardian of the tomb alongside the followers.
-- **Public perception (optional):** The settlement knows her as a living creature loyal to the alien. To outsiders, her appearance would be deeply unsettling.
+- **Public perception (optional):** The settlement knows her as a living creature loyal to the alien. Outsiders would find her appearance disturbing.
 
 ## 6. Abilities and equipment
 

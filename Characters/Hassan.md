@@ -19,7 +19,7 @@
 - **Personality:** Confident, calculating; quick to panic when physically threatened by someone stronger
 - **Drives:** Financial survival
 - **Fears:** The mafia clan he owes credits to; physical confrontation with creatures stronger than him; imprisonment
-- **Flaws / weaknesses:** Overconfident in his schemes; underestimates resistance from others; when physically overpowered, requests mercy; relies on manipulation rather than direct force
+- **Flaws / weaknesses:** Overconfident in his schemes; underestimates resistance from others; when physically overpowered, requests mercy; relies on manipulation and avoids direct force
 - **Secrets or hidden need:** Desperate financial situation
 - **Notable habits:** Studies his targets before acting; uses psychological manipulation and observation; carries a small pistol at his waist
 

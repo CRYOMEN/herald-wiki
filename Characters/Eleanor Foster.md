@@ -41,4 +41,4 @@
 ## 7. Story usage
 
 - **Appearances:** Mentioned in [Jasmine Foster's](Jasmine Foster.md) backstory.
-- **Plot function:** The source of stability and intergenerational connection in Jasmine's household; the giver of the artifact.
+- **Plot function:** Provides stability and intergenerational connection in Jasmine's household; passes on the artifact.

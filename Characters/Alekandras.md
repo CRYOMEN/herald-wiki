@@ -24,13 +24,13 @@
 - **Personality:**
   - *Youth (arrival in 3200–3000 BC):* curious, idealistic, impulsive, naive; friendly, wants to help and improve others; can flit between fixations; strong-willed.
   - *Maturity (2070 AD):* measured, patient, world-weary yet still driven; centuries of loss and solitude have tempered his impulsivity into deliberate caution; deeply loyal to those few he trusts; carries the weight of thousands of years of memories and failed relationships; still idealistic at core, but masked by a stoic, sometimes melancholic exterior.
-- **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. His [Homeworld](../Locations/Homeworld.md) is dying-his mission is to save both worlds.
-- **Fears:** Fears never seeing his family again. Fears forming new attachments, knowing he will outlive them. The accumulated weight of memory — every death, every war, every lost love — threatens to crush his will to continue.
+- **Drives:** Warn humanity about the cosmic threat; help Earth resist it and find a way to survive. The same threat is destroying his [Homeworld](../Locations/Homeworld.md), so a defense built on Earth is also the only remaining chance for his own species. He is trying to save both.
+- **Fears:** Fears never seeing his family again. Fears forming new attachments, knowing he will outlive them. The accumulated memory of every death, war, and lost love threatens his will to continue.
 - **Flaws / weaknesses:**
   - *Youth:* Inexperienced; impulsive; reckless
   - *Maturity:* Emotional scarring from millennia of loss makes forming new bonds incredibly difficult
 - **Secrets or hidden need:**
-  - **The Living Suit's true cost:** Without it, he would live only 150–170 years like any other member of his species. The suit grants him millennia—but at the cost of watching everyone he loves die.
+  - **The Living Suit's true cost:** Without it, he would live only 150–170 years like any other member of his species. The suit grants him millennia, and the price is watching everyone he loves die.
   - **Isolation in 2070:** After waking in 2070, he does not know that the hybrid species he created survived the millennia and still exist in hiding. He believes he is completely alone: his homeworld is dying or dead, his followers are gone, and he has no idea his "children" are still out there.
   - **Love as survival mechanism:** Over 3,000 years, he has fallen in love only ~25 times (*see [Alekandras' 25 Women](../Relationships/Alekandras Soulmates.md)*). The intervals between loves grow longer with each loss: first 5 years of grief, then 15, then 20, then 50, then 100, then 200... Each death adds weight. Each new love requires greater courage. By 2070, he carries the memory of dozens of lifetimes' worth of war, death, and lost intimacy—a burden no therapy can address.
   - **Accidental discovery:** The suit's neurochemical resonance recharging mechanism — where emotional intimacy converts into energy — was discovered by accident when Alekandras fell in love with his first Egyptian partner. See [Alien Technology](../Technology/Alien Tech.md) for full technical details.

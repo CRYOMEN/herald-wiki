@@ -10,9 +10,9 @@
 
 ## 2. Physical
 
-- **Build:** 2.1 meters tall; heavy and muscular. Wide hips. Flat stomach. Broad chest and shoulders. Flexible spine — can twist and lunge with lightning speed. Thick, muscular legs. Thick, heavy tail.
+- **Build:** 2.1 meters tall; heavy and muscular. Wide hips. Flat stomach. Broad chest and shoulders. Flexible spine — twists and lunges rapidly. Thick, muscular legs. Thick, heavy tail.
 - **Distinctive traits:** Partially covered in deep brown scales, partially in moist leathery skin (grey armored plate at chest). Skin color mix: brown with hints of green and blue (not finalized). Big yellow eyes with slit pupils (ordinary reptilian, no glow). Elongated, massive head. Short thick neck. Long snout with powerful jaws. Sharp fangs — front teeth longer, molars broader. Long, thick, forked tongue. Thick saliva. Large hands with sharp claws. Digitigrade feet with thick clawed toes. Prefers hot environments; heats himself to warm blood.
-- **Voice/speech (optional):** Speaks little; low, growling voice; speaks in low hisses and growls. Has no use for flowery language. Issues imperious commands.
+- **Voice/speech (optional):** Speaks little; low, growling voice; speaks in low hisses and growls. Has no use for elaborate language. Issues imperious commands.
 - **Morphology (if hybrid/alien):** Human–lizard hybrid. See [Bestiary](Bestiary.md) for general information.
 
 ## 3. Psychological / temperament
@@ -25,7 +25,7 @@
 - **Drives:** Seeks answers about his past and origin. Respects strength and wisdom. Respects acts of mercy or compassion. Strong connection to nature. Moral code measures worth based on power and cunning.
 - **Fears:** The unknown of his own past. Loneliness — despite fame in the community, he feels he has no true friends. The absence of family bothers him deeply.
 - **Flaws / weaknesses:** Solitary nature makes deep connections difficult. Different species — cannot form romantic relationships with others. Distrust of strangers can push people away.
-- **Secrets or hidden need:** Yearns for connection and understanding. Despite being known by many, feels fundamentally alone. His capacity for empathy and emotional connection remains hidden beneath his formidable exterior.
+- **Secrets or hidden need:** Wants connection and understanding. Despite being known by many, feels fundamentally alone. His capacity for emotional connection goes unseen by those around him.
 - **Notable habits:** Moves quickly on all fours or upright. Eats raw or seared meat. Tongue flicks to taste the air. Usually solitary but gathers in groups for hunting/mating seasons. Does not like being seen when using his telekinetic ability. Rarely uses weapons or tools — relies on tooth and claw.
 
 ## 4. Backstory

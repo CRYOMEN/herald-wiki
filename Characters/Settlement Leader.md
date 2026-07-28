@@ -18,8 +18,8 @@
 ## 3. Psychological / temperament
 
 - **Personality:** TBD.
-- **Drives:** Uphold the oath given by [Cleopatra](Cleopatra VII.md) - guard the Herald at the cost of their lives. Protect the settlement and its people.
-- **Fears:** Failure of the sacred mission; dishonoring the oath.
+- **Drives:** Protect the settlement and its people. Guard the Herald, a duty the settlement expects its people to die for.
+- **Fears:** Losing the Herald on his watch; being the leader under whom the concealment failed.
 - **Flaws / weaknesses:** TBD.
 - **Secrets or hidden need:** TBD.
 - **Notable habits:** TBD.
