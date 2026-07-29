@@ -6,9 +6,11 @@ A powerful paramilitary corporation of unknown origin. Founded by power-hungry h
 
 ## History
 
+> **Note:** The organization's origin is now traced in full in [History of the Secret Organization](../Events/Secret Organization History.md) — from isolated observers in dynastic Egypt, through the Hellenistic reading circle that adopted the atomist doctrine of innumerable worlds, to the corporation of 2070. The English sections below predate that chronicle and will be reconciled with it.
+
 ### Foundation (Unknown)
 
-The organization's origins are unknown — when it was founded, by whom exactly, and under what circumstances remains unclear. What is known is that at some point in history, a group of humans encountered alien technology (the Living Suit, bio-engineered creatures, concealment systems) and chose to pursue it for their own power rather than serve the Herald's mission. How long ago this occurred, and whether the organization existed in a recognizable form from that moment or evolved gradually, is TBD.
+The organization's origins are unknown — when it was founded, by whom exactly, and under what circumstances remains unclear. What is known is that at some point in history, a group of humans encountered alien technology (the Living Suit, bio-engineered creatures, concealment systems) and chose to pursue it for their own power. Serving the Herald's mission was the alternative available to them, and they rejected it. How long ago this occurred, and whether the organization existed in a recognizable form from that moment or evolved gradually, is TBD.
 
 ### Evolution (Unknown → 2070)
 
@@ -41,6 +43,7 @@ There is speculation that [Apophis](../Characters/Apophis.md) — a rogue herald
 
 ## Related
 
+- [History of the Secret Organization](../Events/Secret Organization History.md) — Origin and development from ~3000 BCE to 2070
 - [Alekandras](../Characters/Alekandras.md) — Primary target
 - [Settlement](../Locations/Settlement.md) — Target of the Awakening assault; theories on how it was found
 - [Battle Scene: The Awakening](../Events/Battle Scene.md) — The assault

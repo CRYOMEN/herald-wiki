@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Hidden Settlement is known internally as **Akhet**. It is a community located deep in the Egyptian desert, established over 2,000 years ago by the followers of [Cleopatra VII](../Characters/Cleopatra VII.md) with a sacred mission: to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)) at all costs. For more than two millennia, this settlement has remained completely hidden from the outside world through advanced alien concealment technology.
+The Hidden Settlement is known internally as **Akhet**. It is a community located deep in the Egyptian desert, established over 2,000 years ago by the followers of [Cleopatra VII](../Characters/Cleopatra VII.md) to guard the sleeping Herald ([Alekandras](../Characters/Alekandras.md)). For more than two millennia, this settlement has remained completely hidden from the outside world through advanced alien concealment technology.
 
 ## Location
 
@@ -12,13 +12,9 @@ The Hidden Settlement is known internally as **Akhet**. It is a community locate
 
 ## History
 
-### Foundation (~30 BCE)
+The settlement was established before Cleopatra VII's death, when [Alekandras](../Characters/Alekandras.md) made the decision to enter hibernation. It remained concealed for over two millennia, and the obligation to guard him passed from one generation of her followers to the next.
 
-The settlement was established before Cleopatra VII's death, when [Alekandras](../Characters/Alekandras.md) made the decision to enter hibernation. Cleopatra personally entrusted her most loyal followers with the sacred oath: guard the Herald's tomb until his awakening, no matter the cost.
-
-### 2000 Years of Secrecy (30 BCE - 2070 CE)
-
-For over two millennia, the settlement remained completely hidden from the outside world. Multiple generations of Cleopatra's followers lived, worked, and died while maintaining their ancestral oath. The residents knew they were guarding their god—Amun-Ra—in his sacred slumber. Over time, as understanding deepened and the reality became undeniable, they came to understand the truth: they were guarding a dragon, an alien being in a Living Suit. This knowledge was part of their heritage, passed down through generations along with the sacred duty to protect him.
+For the full chronicle — survival through Rome, Christianization, the Arab conquest, colonial archaeology, the desert war, and the instrument age, together with the evolution of the settlement's internal power — see [History of the Hidden Settlement](../Events/Settlement History.md).
 
 ### Discovery and The Awakening (2070 CE)
 
@@ -120,7 +116,7 @@ A hostile alien entity—possibly [Apophis](../Characters/Apophis.md) or another
 **Implications:**
 - This theory connects to the larger cosmic conflict
 - It suggests the Secret Organization may be unwitting pawns or active collaborators with alien enemies
-- The betrayal would be not just human, but cosmic in scope
+- The betrayal would extend beyond human actors to an alien one
 
 ---
 
@@ -134,6 +130,8 @@ See [Battle Scene: The Awakening](../Events/Battle Scene.md) for the full accoun
 
 ## Related
 
+- [History of the Hidden Settlement](../Events/Settlement History.md) - The 2,000-year chronicle and the evolution of internal power
+- [Settlement Culture](Settlement Culture.md) - The settlement's internal social world
 - [Battle Scene: The Awakening](../Events/Battle Scene.md) - The attack on the settlement
 - [Technology](../Technology/Alien Tech.md) - Alien technology overview
 - [Alekandras](../Characters/Alekandras.md) - The Herald being guarded

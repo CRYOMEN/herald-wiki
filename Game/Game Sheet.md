@@ -27,7 +27,7 @@ Use this file as the master plan/template for the game (or story) as a whole. Fi
 ## 3. Core conflict and stakes
 
 - **Central conflict:** Cosmic threat vs humanity; secret org vs settlement; protagonist's mission vs his limits.
-- **Stakes:** If the protagonist fails, life will vanish.
+- **Stakes:** If the protagonist fails, Earth is consumed by the cosmic threat as the Homeworld was.
 - **Antagonist(s) / opposing forces:** Cosmic threat (see [Homeworld](../Locations/Homeworld.md)); [Secret Organization](../Factions/Secret Organization.md) (ancient paramilitary corporation hunting alien technology); [Apophis](../Characters/Apophis.md) (rogue herald, driven into hiding — status unknown).
 
 ## 4. Main characters

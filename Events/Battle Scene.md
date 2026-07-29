@@ -16,7 +16,7 @@ The settlement mobilizes immediately. Weapons are distributed, heavy weaponry is
 
 The secret organization arrives with tanks and infantry, surrounding the settlement. Their antagonist leader-a ruthless operative-negotiates first: "Guys, you can't handle us, surrender. We only need this place."
 
-But the settlers remain loyal to their ancient oath given by Cleopatra herself. They refuse to surrender.
+The settlers refuse. Surrendering the site is the one thing the settlement was built to prevent.
 
 The firefight begins. Shelling starts-heavy weaponry targets the settlement's defensive turrets. Then infantry combat erupts. The followers take cover, returning fire on the well-armed attackers. The battle rages for hours.
 

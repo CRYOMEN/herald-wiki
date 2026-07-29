@@ -24,7 +24,7 @@ Official services use the language of medicine, security, age, pregnancy, author
 
 Pregnancy from a hybrid carries enormous social weight. It can become prestige, danger, a medical crisis, a cause of family conflict, or a way to secure a young woman's position. Such a child becomes an event for the family, medical services, demographic control, and the settlement's internal politics.
 
-The settlement lives with the internal knowledge that the outside world sees only the thin surface of reality. Beyond the settlement perimeter, dragons, beastfolk, ancient gods, and extraterrestrial civilizations remain myths, theories, folklore, cryptids, religious images, or subjects of mass culture. Inside the settlement, all of this has specific faces, bodies, records, medical consequences, historical records, and technical protocols.
+The settlement lives with the internal knowledge that the outside world sees only the thin surface of reality. Beyond the settlement perimeter, dragons, beastfolk, ancient gods, and extraterrestrial civilizations remain myths, theories, folklore, cryptids, religious images, or subjects of mass culture. Inside the settlement, all of this has specific faces, bodies, medical consequences, historical records, and technical protocols.
 
 This knowledge creates a distinct sense of separation from outside humanity among residents. They use the same gadgets, study at the same universities, watch the same films, and read the same scientific articles, but their picture of the world is deeper. They know that part of human history was misunderstood, part of myth grew out of real encounters, and part of the impossible is simply kept securely hidden.
 

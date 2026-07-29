@@ -10,7 +10,7 @@ TBD. Took place during Alekandras' time in Ancient Egypt (~3000–1070 BC), but 
 
 ## Cause
 
-- The heralds were not a monolith — they had politics and disagreements.
+- The heralds had internal politics and disagreements.
 - Apophis was corrupted by (or aligned with) the cosmic threat, apparently to sabotage the heralds' mission on Earth.
 - While Alekandras worked to guide humanity toward a civilization capable of resisting the cosmic threat, Apophis turned hostile and sought to destroy everything Alekandras was building.
 
@@ -21,7 +21,7 @@ TBD. Took place during Alekandras' time in Ancient Egypt (~3000–1070 BC), but 
 
 ## Outcome
 
-- **Alekandras won**, but the victory was not definitive — he drove Apophis into hiding rather than killing him.
+- **Alekandras won** a partial victory: he drove Apophis into hiding, and Apophis survived.
 - **Apophis's current status is unknown** (hiding, hibernating, or dead — TBD).
 - His serpent creatures and other beast creations may still exist.
 - The war **drained Alekandras' special energy to critically low levels** — a contributing factor in his eventual decision to enter hibernation.

@@ -24,13 +24,13 @@ The aliens are running from it. The entire heralds mission (including [Alekandra
 ## 4. Alien's Society and Politics
 
 - **Government:** The Homeworld has (or had) a governing body - referred to as the "twin planet council" (or equivalent authority) - that decided policy, including which the best minds were chosen for off-world missions.
-- **Not a monolith:** The aliens were not unified. They had politics, disagreements, and internal conflicts. Some believed in helping humanity; others (like [Apophis](../Characters/Apophis.md)) went rogue and turned hostile.
+- **Internal division:** The aliens had politics, disagreements, and internal conflicts. Some believed in helping humanity; others (like [Apophis](../Characters/Apophis.md)) went rogue and turned hostile.
 - **Multiple missions:** Multiple heralds were sent to Earth and they landed at different times and to different regions - this is why ancient, unconnected human cultures all have stories of hybrid beasts (see [Bestiary](../Characters/Bestiary.md)).
 
 ## 5. The Mission
 
 - **Purpose:** Warn humanity about the approaching cosmic threat and help Earth's civilizations advance quickly enough to build a defense before the threat arrives.
-- **Stakes:** If the mission fails, both the Homeworld (already dying) and Earth will be consumed. The protagonist's drive is to save both worlds - theirs and humanity's.
+- **Stakes:** If the mission fails, both the Homeworld (already dying) and Earth will be consumed. The protagonist is trying to save both.
 - **Regional landings:** Each herald landed in a different part of the world - Egypt, Northern Europe, Greece, Asia, North America, and elsewhere - causing localized mythologies based on the fauna we know today (see [Bestiary](../Characters/Bestiary.md)).
 
 ## 6. Connection to Earth
@@ -39,5 +39,5 @@ Earth is not just a random habitable planet. It is a biological sister to the Ho
 
 ## 7. Notes
 
-- The Homeworld is always spoken of as dying or already lost - the heralds are refugees as much as they are messengers.
-- **Planetary consciousness (concept):** In the overall story framework, all celestial bodies possess consciousness. The sister planet connection between the Homeworld and Earth is not merely physical or biological — it is also mental/conscious.
+- The Homeworld is always spoken of as dying or already lost. The heralds are refugees as much as they are messengers.
+- **Planetary consciousness (concept):** In the overall story framework, all celestial bodies possess consciousness. The sister planet connection between the Homeworld and Earth operates on three levels: physical, biological, and mental/conscious.
